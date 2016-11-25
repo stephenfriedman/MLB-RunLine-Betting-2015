@@ -1,0 +1,10117 @@
+
+
+St.Louis	3	+102	7.0	+1.5 -210
+ChiCubs	0	-110	under	-1.5 +192
+ 
+   
+
+
+Toronto	6	+115	8.0	+1.5 -174
+NYYankees	1	-125	under	-1.5 +160
+ 
+				
+Minnesota	0	+140	7.5	+1.5 -148
+Detroit	4	-152	under	-1.5 +136
+ 
+				
+Colorado	10	+134	9.0	+1.5 -162
+Milwaukee	0	-145	over	-1.5 +149
+ 
+				
+Boston	8	-104	7.5	-1.5 +160
+Philadelphia	0	-104	over	+1.5 -174
+ 
+				
+Baltimore	6	+115	7.0	+1.5 -190
+TampaBay	2	-125	over	-1.5 +174
+ 
+				
+NYMets	3	+154	7.0	+1.5 -148
+Washington	1	-167	under	-1.5 +136
+ 
+				
+Atlanta	2	+136	7.0	+1.5 -165
+Miami	1	-148	under	-1.5 +152
+ 
+				
+ChiSox	1	+111	7.5	+1.5 -192
+KansasCity	10	-120	over	-1.5 +176
+ 
+				
+SanDiego	3	+176	6.0	+1.5 -137
+LADodgers	6	-192	over	-1.5 +126
+ 
+				
+LAAngels	1	+142	6.5	+1.5 -166
+Seattle	4	-154	under	-1.5 +153
+ 
+				
+Pittsburgh	2	+109	7.0	+1.5 -208
+Cincinnati	5	-118	push	-1.5 +190
+ 
+				
+Cleveland	0	-109	7.5	-1.5 +160
+Houston	2	+101	under	+1.5 -174
+ 
+				
+Texas	0	+144	7.0	+1.5 -149
+Oakland	8	-156	over	-1.5 +137
+ 
+				
+SFGiants	5	-134	7.5	-1.5 +129
+Arizona	4	+124	over	+1.5 -140
+ 
+  
+
+				
+Baltimore	6	-105	7.0	-1.5 +152
+TampaBay	5	-103	over	+1.5 -165
+ 
+				
+Atlanta	12	+126	7.0	+1.5 -182
+Miami	2	-137	over	-1.5 +167
+ 
+				
+Colorado	5	+114	8.0	+1.5 -189
+Milwaukee	2	-123	under	-1.5 +174
+ 
+  				
+SFGiants	6	-105	8.5	-1.5 +149
+Arizona	7	-103	over	+1.5 -162
+ 
+				
+Texas	3	+146	7.5	+1.5 -144
+Oakland	1	-158	under	-1.5 +133
+ 
+				
+LAAngels	2	+107	7.0	+1.5 -199
+Seattle	0	-116	under	-1.5 +182
+ 
+				
+SanDiego	7	+130	6.5	+1.5 -185
+LADodgers	3	-141	over	-1.5 +170
+ 
+  
+
+				
+Minnesota	0	+146	8.5	+1.5 -148
+Detroit	11	-159	over	-1.5 +136
+ 
+ 				
+St.Louis	0	+104	6.5	-1.5 +170
+ChiCubs	2	-113	under	+1.5 -185
+ 
+				
+Toronto	3	+118	6.5	+1.5 -192
+NYYankees	4	-128	over	-1.5 +176
+ 
+				
+NYMets	1	+126	6.5	+1.5 -185
+Washington	2	-137	under	-1.5 +170
+ 
+				
+Boston	2	-137	7.5	-1.5 +126
+Philadelphia	4	+126	under	+1.5 -137
+ 
+				
+Atlanta	2	+121	7.5	+1.5 -181
+Miami	0	-131	under	-1.5 +166
+ 
+				
+Baltimore	0	+100	7.5	+1.5 -208
+TampaBay	2	-108	under	-1.5 +190
+ 
+				
+Pittsburgh	4	-119	7.5	-1.5 +140
+Cincinnati	5	+110	over	+1.5 -152
+ 
+				
+ChiSox	5	+111	7.5	+1.5 -199
+KansasCity	7	-120	over	-1.5 +182
+ 
+				
+Cleveland	2	-119	8.5	-1.5 +138
+Houston	0	+110	under	+1.5 -150
+ 
+				
+Colorado	5	+120	8.5	+1.5 -180
+Milwaukee	4	-130	over	-1.5 +165
+ 
+  				
+SFGiants	5	+105	8.5	+1.5 -185
+Arizona	2	-114	under	-1.5 +170
+ 
+				
+Texas	0	+141	7.0	+1.5 -153
+Oakland	10	-153	over	-1.5 +141
+ 
+				
+LAAngels	5	+117	7.0	+1.5 -185
+Seattle	3	-127	over	-1.5 +170
+ 
+				
+SanDiego	4	+109	7.0	+1.5 -203
+LADodgers	7	-118	over	-1.5 +186
+ 
+  
+
+				
+Pittsburgh	2	-110	8.0	-1.5 +151
+Cincinnati	3	+102	under	+1.5 -164
+ 
+				
+NYMets	6	+100	6.0	+1.5 -239
+Washington	3	-108	over	-1.5 +218
+ 
+				
+Minnesota	1	+123	9.0	+1.5 -163
+Detroit	7	-133	under	-1.5 +150
+ 
+				
+Cleveland	5	-105	9.0	-1.5 +154
+Houston	1	-103	under	+1.5 -167
+ 
+				
+ChiSox	1	+123	8.5	+1.5 -163
+KansasCity	4	-133	under	-1.5 +150
+ 
+				
+Texas	10	+141	7.5	+1.5 -158
+Oakland	1	-153	over	-1.5 +146
+ 
+  				
+SFGiants	1	+120	7.0	+1.5 -191
+SanDiego	0	-130	under	-1.5 +175
+ 
+				
+Toronto	6	-128	7.0	-1.5 +129
+NYYankees	3	+118	over	+1.5 -140
+ 
+				
+Boston	6	-125	7.5	-1.5 +136
+Philadelphia	2	+115	over	+1.5 -148
+ 
+   
+
+				
+Toronto	12	+107	8.5	+1.5 -184
+Baltimore	5	-116	over	-1.5 +169
+ 
+				
+Houston	5	+101	8.0	+1.5 -203
+Texas	1	-109	under	-1.5 +186
+ 
+				
+ChiCubs	1	+123	10.0	+1.5 -166
+Colorado	5	-133	under	-1.5 +153
+ 
+				
+Detroit	8	+111	8.5	+1.5 -186
+Cleveland	4	-120	over	-1.5 +171
+ 
+				
+Minnesota	6	+102	9.0	+1.5 -193
+ChiSox	0	-110	under	-1.5 +177
+ 
+				
+Washington	1	-160	7.5	-1.5 +109
+Philadelphia	4	+147	under	+1.5 -118
+ 
+				
+Boston	6	+100	8.0	-1.5 +156
+NYYankees	5	-108	over	+1.5 -170
+ 
+				
+TampaBay	9	+111	7.5	+1.5 -191
+Miami	10	-120	over	-1.5 +175
+ 
+				
+St.Louis	4	-124	8.0	-1.5 +132
+Cincinnati	5	+115	over	+1.5 -143
+ 
+				
+NYMets	3	-113	7.0	-1.5 +150
+Atlanta	5	+104	over	+1.5 -163
+ 
+				
+Pittsburgh	6	+119	7.5	+1.5 -180
+Milwaukee	2	-129	over	-1.5 +165
+ 
+				
+LADodgers	3	-115	8.5	-1.5 +146
+Arizona	4	+106	under	+1.5 -159
+ 
+				
+KansasCity	4	+121	7.5	+1.5 -182
+LAAngels	2	-131	under	-1.5 +167
+ 
+				
+Seattle	0	-101	7.0	+1.5 -215
+Oakland	12	-107	over	-1.5 +197
+ 
+				
+SFGiants	0	+108	7.0	+1.5 -211
+SanDiego	1	-117	under	-1.5 +193
+ 
+  
+
+				
+Boston	8	+104	8.5	+1.5 -200
+NYYankees	4	-113	over	-1.5 +183
+ 
+				
+St.Louis	4	+112	6.5	+1.5 -205
+Cincinnati	1	-121	under	-1.5 +188
+ 
+				
+Minnesota	4	+140	8.5	+1.5 -152
+ChiSox	5	-152	over	-1.5 +140
+ 
+				
+Seattle	5	+127	7.0	+1.5 -177
+Oakland	4	-138	over	-1.5 +163
+ 
+				
+TampaBay	2	-105	7.0	-1.5 +162
+Miami	0	-103	under	+1.5 -177
+ 
+				
+Detroit	9	-109	6.5	-1.5 +156
+Cleveland	6	+101	over	+1.5 -170
+ 
+				
+Toronto	1	+101	8.0	-1.5 +161
+Baltimore	7	-109	push	+1.5 -175
+ 
+				
+Washington	2	-106	6.5	-1.5 +161
+Philadelphia	3	-102	under	+1.5 -175
+ 
+				
+Pittsburgh	0	+116	8.0	-1.5 +169
+Milwaukee	6	-126	under	+1.5 -184
+ 
+				
+NYMets	3	+112	6.5	+1.5 -200
+Atlanta	5	-121	over	-1.5 +183
+ 
+				
+Houston	2	+112	8.5	+1.5 -178
+Texas	6	-121	under	-1.5 +164
+ 
+				
+ChiCubs	9	-101	10.5	+1.5 -199
+Colorado	5	-107	over	-1.5 +182
+ 
+				
+LADodgers	0	-184	7.5	-1.5 -114
+Arizona	6	+169	under	+1.5 +105
+ 
+ 				
+SFGiants	2	+103	6.0	-1.5 +174
+SanDiego	10	-111	over	+1.5 -190
+ 
+				
+KansasCity	6	+121	7.5	+1.5 -175
+LAAngels	4	-131	over	-1.5 +161
+ 
+ 
+
+				
+Detroit	8	-115	8.0	-1.5 +151
+Cleveland	5	+106	over	+1.5 -164
+ 
+				
+St.Louis	7	-116	8.0	-1.5 +143
+Cincinnati	5	+107	over	+1.5 -155
+ 
+				
+TampaBay	8	+113	7.5	+1.5 -192
+Miami	5	-122	over	-1.5 +176
+ 
+				
+NYMets	4	+113	6.5	+1.5 -201
+Atlanta	3	-122	over	-1.5 +184
+ 
+				
+Washington	4	-182	7.0	-1.5 -108
+Philadelphia	3	+167	push	+1.5 +100
+ 
+				
+Toronto	10	+108	8.0	+1.5 -192
+Baltimore	7	-117	over	-1.5 +176
+ 
+				
+Minnesota	2	+148	7.5	+1.5 -148
+ChiSox	6	-161	over	-1.5 +136
+ 
+				
+Pittsburgh	10	+101	8.5	+1.5 -215
+Milwaukee	2	-109	over	-1.5 +197
+ 
+				
+Houston	6	-122	8.5	-1.5 +137
+Texas	4	+113	over	+1.5 -149
+ 
+				
+KansasCity	9	+108	7.0	+1.5 -200
+LAAngels	2	-117	over	-1.5 +183
+ 
+				
+Seattle	8	-131	6.5	-1.5 +131
+Oakland	7	+121	over	+1.5 -142
+ 
+				
+LADodgers	7	-138	7.5	-1.5 +118
+Arizona	4	+127	over	+1.5 -128
+ 
+				
+SFGiants	4	+120	6.5	+1.5 -195
+SanDiego	6	-130	over	-1.5 +179
+ 
+				
+ChiCubs	6	-115	9.5	-1.5 +143
+Colorado	5	+106	over	+1.5 -155
+ 
+				
+Boston	4	+109	7.0	+1.5 -194
+NYYankees	14	-118	over	-1.5 +178
+ 
+  
+
+				
+Philadelphia	0	+151	7.0	+1.5 -153
+NYMets	2	-164	under	-1.5 +141
+ 
+				
+Detroit	4	+126	7.5	+1.5 -174
+Pittsburgh	5	-137	over	-1.5 +160
+ 
+				
+Washington	4	+126	8.5	+1.5 -174
+Boston	9	-137	over	-1.5 +160
+ 
+				
+KansasCity	12	-128	8.5	-1.5 +131
+Minnesota	3	+118	over	+1.5 -142
+ 
+				
+Milwaukee	5	+156	7.5	+1.5 -148
+St.Louis	4	-169	over	-1.5 +136
+ 
+				
+Colorado	2	+118	7.5	+1.5 -188
+SFGiants	0	-128	under	-1.5 +173
+ 
+				
+NYYankees	6	+104	7.5	+1.5 -203
+Baltimore	5	-113	over	-1.5 +186
+ 
+			
+TampaBay	2	+121	8.5	+1.5 -175
+Toronto	1	-131	under	-1.5 +161
+ 
+				
+Miami	2	-105	7.0	+1.5 -214
+Atlanta	3	-103	under	-1.5 +196
+ 
+				
+LAAngels	6	-130	9.0	-1.5 +124
+Texas	3	+120	push	+1.5 -134
+ 
+				
+Cincinnati	6	+131	7.5	+1.5 -170
+ChiCubs	7	-142	over	-1.5 +156
+ 
+				
+Oakland	8	-114	8.5	-1.5 +147
+Houston	1	+105	over	+1.5 -160
+ 
+				
+Seattle	5	+109	7.0	+1.5 -199
+LADodgers	6	-118	over	-1.5 +182
+ 
+				
+Arizona	8	+138	6.5	+1.5 -171
+SanDiego	4	-150	over	-1.5 +157
+ 
+ 
+
+				
+Washington	7	+116	8.0	+1.5 -182
+Boston	8	-126	over	-1.5 +167
+ 
+				
+NYYankees	3	+101	8.0	+1.5 -202
+Baltimore	4	-109	under	-1.5 +185
+ 
+				
+Detroit	2	+102	7.5	+1.5 -200
+Pittsburgh	0	-110	under	-1.5 +183
+ 			
+TampaBay	3	+135	8.0	+1.5 -154
+Toronto	2	-146	under	-1.5 +142
+ 
+				
+Philadelphia	5	+195	6.5	+1.5 -120
+NYMets	6	-213	over	-1.5 +111
+ 
+				
+ChiSox	4	+114	7.0	+1.5 -189
+Cleveland	1	-123	under	-1.5 +174
+ 
+				
+Miami	8	-116	7.5	-1.5 +146
+Atlanta	2	+107	over	+1.5 -159
+ 
+				
+LAAngels	2	-116	9.0	-1.5 +148
+Texas	8	+107	over	+1.5 -161
+ 
+				
+Cincinnati	3	+132	7.0	+1.5 -175
+ChiCubs	2	-143	under	-1.5 +161
+ 
+				
+Oakland	4	+103	9.0	-1.5 +156
+Houston	0	-111	under	+1.5 -170
+ 
+				
+Arizona	1	+115	6.5	+1.5 -191
+SanDiego	5	-124	under	-1.5 +175
+ 
+				
+Seattle	5	-113	7.5	-1.5 +143
+LADodgers	6	+104	over	+1.5 -155
+ 
+
+Colorado	4	+113	7.0	+1.5 -208
+SFGiants	1	-122	under	-1.5 +190
+ 
+  
+
+			
+Miami	6	-125	7.5	-1.5 +140
+Atlanta	2	+115	over	+1.5 -152
+ 
+				
+ChiSox	2	+111	7.5	+1.5 -192
+Cleveland	4	-120	under	-1.5 +176
+ 
+				
+Washington	10	+110	9.0	+1.5 -180
+Boston	5	-119	over	-1.5 +165
+ 
+				
+LAAngels	10	-119	9.0	-1.5 +133
+Texas	2	+110	over	+1.5 -144
+ 
+				
+NYYankees	5	-102	7.5	+1.5 -215
+Baltimore	7	-106	over	-1.5 +197
+ 
+				
+Detroit	1	+133	7.5	+1.5 -164
+Pittsburgh	0	-144	under	-1.5 +151
+ 
+				
+TampaBay	7	+123	8.5	+1.5 -165
+Toronto	12	-133	over	-1.5 +152
+ 
+				
+Philadelphia	1	+147	7.0	+1.5 -160
+NYMets	6	-160	push	-1.5 +147
+ 
+				
+Cincinnati	0	+127	7.0	+1.5 -180
+ChiCubs	5	-138	under	-1.5 +165
+ 
+				
+KansasCity	1	-122	8.0	-1.5 +143
+Minnesota	3	+113	under	+1.5 -155
+ 
+				
+Oakland	1	-103	7.5	+1.5 -225
+Houston	6	-105	under	-1.5 +206
+ 
+				
+Milwaukee	2	+138	7.0	+1.5 -165
+St.Louis	4	-150	under	-1.5 +152
+ 
+				
+Arizona	2	+120	6.5	+1.5 -195
+SanDiego	3	-130	under	-1.5 +179
+ 
+				
+Seattle	2	+122	7.5	+1.5 -198
+LADodgers	5	-132	under	-1.5 +182
+ 
+				
+Colorado	4	-103	7.0	+1.5 -220
+SFGiants	2	-105	under	-1.5 +201
+ 
+   
+
+				
+KansasCity	5	-113	7.5	-1.5 +147
+Minnesota	8	+104	over	+1.5 -160
+ 
+				
+Milwaukee	0	+129	7.5	+1.5 -170
+St.Louis	4	-140	under	-1.5 +156
+ 
+				
+Philadelphia	2	+125	6.5	+1.5 -190
+Washington	5	-135	over	-1.5 +174
+ 
+				
+TampaBay	4	-106	8.5	+1.5 -216
+Toronto	2	-102	under	-1.5 +198
+ 
+				
+Miami	5	-104	7.0	+1.5 -239
+NYMets	7	-104	over	-1.5 +218
+ 
+				
+Arizona	7	+155	6.5	+1.5 -155
+SFGiants	6	-168	over	-1.5 +143
+ 
+  
+
+				
+ChiSox	1	+147	8.0	+1.5 -148
+Detroit	2	-160	under	-1.5 +136
+ 
+ 				
+SanDiego	5	+109	7.5	+1.5 -199
+ChiCubs	4	-118	over	-1.5 +182
+ 
+				
+Philadelphia	2	+219	7.0	+1.5 -104
+Washington	7	-240	over	-1.5 -104
+ 
+				
+Milwaukee	3	+114	7.5	+1.5 -200
+Pittsburgh	6	-123	over	-1.5 +183
+ 
+				
+Atlanta	8	+144	7.5	+1.5 -143
+Toronto	7	-156	over	-1.5 +132
+ 
+				
+Miami	1	+125	7.5	+1.5 -191
+NYMets	4	-135	under	-1.5 +175
+ 
+				
+Baltimore	2	+132	9.0	+1.5 -160
+Boston	3	-143	under	-1.5 +147
+ 
+				
+NYYankees	5	-104	7.5	+1.5 -210
+TampaBay	4	-104	over	-1.5 +192
+ 
+				
+LAAngels	6	-113	9.0	-1.5 +141
+Houston	3	+104	push	+1.5 -153
+ 
+				
+Oakland	4	-115	7.5	-1.5 +148
+KansasCity	6	+106	over	+1.5 -161
+ 
+				
+Cleveland	2	-184	8.5	-1.5 -115
+Minnesota	3	+169	under	+1.5 +106
+ 
+				
+Cincinnati	1	+109	6.5	+1.5 -201
+St.Louis	6	-118	over	-1.5 +184
+ 
+				
+Colorado	3	+241	6.5	+1.5 +102
+LADodgers	7	-265	over	-1.5 -110
+ 
+				
+Texas	3	+150	7.0	+1.5 -147
+Seattle	1	-163	under	-1.5 +136
+ 
+				
+Arizona	9	+130	7.0	+1.5 -178
+SFGiants	0	-141	over	-1.5 +164
+ 
+  
+
+				
+Philadelphia	5	+157	7.0	+1.5 -140
+Washington	3	-171	over	-1.5 +129
+ 				
+Atlanta	5	+156	8.0	+1.5 -133
+Toronto	6	-170	over	-1.5 +123
+ 
+				
+ChiSox	12	+103	7.5	+1.5 -201
+Detroit	3	-111	over	-1.5 +184
+ 
+				
+Cleveland	4	-104	8.5	+1.5 -212
+Minnesota	2	-104	under	-1.5 +194
+ 
+				
+Cincinnati	2	+129	7.5	+1.5 -170
+St.Louis	5	-140	under	-1.5 +156
+ 
+  				
+SanDiego	6	+109	7.0	+1.5 -204
+ChiCubs	7	-118	over	-1.5 +187
+ 
+				
+Baltimore	4	+120	8.5	+1.5 -180
+Boston	1	-130	under	-1.5 +165
+ 
+				
+Milwaukee	2	+128	7.5	+1.5 -164
+Pittsburgh	6	-139	over	-1.5 +151
+ 
+				
+Oakland	5	+116	7.5	+1.5 -190
+KansasCity	0	-126	under	-1.5 +174
+ 
+				
+Miami	4	+118	6.5	+1.5 -190
+NYMets	5	-128	over	-1.5 +174
+ 
+				
+LAAngels	0	+106	8.5	+1.5 -190
+Houston	4	-115	under	-1.5 +174
+ 
+				
+NYYankees	9	-108	7.0	-1.5 +154
+TampaBay	0	+100	over	+1.5 -167
+ 
+				
+Arizona	1	+131	7.0	+1.5 -168
+SFGiants	4	-142	under	-1.5 +155
+ 
+				
+Colorado	3	+165	7.0	+1.5 -139
+LADodgers	6	-180	over	-1.5 +128
+ 
+				
+Texas	1	+182	6.5	+1.5 -126
+Seattle	3	-199	under	-1.5 +116
+ 
+  
+
+				
+Atlanta	5	+158	8.5	+1.5 -126
+Toronto	2	-172	under	-1.5 +116
+ 
+				
+ChiSox	1	+128	8.0	+1.5 -163
+Detroit	9	-139	over	-1.5 +150
+ 
+				
+Miami	6	+159	6.5	+1.5 -150
+NYMets	7	-173	over	-1.5 +138
+ 
+				
+NYYankees	5	-126	7.0	-1.5 +136
+TampaBay	3	+116	over	+1.5 -148
+ 
+				
+Baltimore	8	+128	8.0	+1.5 -160
+Boston	3	-139	over	-1.5 +147
+ 
+				
+Philadelphia	1	+208	7.5	+1.5 -112
+Washington	4	-228	under	-1.5 +104
+ 				
+Milwaukee	2	+156	7.0	+1.5 -144
+Pittsburgh	5	-170	push	-1.5 +133
+ 
+				
+LAAngels	3	-115	8.5	-1.5 +146
+Houston	4	+106	under	+1.5 -159
+ 
+				
+Oakland	2	-110	7.0	-1.5 +156
+KansasCity	4	+102	under	+1.5 -170
+ 
+				
+Cleveland	2	-110	8.5	-1.5 +149
+Minnesota	7	+102	over	+1.5 -162
+ 
+  				
+SanDiego	5	+112	7.0	+1.5 -208
+ChiCubs	2	-121	push	-1.5 +190
+ 
+				
+Arizona	5	+127	7.5	+1.5 -181
+SFGiants	1	-138	under	-1.5 +166
+ 
+				
+Colorado	0	+149	8.0	+1.5 -156
+LADodgers	7	-162	under	-1.5 +144
+ 
+				
+Texas	10	+151	7.0	+1.5 -152
+Seattle	11	-164	over	-1.5 +140
+ 
+				
+Cincinnati	1	+170	7.0	+1.5 -136
+St.Louis	2	-185	under	-1.5 +126
+ 
+  
+
+				
+Baltimore	1	+122	8.5	+1.5 -177
+Boston	7	-132	under	-1.5 +163
+ 
+				
+ChiCubs	5	-103	7.0	+1.5 -223
+Pittsburgh	2	-105	push	-1.5 +204
+ 
+				
+NYYankees	1	+112	9.0	+1.5 -186
+Detroit	2	-121	under	-1.5 +171
+ 
+			
+Cincinnati	6	-108	8.0	+1.5 -226
+Milwaukee	1	+100	under	-1.5 +206
+ 
+				
+Cleveland	3	+101	9.0	-1.5 +148
+ChiSox	4	-109	under	+1.5 -161
+ 
+				
+Minnesota	1	+133	8.0	+1.5 -160
+KansasCity	7	-144	push	-1.5 +147
+ 
+  				
+SanDiego	14	+132	9.5	+1.5 -150
+Colorado	3	-143	over	-1.5 +138
+ 
+				
+Oakland	6	+139	7.5	+1.5 -150
+LAAngels	3	-151	over	-1.5 +138
+ 
+				
+Houston	7	+179	7.5	+1.5 -124
+Seattle	5	-195	over	-1.5 +115
+ 
+
+
+				
+Miami	3	-125	7.5	-1.5 +143
+Philadelphia	7	+115	over	+1.5 -155
+ 
+				
+St.Louis	1	+106	7.0	+1.5 -215
+Washington	2	-115	under	-1.5 +197
+ 
+				
+ChiCubs	9	+137	7.0	+1.5 -160
+Pittsburgh	8	-149	over	-1.5 +147
+ 
+				
+Baltimore	6	+116	9.0	+1.5 -174
+Toronto	13	-126	over	-1.5 +160
+ 
+				
+NYYankees	5	+107	8.5	+1.5 -194
+Detroit	2	-116	under	-1.5 +178
+ 
+				
+Atlanta	1	+141	7.0	+1.5 -157
+NYMets	7	-153	over	-1.5 +145
+ 
+				
+Boston	1	+107	7.5	+1.5 -202
+TampaBay	0	-116	under	-1.5 +185
+ 
+				
+Cleveland	6	-127	8.5	-1.5 +134
+ChiSox	2	+117	under	+1.5 -145
+ 
+				
+Cincinnati	16	+115	8.0	+1.5 -179
+Milwaukee	10	-125	over	-1.5 +165
+ 
+				
+Minnesota	5	+132	8.0	+1.5 -162
+KansasCity	6	-143	over	-1.5 +149
+
+				
+SanDiego	7	-101	10.0	+1.5 -190
+Colorado	6	-107	over	-1.5 +174
+ 
+  				
+Texas	7	+129	9.0	+1.5 -163
+Arizona	1	-140	under	-1.5 +150
+ 
+				
+Oakland	1	+109	7.5	+1.5 -194
+LAAngels	14	-118	over	-1.5 +178
+ 
+				
+Houston	6	+112	7.0	-1.5 +175
+Seattle	3	-121	over	+1.5 -191
+ 
+				
+LADodgers	2	-123	7.0	-1.5 +138
+SFGiants	6	+114	over	+1.5 -150
+ 
+  
+
+				
+Cleveland	0	-118	7.5	-1.5 +143
+ChiSox	6	+109	under	+1.5 -155
+ 
+				
+Miami	6	+117	7.0	+1.5 -190
+Philadelphia	1	-127	push	-1.5 +174
+ 
+				
+St.Louis	7	-107	7.0	-1.5 +156
+Washington	5	-101	over	+1.5 -170
+ 
+				
+ChiCubs	3	+102	7.5	+1.5 -209
+Pittsburgh	4	-110	under	-1.5 +191
+ 
+				
+Baltimore	2	-111	8.5	-1.5 +145
+Toronto	4	+103	under	+1.5 -157
+ 
+				
+NYYankees	13	+168	7.5	+1.5 -130
+Detroit	4	-183	over	-1.5 +120
+ 
+				
+Atlanta	2	+119	7.5	+1.5 -185
+NYMets	3	-129	under	-1.5 +170
+ 
+				
+Boston	5	-123	7.5	-1.5 +135
+TampaBay	7	+114	over	+1.5 -146
+ 
+				
+Cincinnati	2	-137	7.0	-1.5 +121
+Milwaukee	1	+126	under	+1.5 -131
+ 
+				
+Minnesota	3	+136	8.5	+1.5 -154
+KansasCity	0	-147	under	-1.5 +142
+ 
+ 				
+SanDiego	4	-108	10.0	-1.5 +150
+Colorado	5	+100	under	+1.5 -163
+ 
+ 				
+Texas	5	-102	8.5	+1.5 -204
+Arizona	8	-106	over	-1.5 +187
+ 
+				
+Oakland	9	-101	7.5	-1.5 +148
+LAAngels	2	-107	over	+1.5 -161
+ 
+				
+Houston	2	+146	7.5	+1.5 -151
+Seattle	3	-158	under	-1.5 +139
+ 
+				
+LADodgers	2	-140	5.5	-1.5 +141
+SFGiants	3	+129	under	+1.5 -153
+ 
+ 
+
+				
+ChiCubs	4	-116	7.0	-1.5 +151
+Pittsburgh	5	+107	over	+1.5 -164
+ 
+				
+Miami	9	-121	7.5	-1.5 +138
+Philadelphia	1	+112	over	+1.5 -150
+ 
+				
+NYYankees	2	-106	7.5	-1.5 +156
+Detroit	1	-102	under	+1.5 -170
+ 
+				
+Atlanta	3	+120	7.0	+1.5 -192
+NYMets	6	-130	over	-1.5 +176
+ 
+  				
+Cincinnati	2	+100	8.0	-1.5 +153
+Milwaukee	4	-108	under	+1.5 -166
+ 
+				
+SanDiego	1	+100	10.0	-1.5 +159
+Colorado	2	-108	under	+1.5 -173
+ 
+				
+LADodgers	2	-108	7.5	-1.5 +160
+SFGiants	3	+100	under	+1.5 -174
+ 
+				
+St.Louis	4	+122	6.5	+1.5 -184
+Washington	1	-132	under	-1.5 +169
+ 
+				
+Oakland	0	+106	8.0	+1.5 -195
+LAAngels	2	-115	under	-1.5 +179
+ 
+				
+Baltimore	6	+116	8.5	+1.5 -187
+Toronto	7	-126	over	-1.5 +172
+ 
+				
+Boston	1	+102	7.5	+1.5 -210
+TampaBay	2	-110	under	-1.5 +192
+ 
+				
+KansasCity	3	+135	7.0	+1.5 -169
+ChiSox	2	-146	under	-1.5 +156
+ 
+   
+
+				
+Atlanta	0	-121	7.0	-1.5 +146
+Philadelphia	1	+112	under	+1.5 -158
+ 
+				
+NYMets	1	+135	7.0	+1.5 -165
+NYYankees	6	-146	push	-1.5 +152
+ 
+				
+Boston	7	-112	8.0	-1.5 +143
+Baltimore	5	+104	over	+1.5 -155
+ 
+				
+Cleveland	13	+106	8.0	+1.5 -191
+Detroit	1	-115	over	-1.5 +175
+ 
+				
+ChiCubs	7	-101	7.0	+1.5 -214
+Cincinnati	3	-107	over	-1.5 +196
+ 
+				
+Washington	2	-117	7.5	-1.5 +151
+Miami	3	+108	under	+1.5 -164
+ 
+				
+Toronto	3	+114	7.5	+1.5 -196
+TampaBay	12	-123	over	-1.5 +180
+ 
+				
+KansasCity	2	+115	7.5	+1.5 -185
+ChiSox	3	-124	under	-1.5 +170
+ 
+				
+St.Louis	3	-140	7.5	-1.5 +119
+Milwaukee	0	+129	under	+1.5 -129
+ 
+ 				
+SFGiants	4	-123	10.0	-1.5 +130
+Colorado	6	+114	push	+1.5 -141
+ 
+  				
+Pittsburgh	4	-127	8.0	-1.5 +135
+Arizona	1	+117	under	+1.5 -146
+ 
+				
+Houston	5	+120	7.0	+1.5 -183
+Oakland	4	-130	over	-1.5 +168
+ 
+				
+Texas	2	+159	8.0	+1.5 -134
+LAAngels	3	-173	under	-1.5 +124
+ 
+				
+LADodgers	3	-117	6.5	-1.5 +147
+SanDiego	0	+108	under	+1.5 -160
+ 
+				
+Minnesota	0	+179	6.5	+1.5 -128
+Seattle	2	-195	under	-1.5 +118
+ 
+   
+
+				
+Cleveland	1	-104	8.5	+1.5 -210
+Detroit	4	-104	under	-1.5 +192
+ 
+				
+Houston	9	+104	8.5	+1.5 -192
+Oakland	3	-113	over	-1.5 +176
+ 
+				
+NYMets	8	+120	7.0	+1.5 -179
+NYYankees	2	-130	over	-1.5 +165
+ 
+				
+Washington	0	-140	7.5	-1.5 +121
+Miami	8	+129	over	+1.5 -131
+ 
+				
+Toronto	2	-105	8.5	-1.5 +159
+TampaBay	4	-103	under	+1.5 -173
+ 
+				
+Boston	4	+101	8.5	+1.5 -203
+Baltimore	5	-109	over	-1.5 +186
+ 
+				
+Atlanta	5	-114	7.5	-1.5 +147
+Philadelphia	2	+105	under	+1.5 -160
+ 
+				
+St.Louis	5	-160	7.5	-1.5 +103
+Milwaukee	3	+147	over	+1.5 -111
+ 
+				
+Pittsburgh	2	-128	9.0	-1.5 +126
+Arizona	1	+118	under	+1.5 -136
+ 
+				
+SFGiants	5	+123	9.5	+1.5 -160
+Colorado	4	-133	under	-1.5 +147
+ 
+ 				
+LADodgers	11	-118	6.5	-1.5 +147
+SanDiego	8	+109	over	+1.5 -160
+ 
+				
+Texas	1	+134	7.5	+1.5 -160
+LAAngels	4	-145	under	-1.5 +147
+ 
+				
+Minnesota	8	+138	7.5	+1.5 -160
+Seattle	5	-150	over	-1.5 +147
+ 
+   
+
+				
+Cleveland	6	-108	8.0	-1.5 +148
+Detroit	8	+100	over	+1.5 -161
+ 
+				
+Toronto	1	+131	7.5	+1.5 -162
+TampaBay	5	-142	under	-1.5 +149
+ 
+				
+ChiCubs	5	-116	7.0	-1.5 +146
+Cincinnati	2	+107	push	+1.5 -158
+ 
+				
+Washington	2	-112	7.5	-1.5 +150
+Miami	6	+104	over	+1.5 -163
+ 
+				
+Atlanta	4	-105	7.5	+1.5 -220
+Philadelphia	5	-103	over	-1.5 +201
+ 
+				
+Boston	7	-104	8.5	-1.5 +160
+Baltimore	18	-104	over	+1.5 -174
+ 
+				
+KansasCity	3	-120	8.0	-1.5 +136
+ChiSox	5	+111	push	+1.5 -147
+ 
+				
+St.Louis	3	-125	7.0	-1.5 +130
+Milwaukee	6	+115	over	+1.5 -141
+ 
+				
+Texas	5	+141	8.0	+1.5 -154
+LAAngels	4	-153	over	-1.5 +142
+ 
+				
+Houston	7	+149	8.0	+1.5 -140
+Oakland	6	-162	over	-1.5 +129
+ 
+				
+Minnesota	4	+135	7.5	+1.5 -160
+Seattle	2	-146	under	-1.5 +147
+ 
+				
+LADodgers	1	+117	7.5	+1.5 -190
+SanDiego	3	-127	under	-1.5 +174
+ 
+				
+Pittsburgh	8	-131	8.0	-1.5 +127
+Arizona	0	+121	push	+1.5 -138
+ 
+				
+NYMets	4	+138	8.0	+1.5 -150
+NYYankees	6	-150	over	-1.5 +138
+ 
+   
+
+				
+KansasCity	6	+131	6.5	+1.5 -180
+Cleveland	2	-142	over	-1.5 +165
+ 
+				
+Toronto	5	+126	9.0	+1.5 -159
+Boston	6	-137	over	-1.5 +146
+ 
+				
+TampaBay	1	+114	8.5	+1.5 -177
+NYYankees	4	-123	under	-1.5 +163
+ 
+				
+Milwaukee	6	+115	7.5	+1.5 -192
+Cincinnati	9	-125	over	-1.5 +176
+ 
+				
+NYMets	3	+123	7.5	+1.5 -185
+Miami	1	-133	under	-1.5 +170
+ 
+				
+Washington	4	-132	7.0	-1.5 +133
+Atlanta	8	+122	over	+1.5 -144
+ 
+				
+Seattle	3	+101	9.0	+1.5 -199
+Texas	1	-109	under	-1.5 +182
+ 
+				
+Pittsburgh	0	+110	7.0	+1.5 -199
+ChiCubs	4	-119	under	-1.5 +182
+ 
+				
+Detroit	5	-158	7.5	-1.5 +106
+Minnesota	4	+146	over	+1.5 -115
+ 
+				
+Philadelphia	4	+128	6.5	+1.5 -182
+St.Louis	1	-139	under	-1.5 +167
+ 
+  				
+Colorado	5	+126	8.5	+1.5 -171
+Arizona	4	-137	over	-1.5 +157
+ 
+				
+Houston	9	+107	6.5	+1.5 -218
+SanDiego	4	-116	over	-1.5 +199
+ 
+				
+SFGiants	3	+138	7.5	+1.5 -164
+LADodgers	8	-150	over	-1.5 +151
+ 
+  
+
+				
+KansasCity	11	+125	7.5	+1.5 -173
+Cleveland	5	-135	over	-1.5 +159
+ 
+				
+Toronto	11	+115	8.5	+1.5 -177
+Boston	8	-124	over	-1.5 +163
+ 
+				
+TampaBay	2	-103	8.0	+1.5 -211
+NYYankees	4	-105	under	-1.5 +193
+ 
+				
+NYMets	3	+117	7.5	+1.5 -190
+Miami	4	-127	under	-1.5 +174
+ 
+				
+Washington	13	+104	7.0	+1.5 -214
+Atlanta	12	-113	over	-1.5 +196
+ 
+				
+Milwaukee	2	+170	7.0	+1.5 -137
+Cincinnati	4	-185	under	-1.5 +126
+ 
+				
+Seattle	2	-115	8.5	-1.5 +141
+Texas	1	+106	under	+1.5 -153
+ 
+				
+Pittsburgh	2	-108	8.0	-1.5 +152
+ChiCubs	6	+100	push	+1.5 -165
+ 
+				
+Detroit	2	-138	9.0	-1.5 +118
+Minnesota	3	+127	under	+1.5 -128
+
+				
+Philadelphia	5	+194	7.0	+1.5 -107
+St.Louis	11	-212	over	-1.5 -101
+ 
+  				
+Colorado	5	+104	9.0	+1.5 -198
+Arizona	12	-112	over	-1.5 +182
+ 
+				
+LAAngels	2	+130	7.5	+1.5 -165
+Oakland	6	-141	over	-1.5 +152
+ 
+				
+Houston	14	+146	7.0	+1.5 -165
+SanDiego	3	-158	over	-1.5 +152
+ 
+				
+SFGiants	2	+162	6.0	+1.5 -146
+LADodgers	1	-176	under	-1.5 +135
+ 
+   
+
+				
+Milwaukee	8	+109	7.5	+1.5 -201
+Cincinnati	3	-118	over	-1.5 +184
+ 
+				
+TampaBay	3	+130	7.5	+1.5 -170
+NYYankees	2	-141	under	-1.5 +156
+ 
+				
+Detroit	10	+101	8.5	-1.5 +160
+Minnesota	7	-109	over	+1.5 -174
+ 
+				
+ChiSox	2	-104	8.0	-1.5 +156
+Baltimore	8	-104	over	+1.5 -170
+ 
+  				
+Houston	7	+113	6.5	+1.5 -205
+SanDiego	2	-122	over	-1.5 +188
+ 
+				
+KansasCity	5	+104	7.0	+1.5 -210
+Cleveland	7	-113	over	-1.5 +192
+ 
+				
+Toronto	1	+137	8.5	+1.5 -152
+Boston	4	-149	under	-1.5 +140
+ 
+				
+Washington	13	-116	7.0	-1.5 +144
+Atlanta	4	+107	over	+1.5 -156
+ 
+				
+NYMets	3	-108	7.5	-1.5 +156
+Miami	7	+100	over	+1.5 -170
+ 
+				
+Seattle	5	-160	7.5	-1.5 +102
+Texas	2	+147	under	+1.5 -110
+ 
+				
+Pittsburgh	8	-111	7.0	-1.5 +152
+ChiCubs	1	+103	over	+1.5 -165
+ 
+				
+Philadelphia	2	+178	7.0	+1.5 -134
+St.Louis	5	-194	push	-1.5 +124
+ 
+  				
+Colorado	1	+104	9.0	+1.5 -203
+Arizona	9	-113	over	-1.5 +186
+ 
+				
+LAAngels	6	+107	7.5	+1.5 -203
+Oakland	3	-116	over	-1.5 +186
+ 
+				
+SFGiants	3	+188	7.0	+1.5 -113
+LADodgers	7	-205	over	-1.5 +104
+ 
+  
+
+				
+Philadelphia	3	+215	7.5	+1.5 -109
+St.Louis	9	-236	over	-1.5 +101
+ 
+				
+LAAngels	6	+104	7.5	+1.5 -194
+Oakland	5	-113	over	-1.5 +178
+ 
+				
+Cincinnati	5	-116	7.5	-1.5 +139
+Atlanta	1	+107	under	+1.5 -151
+ 
+				
+Toronto	5	-131	8.0	-1.5 +124
+Cleveland	1	+121	under	+1.5 -134
+ 
+				
+Washington	8	-116	6.5	-1.5 +156
+NYMets	2	+107	over	+1.5 -170
+ 
+				
+ChiSox	2	-149	7.0	-1.5 +114
+Minnesota	12	+137	over	+1.5 -123
+ 
+				
+Seattle	2	-111	8.5	-1.5 +143
+Houston	3	+103	under	+1.5 -155
+ 
+				
+Detroit	1	+112	8.0	+1.5 -182
+KansasCity	8	-121	over	-1.5 +167
+ 
+   
+
+  				
+Milwaukee	0	+167	7.5	+1.5 -132
+ChiCubs	1	-182	under	-1.5 +122
+ 
+				
+TampaBay	2	-102	8.0	+1.5 -208
+Baltimore	0	-106	under	-1.5 +190
+ 
+				
+Philadelphia	3	+136	8.0	+1.5 -154
+Miami	4	-147	under	-1.5 +142
+ 
+				
+Toronto	4	+123	7.5	+1.5 -185
+Cleveland	9	-133	over	-1.5 +170
+ 
+				
+NYYankees	3	+110	8.5	+1.5 -182
+Boston	2	-119	under	-1.5 +167
+ 
+				
+Washington	0	+104	6.0	-1.5 +177
+NYMets	4	-113	under	+1.5 -193
+ 
+				
+Cincinnati	3	-123	7.0	-1.5 +138
+Atlanta	4	+114	push	+1.5 -150
+ 
+				
+Oakland	7	-145	8.5	-1.5 +110
+Texas	5	+134	over	+1.5 -119
+ 
+				
+Detroit	1	+106	8.5	+1.5 -194
+KansasCity	4	-115	under	-1.5 +178
+ 
+				
+ChiSox	0	-109	8.0	-1.5 +149
+Minnesota	1	+101	under	+1.5 -162
+ 
+				
+Seattle	3	-108	8.5	-1.5 +142
+Houston	4	+100	under	+1.5 -154
+ 
+				
+Pittsburgh	1	+131	7.5	+1.5 -172
+St.Louis	2	-142	under	-1.5 +158
+ 
+				
+Arizona	0	+136	8.0	+1.5 -154
+LADodgers	8	-147	push	-1.5 +142
+ 
+				
+Colorado	3	+127	7.5	+1.5 -180
+SanDiego	14	-138	over	-1.5 +165
+
+				
+LAAngels	2	+104	7.0	+1.5 -211
+SFGiants	3	-113	under	-1.5 +193
+ 
+  
+
+				
+NYYankees	4	+120	8.5	+1.5 -172
+Boston	2	-130	under	-1.5 +158
+ 
+				
+ChiSox	3	+108	9.5	+1.5 -181
+Minnesota	5	-117	under	-1.5 +166
+ 
+				
+Pittsburgh	1	+101	7.0	-1.5 +176
+St.Louis	2	-109	under	+1.5 -192
+ 
+ 				
+Milwaukee	6	+161	8.0	+1.5 -138
+ChiCubs	1	-175	under	-1.5 +127
+ 
+				
+LAAngels	4	+111	7.5	+1.5 -195
+SFGiants	5	-120	over	-1.5 +179
+ 
+				
+Toronto	11	+160	7.5	+1.5 -134
+Cleveland	4	-174	over	-1.5 +124
+ 
+				
+Philadelphia	0	+105	7.0	+1.5 -212
+Miami	7	-114	push	-1.5 +194
+ 
+				
+TampaBay	0	-122	7.0	-1.5 +136
+Baltimore	4	+113	under	+1.5 -147
+ 
+				
+Cincinnati	8	-113	7.5	-1.5 +150
+Atlanta	4	+104	over	+1.5 -163
+ 
+				
+Seattle	4	+125	8.0	+1.5 -172
+Houston	11	-135	over	-1.5 +158
+ 
+				
+Detroit	2	-122	7.5	-1.5 +140
+KansasCity	1	+113	under	+1.5 -152
+ 
+				
+Washington	1	-126	7.0	-1.5 +136
+NYMets	0	+116	under	+1.5 -148
+ 
+				
+Oakland	7	-122	8.5	-1.5 +130
+Texas	8	+113	over	+1.5 -141
+ 
+ 				
+Colorado	2	+122	7.0	+1.5 -184
+SanDiego	4	-132	under	-1.5 +169
+ 
+				
+Arizona	4	+139	8.0	+1.5 -158
+LADodgers	6	-151	over	-1.5 +146
+ 
+   
+
+				
+Washington	1	-108	7.5	+1.5 -240
+NYMets	0	+100	under	-1.5 +219
+ 
+				
+Philadelphia	6	+156	7.5	+1.5 -141
+Miami	2	-170	over	-1.5 +130
+ 
+				
+Toronto	7	+106	8.5	+1.5 -209
+Cleveland	10	-115	over	-1.5 +191
+ 
+				
+TampaBay	2	-103	7.5	+1.5 -209
+Baltimore	4	-105	under	-1.5 +191
+ 
+				
+Cincinnati	0	-139	6.5	-1.5 +127
+Atlanta	5	+128	under	+1.5 -138
+ 
+				
+Detroit	6	-119	8.5	-1.5 +140
+KansasCity	4	+110	over	+1.5 -152
+ 
+				
+ChiSox	3	+110	10.0	+1.5 -190
+Minnesota	13	-119	over	-1.5 +174
+ 
+				
+Seattle	6	-121	9.0	-1.5 +131
+Houston	7	+112	over	+1.5 -142
+ 
+				
+Pittsburgh	2	+136	7.5	+1.5 -159
+St.Louis	3	-147	under	-1.5 +146
+ 
+ 				
+Milwaukee	5	+134	10.0	+1.5 -156
+ChiCubs	3	-145	under	-1.5 +144
+ 
+				
+Oakland	7	-115	8.0	-1.5 +149
+Texas	1	+106	push	+1.5 -162
+ 
+				
+LAAngels	0	-103	7.5	+1.5 -214
+SFGiants	5	-105	under	-1.5 +196
+ 
+				
+Arizona	0	+129	7.5	+1.5 -173
+LADodgers	1	-140	under	-1.5 +159
+ 
+				
+Colorado	6	+165	7.5	+1.5 -142
+SanDiego	8	-180	over	-1.5 +131
+ 
+				
+NYYankees	8	+125	9.0	+1.5 -170
+Boston	5	-135	over	-1.5 +156
+ 
+   
+
+				
+Miami	4	+150	7.5	+1.5 -153
+Washington	6	-163	over	-1.5 +141
+ 
+				
+NYYankees	1	+111	8.5	+1.5 -180
+Toronto	3	-120	under	-1.5 +165
+ 
+				
+Philadelphia	5	+138	7.0	+1.5 -163
+Atlanta	2	-150	push	-1.5 +150
+ 
+				
+TampaBay	5	+131	8.5	+1.5 -154
+Boston	1	-142	under	-1.5 +142
+   				
+LADodgers	3	-180	7.0	-1.5 -109
+Milwaukee	4	+165	push	+1.5 +101
+ 
+				
+Texas	2	+178	8.5	+1.5 -115
+Houston	1	-194	under	-1.5 +106
+ 
+				
+Oakland	7	+102	8.0	+1.5 -203
+Minnesota	8	-110	over	-1.5 +186
+ 
+				
+ChiCubs	9	+126	7.5	+1.5 -175
+St.Louis	10	-137	over	-1.5 +161
+ 
+				
+Seattle	3	-132	7.0	-1.5 +127
+LAAngels	2	+122	under	+1.5 -138
+ 
+				
+SanDiego	0	+129	6.5	+1.5 -180
+SFGiants	2	-140	under	-1.5 +165
+ 
+  
+
+				
+Miami	2	+153	7.0	+1.5 -150
+Washington	1	-166	under	-1.5 +138
+ 
+				
+Cincinnati	7	+130	7.5	+1.5 -165
+Pittsburgh	1	-141	over	-1.5 +152
+ 
+				
+NYYankees	6	-115	8.0	-1.5 +138
+Toronto	3	+106	over	+1.5 -150
+ 
+				
+TampaBay	0	+109	8.0	+1.5 -192
+Boston	2	-118	under	-1.5 +176
+ 
+				
+Baltimore	2	+108	7.0	+1.5 -207
+NYMets	3	-117	under	-1.5 +190
+ 
+				
+Philadelphia	0	+129	7.0	+1.5 -170
+Atlanta	9	-140	over	-1.5 +156
+ 
+				
+Detroit	2	+100	8.5	+1.5 -203
+ChiSox	5	-108	under	-1.5 +186
+ 
+				
+Cleveland	3	+109	7.5	+1.5 -192
+KansasCity	5	-118	over	-1.5 +176
+ 
+				
+Oakland	2	-111	8.5	+1.5 -225
+Minnesota	1	+103	under	-1.5 +206
+ 
+				
+Texas	7	+141	9.0	+1.5 -139
+Houston	1	-153	under	-1.5 +128
+ 
+				
+LADodgers	8	-139	7.5	-1.5 +113
+Milwaukee	2	+128	over	+1.5 -122
+ 
+				
+ChiCubs	4	+126	8.0	+1.5 -164
+St.Louis	7	-137	over	-1.5 +151
+ 
+				
+Seattle	4	+129	8.0	+1.5 -170
+LAAngels	5	-140	over	-1.5 +156
+ 
+				
+SanDiego	0	-116	7.0	-1.5 +146
+SFGiants	6	+107	under	+1.5 -159
+ 
+  
+
+				
+Miami	5	+176	7.0	+1.5 -126
+Washington	7	-192	over	-1.5 +116
+ 
+				
+Arizona	13	+114	10.5	+1.5 -172
+Colorado	7	-123	over	-1.5 +158
+ 
+				
+SanDiego	9	+116	7.0	+1.5 -190
+SFGiants	1	-126	over	-1.5 +174
+ 
+  				
+Arizona	5	+129	10.5	+1.5 -158
+Colorado	1	-140	under	-1.5 +146
+ 
+				
+Cincinnati	3	+156	7.0	+1.5 -152
+Pittsburgh	0	-170	under	-1.5 +140
+ 
+				
+NYYankees	1	+121	8.5	+1.5 -170
+Toronto	5	-131	under	-1.5 +156
+ 
+				
+Philadelphia	5	+136	7.5	+1.5 -170
+Atlanta	7	-148	over	-1.5 +156
+ 
+				
+TampaBay	5	+115	8.5	+1.5 -181
+Boston	3	-125	under	-1.5 +166
+ 
+				
+Baltimore	1	+101	7.0	+1.5 -225
+NYMets	5	-109	under	-1.5 +206
+ 
+				
+Texas	11	+116	8.5	+1.5 -172
+Houston	3	-126	over	-1.5 +158
+ 
+				
+LADodgers	3	-113	8.5	-1.5 +151
+Milwaukee	6	+104	over	+1.5 -164
+ 
+				
+Detroit	6	+137	8.5	+1.5 -160
+ChiSox	7	-149	over	-1.5 +147
+ 
+				
+Cleveland	10	+124	7.0	+1.5 -180
+KansasCity	3	-134	over	-1.5 +165
+ 
+				
+Oakland	0	-147	8.0	-1.5 +118
+Minnesota	13	+136	over	+1.5 -128
+ 
+				
+ChiCubs	6	+117	7.0	+1.5 -199
+St.Louis	5	-127	over	-1.5 +182
+ 
+				
+Seattle	3	+133	8.0	+1.5 -156
+LAAngels	4	-144	under	-1.5 +144
+ 
+  
+
+				
+Oakland	5	+102	8.5	+1.5 -205
+Minnesota	6	-110	over	-1.5 +188
+ 
+ 				
+LADodgers	14	-108	8.5	-1.5 +154
+Milwaukee	4	+100	over	+1.5 -167
+ 
+				
+ChiCubs	1	+107	7.5	+1.5 -203
+St.Louis	5	-116	under	-1.5 +186
+ 
+				
+Detroit	4	+106	9.5	+1.5 -180
+ChiSox	1	-115	under	-1.5 +165
+ 
+				
+Cleveland	4	-111	8.0	-1.5 +146
+KansasCity	7	+103	over	+1.5 -158
+ 
+				
+Baltimore	3	+122	8.5	+1.5 -170
+NYYankees	4	-132	under	-1.5 +156
+ 
+				
+Cincinnati	2	+119	7.5	+1.5 -181
+Pittsburgh	7	-129	over	-1.5 +166
+ 
+				
+Texas	5	+143	7.0	+1.5 -157
+TampaBay	4	-155	over	-1.5 +145
+ 
+  				
+SanDiego	0	+115	8.5	+1.5 -177
+Arizona	11	-124	over	-1.5 +163
+ 
+				
+Houston	3	-106	7.5	-1.5 +149
+LAAngels	2	-102	under	+1.5 -162
+ 
+				
+Miami	7	+126	7.0	+1.5 -173
+SFGiants	2	-136	over	-1.5 +159
+ 
+  
+
+				
+NYMets	1	-124	6.5	-1.5 +143
+Philadelphia	3	+115	under	+1.5 -155
+ 
+				
+St.Louis	8	+102	7.0	+1.5 -215
+Pittsburgh	5	-110	over	-1.5 +197
+ 
+				
+Baltimore	4	+109	8.5	+1.5 -190
+NYYankees	5	-118	over	-1.5 +174
+ 
+				
+Atlanta	2	+185	7.5	+1.5 -128
+Washington	9	-202	over	-1.5 +118
+ 
+				
+Boston	0	+126	9.0	+1.5 -161
+Toronto	7	-137	under	-1.5 +148
+ 
+				
+KansasCity	5	+136	7.5	+1.5 -155
+Detroit	6	-148	over	-1.5 +143
+ 
+				
+Texas	2	+110	7.5	+1.5 -186
+TampaBay	8	-119	over	-1.5 +171
+ 
+				
+Minnesota	9	+152	9.0	+1.5 -135
+Cleveland	3	-165	over	-1.5 +125
+ 
+				
+ChiCubs	7	+102	8.0	-1.5 +165
+Milwaukee	6	-110	over	+1.5 -180
+ 
+  				
+LADodgers	2	-130	10.0	-1.5 +121
+Colorado	1	+120	under	+1.5 -131
+ 
+  				
+SanDiego	6	-118	8.5	-1.5 +150
+Arizona	5	+109	over	+1.5 -163
+ 
+				
+Houston	0	+116	8.5	+1.5 -190
+LAAngels	2	-126	under	-1.5 +174
+ 
+				
+Oakland	3	-116	7.5	-1.5 +144
+Seattle	4	+107	under	+1.5 -156
+ 
+				
+Miami	0	-102	7.0	+1.5 -210
+SFGiants	6	-106	under	-1.5 +192
+
+   
+
+				
+Baltimore	6	+109	8.0	+1.5 -194
+NYYankees	2	-118	push	-1.5 +178
+ 
+				
+Boston	1	+104	9.0	+1.5 -194
+Toronto	7	-113	under	-1.5 +178
+ 
+				
+KansasCity	6	+138	8.5	+1.5 -150
+Detroit	2	-150	under	-1.5 +138
+ 
+				
+Atlanta	6	+133	7.5	+1.5 -164
+Washington	8	-144	over	-1.5 +151
+ 
+				
+Cincinnati	10	-110	7.5	-1.5 +155
+ChiSox	4	+102	over	+1.5 -168
+ 
+				
+Minnesota	7	+120	8.5	+1.5 -174
+Cleveland	4	-130	over	-1.5 +160
+ 
+				
+Texas	2	+125	8.0	+1.5 -172
+TampaBay	7	-135	over	-1.5 +158
+ 
+				
+St.Louis	5	-101	7.5	+1.5 -215
+Pittsburgh	7	-107	over	-1.5 +197
+ 
+				
+NYMets	3	-121	7.5	-1.5 +141
+Philadelphia	2	+112	under	+1.5 -153
+ 
+				
+Cincinnati	2	-127	8.5	+1.5 -162
+ChiSox	8	+117	over	-1.5 +149
+ 
+				
+ChiCubs	4	-106	8.5	+1.5 -225
+Milwaukee	12	-102	over	-1.5 +206
+ 
+				
+SanDiego	6	+104	8.0	+1.5 -200
+Arizona	4	-113	over	-1.5 +183
+ 
+				
+Houston	6	-104	7.0	+1.5 -209
+LAAngels	5	-104	over	-1.5 +191
+ 
+				
+Miami	6	+144	6.5	+1.5 -163
+SFGiants	2	-156	over	-1.5 +150
+ 
+				
+Oakland	2	+125	7.5	+1.5 -172
+Seattle	7	-135	over	-1.5 +158
+ 
+   
+
+				
+Baltimore	2	+161	8.0	+1.5 -131
+NYYankees	6	-175	push	-1.5 +121
+ 
+				
+Boston	6	-109	9.0	+1.5 -208
+Toronto	3	+101	push	-1.5 +190
+ 
+				
+Minnesota	2	+156	8.0	+1.5 -137
+Cleveland	8	-170	over	-1.5 +126
+ 
+				
+Texas	2	+146	7.0	+1.5 -159
+TampaBay	1	-159	under	-1.5 +146
+ 
+				
+St.Louis	3	+101	7.5	+1.5 -212
+Pittsburgh	4	-109	under	-1.5 +194
+ 
+				
+NYMets	7	-121	8.0	-1.5 +133
+Philadelphia	4	+112	over	+1.5 -144
+ 
+				
+Atlanta	4	+146	7.5	+1.5 -151
+Washington	5	-159	over	-1.5 +139
+ 
+				
+Cincinnati	3	+102	8.5	+1.5 -192
+ChiSox	4	-110	under	-1.5 +176
+ 
+				
+ChiCubs	2	-110	8.5	-1.5 +152
+Milwaukee	3	+102	under	+1.5 -165
+ 
+				
+Houston	1	+139	7.5	+1.5 -155
+LAAngels	3	-151	under	-1.5 +143
+ 
+				
+Miami	2	-104	7.0	+1.5 -225
+SFGiants	3	-104	under	-1.5 +206
+ 
+				
+SanDiego	1	-105	8.5	-1.5 +155
+Arizona	2	-103	under	+1.5 -168
+ 
+				
+Oakland	3	+146	7.0	+1.5 -155
+Seattle	4	-159	push	-1.5 +143
+ 
+				
+LADodgers	9	-160	7.5	-1.5 +107
+Colorado	5	+147	over	+1.5 -116
+ 
+				
+KansasCity	2	-106	8.0	-1.5 +150
+Detroit	1	-102	under	+1.5 -163
+ 
+   
+
+				
+Pittsburgh	4	-166	7.5	-1.5 -102
+Philadelphia	3	+153	under	+1.5 -106
+ 
+				
+Toronto	2	+115	8.5	+1.5 -168
+Baltimore	5	-125	under	-1.5 +155
+ 
+				
+Atlanta	2	+126	7.5	+1.5 -173
+Cincinnati	1	-136	under	-1.5 +159
+ 
+				
+NYYankees	11	-101	7.5	+1.5 -205
+TampaBay	5	-107	over	-1.5 +188
+ 
+ 				
+ChiSox	7	+102	8.0	+1.5 -204
+Milwaukee	10	-110	over	-1.5 +187
+ 
+				
+KansasCity	2	-135	7.5	-1.5 +122
+Texas	8	+125	over	+1.5 -132
+ 
+				
+NYMets	3	+134	8.5	+1.5 -167
+ChiCubs	4	-145	under	-1.5 +154
+ 
+  				
+Washington	11	-151	8.0	-1.5 +113
+Arizona	1	+139	over	+1.5 -122
+ 
+				
+Boston	5	+109	7.5	+1.5 -193
+Oakland	4	-118	over	-1.5 +177
+ 
+				
+Miami	3	+193	7.0	+1.5 -115
+LADodgers	5	-211	over	-1.5 +106
+ 
+  
+
+				
+St.Louis	8	+126	7.5	+1.5 -169
+Cleveland	3	-137	over	-1.5 +156
+ 
+				
+Pittsburgh	7	-149	8.5	-1.5 +114
+Philadelphia	2	+137	over	+1.5 -123
+ 
+				
+Toronto	10	+120	9.5	+1.5 -166
+Baltimore	2	-130	over	-1.5 +153
+ 
+				
+Minnesota	1	+135	9.0	+1.5 -157
+Detroit	2	-146	under	-1.5 +145
+ 
+				
+Atlanta	3	+123	8.0	+1.5 -175
+Cincinnati	4	-133	under	-1.5 +161
+ 
+				
+NYYankees	2	+114	7.0	+1.5 -194
+TampaBay	4	-123	under	-1.5 +178
+ 
+				
+KansasCity	7	-131	9.0	-1.5 +126
+Texas	6	+121	over	+1.5 -136
+ 
+				
+NYMets	1	+132	7.0	+1.5 -170
+ChiCubs	6	-143	push	-1.5 +156
+ 
+				
+SFGiants	8	+147	8.0	+1.5 -145
+Houston	1	-160	over	-1.5 +134
+ 
+				
+ChiSox	4	-105	7.5	-1.5 +156
+Milwaukee	2	-103	under	+1.5 -170
+ 
+ 				
+Washington	6	-142	8.5	-1.5 +124
+Arizona	14	+131	over	+1.5 -134
+ 
+				
+Colorado	2	+159	8.0	+1.5 -132
+LAAngels	5	-173	under	-1.5 +122
+ 
+				
+Boston	2	+108	8.0	+1.5 -191
+Oakland	9	-117	over	-1.5 +175
+ 
+				
+Miami	1	+143	7.5	+1.5 -157
+LADodgers	11	-155	over	-1.5 +145
+ 
+				
+SanDiego	4	+126	7.5	+1.5 -178
+Seattle	11	-136	over	-1.5 +164
+ 
+
+
+				
+Boston	2	+131	7.0	+1.5 -176
+Oakland	0	-142	under	-1.5 +162
+ 
+  				
+Washington	9	-122	9.0	-1.5 +136
+Arizona	6	+113	over	+1.5 -148
+ 
+				
+St.Louis	0	+126	7.0	+1.5 -174
+Cleveland	2	-137	under	-1.5 +160
+ 
+				
+Toronto	1	+115	8.5	+1.5 -177
+Baltimore	6	-125	under	-1.5 +163
+ 
+				
+Pittsburgh	2	-122	6.5	-1.5 +142
+Philadelphia	3	+113	under	+1.5 -154
+ 
+				
+Minnesota	6	+123	8.5	+1.5 -164
+Detroit	2	-133	under	-1.5 +151
+ 
+				
+Atlanta	1	+121	7.5	+1.5 -184
+Cincinnati	5	-131	under	-1.5 +169
+ 
+				
+NYYankees	2	-107	7.5	-1.5 +151
+TampaBay	3	-101	under	+1.5 -164
+ 
+ 				
+Miami	5	+145	7.5	+1.5 -159
+LADodgers	4	-157	over	-1.5 +146
+ 
+				
+NYMets	1	+100	6.5	+1.5 -224
+ChiCubs	2	-108	under	-1.5 +205
+ 
+				
+KansasCity	2	-125	8.0	-1.5 +130
+Texas	5	+115	under	+1.5 -141
+ 
+				
+SFGiants	3	+117	8.5	+1.5 -171
+Houston	4	-127	under	-1.5 +157
+ 
+				
+ChiSox	4	+110	7.5	+1.5 -196
+Milwaukee	2	-119	under	-1.5 +180
+ 
+				
+Colorado	1	+154	8.0	+1.5 -140
+LAAngels	2	-167	under	-1.5 +129
+ 
+				
+SanDiego	4	+127	7.0	+1.5 -174
+Seattle	2	-138	under	-1.5 +160
+ 
+  
+
+				
+St.Louis	2	-107	7.5	-1.5 +154
+Cleveland	1	-101	under	+1.5 -167
+ 
+				
+Pittsburgh	2	-119	7.5	-1.5 +143
+Philadelphia	4	+110	under	+1.5 -155
+ 
+				
+Minnesota	1	+165	8.0	+1.5 -127
+Detroit	13	-180	over	-1.5 +117
+ 
+				
+KansasCity	6	-105	9.0	-1.5 +152
+Texas	3	-103	push	+1.5 -165
+ 
+ 				
+NYMets	5	+127	7.5	+1.5 -182
+ChiCubs	6	-138	over	-1.5 +167
+ 
+				
+NYYankees	1	-130	7.5	-1.5 +130
+TampaBay	6	+120	under	+1.5 -141
+ 
+				
+SFGiants	3	+151	7.0	+1.5 -146
+Cincinnati	4	-164	push	-1.5 +135
+ 
+				
+Toronto	4	-101	9.0	-1.5 +160
+Houston	6	-107	over	+1.5 -174
+ 
+				
+Boston	2	+102	7.5	+1.5 -210
+Seattle	1	-110	under	-1.5 +192
+ 
+				
+Colorado	5	+197	8.0	+1.5 -116
+LADodgers	4	-215	over	-1.5 +107
+ 
+				
+Washington	3	+104	6.5	+1.5 -202
+SanDiego	8	-113	over	-1.5 +185
+ 
+   
+
+  				
+Pittsburgh	10	+121	9.5	+1.5 -166
+ChiCubs	11	-131	over	-1.5 +153
+ 
+				
+LAAngels	3	+103	8.5	+1.5 -190
+Baltimore	1	-111	under	-1.5 +174
+ 
+				
+Arizona	3	-115	7.5	-1.5 +146
+Philadelphia	4	+106	under	+1.5 -158
+ 
+				
+Atlanta	5	+120	7.5	+1.5 -193
+Miami	3	-130	over	-1.5 +177
+ 
+				
+Milwaukee	7	+115	7.0	+1.5 -193
+NYMets	0	-125	push	-1.5 +177
+ 
+				
+SFGiants	10	-130	7.5	-1.5 +125
+Cincinnati	2	+120	over	+1.5 -135
+ 
+				
+Cleveland	8	+118	9.5	+1.5 -167
+Texas	3	-128	over	-1.5 +154
+ 
+				
+NYYankees	1	-116	7.0	-1.5 +146
+KansasCity	12	+107	over	+1.5 -158
+ 
+				
+Toronto	4	+108	8.5	+1.5 -183
+Houston	8	-117	over	-1.5 +168
+ 
+				
+TampaBay	2	-110	7.5	+1.5 -225
+Minnesota	3	+102	under	-1.5 +206
+ 
+				
+Detroit	10	+132	8.0	+1.5 -167
+St.Louis	4	-143	over	-1.5 +154
+ 
+				
+ChiSox	7	+114	7.0	+1.5 -193
+Oakland	6	-123	over	-1.5 +177
+ 
+				
+Colorado	4	+286	6.5	+1.5 +115
+LADodgers	6	-318	over	-1.5 -125
+ 
+				
+Washington	10	-132	7.0	-1.5 +141
+SanDiego	0	+122	over	+1.5 -153
+ 
+				
+Boston	1	-102	7.5	+1.5 -208
+Seattle	2	-106	under	-1.5 +190
+ 
+  
+ 				
+Atlanta	5	+111	7.0	+1.5 -212
+Miami	3	-120	over	-1.5 +194
+ 
+				
+TampaBay	4	-107	8.5	-1.5 +152
+Minnesota	6	-101	over	+1.5 -165
+ 
+				
+Detroit	4	-102	7.5	-1.5 +159
+St.Louis	3	-106	under	+1.5 -173
+ 
+				
+Pittsburgh	1	-106	8.0	+1.5 -215
+ChiCubs	4	-102	under	-1.5 +197
+ 
+				
+LAAngels	6	+115	9.0	+1.5 -175
+Baltimore	1	-125	under	-1.5 +161
+ 
+				
+Arizona	5	-113	8.0	-1.5 +148
+Philadelphia	7	+104	over	+1.5 -161
+ 
+				
+Milwaukee	1	+124	7.0	+1.5 -184
+NYMets	14	-134	over	-1.5 +169
+ 
+				
+SFGiants	11	+126	8.0	+1.5 -158
+Cincinnati	2	-136	over	-1.5 +146
+ 
+				
+Toronto	5	+108	9.0	+1.5 -183
+Houston	6	-117	over	-1.5 +168
+ 
+				
+NYYankees	5	+110	8.0	+1.5 -203
+KansasCity	1	-119	under	-1.5 +186
+ 
+				
+Cleveland	10	-145	9.0	-1.5 +113
+Texas	8	+134	over	+1.5 -122
+ 
+				
+Washington	4	-132	6.5	-1.5 +133
+SanDiego	1	+122	under	+1.5 -144
+ 
+				
+ChiSox	4	+146	7.5	+1.5 -150
+Oakland	3	-158	under	-1.5 +138
+ 
+				
+Boston	4	+152	6.5	+1.5 -150
+Seattle	2	-165	under	-1.5 +138
+ 
+				
+Colorado	7	+201	6.5	+1.5 -133
+LADodgers	1	-220	over	-1.5 +123
+ 
+   
+
+				
+Atlanta	6	+117	7.0	+1.5 -190
+Miami	0	-127	under	-1.5 +174
+ 
+				
+Milwaukee	1	+122	7.5	+1.5 -183
+NYMets	5	-132	under	-1.5 +168
+ 
+				
+SFGiants	9	-104	8.0	+1.5 -219
+Cincinnati	8	-104	over	-1.5 +200
+ 
+				
+LAAngels	0	-125	8.5	-1.5 +132
+Baltimore	3	+115	under	+1.5 -143
+ 
+				
+Arizona	0	-125	8.0	-1.5 +130
+Philadelphia	6	+115	under	+1.5 -141
+ 
+				
+Toronto	2	+133	8.5	+1.5 -152
+Houston	4	-144	under	-1.5 +140
+ 
+				
+TampaBay	11	-129	8.0	-1.5 +133
+Minnesota	3	+119	over	+1.5 -144
+ 
+				
+NYYankees	0	+108	8.5	+1.5 -195
+KansasCity	6	-117	under	-1.5 +179
+ 
+ 				
+Pittsburgh	3	+126	10.0	+1.5 -171
+ChiCubs	0	-137	under	-1.5 +157
+ 
+				
+Cleveland	1	-126	9.5	-1.5 +129
+Texas	5	+116	under	+1.5 -140
+ 
+				
+ChiSox	7	+122	7.5	+1.5 -178
+Oakland	3	-132	over	-1.5 +164
+ 
+				
+Colorado	0	+182	8.5	+1.5 -122
+LADodgers	1	-199	under	-1.5 +113
+ 
+				
+Washington	10	-126	7.0	-1.5 +141
+SanDiego	5	+116	over	+1.5 -153
+ 
+				
+Boston	0	+128	7.5	+1.5 -170
+Seattle	5	-139	under	-1.5 +156
+ 
+				
+Detroit	1	+143	8.0	+1.5 -152
+St.Louis	2	-155	under	-1.5 +140
+ 
+				
+LAAngels	6	-101	9.5	+1.5 -192
+Toronto	10	-107	over	-1.5 +176
+ 
+				
+Milwaukee	3	+107	8.5	+1.5 -177
+Detroit	2	-116	under	-1.5 +163
+ 
+				
+St.Louis	1	+127	6.5	+1.5 -190
+NYMets	2	-138	under	-1.5 +174
+ 
+				
+Arizona	3	+110	8.0	+1.5 -195
+Miami	2	-119	under	-1.5 +179
+ 
+				
+Oakland	2	+106	8.5	+1.5 -193
+Houston	1	-115	under	-1.5 +177
+ 
+				
+Cleveland	1	+131	7.0	+1.5 -180
+ChiSox	2	-142	under	-1.5 +165
+ 
+  				
+Philadelphia	4	-110	9.0	-1.5 +153
+Colorado	3	+102	under	+1.5 -166
+ 
+
+
+				
+NYYankees	6	+119	7.5	+1.5 -180
+Washington	8	-129	over	-1.5 +165
+ 
+				
+Seattle	4	+109	8.5	+1.5 -180
+Baltimore	9	-118	over	-1.5 +165
+ 
+				
+Minnesota	8	+149	7.5	+1.5 -145
+Pittsburgh	5	-162	over	-1.5 +134
+ 
+				
+LAAngels	3	+111	9.5	+1.5 -180
+Toronto	2	-120	under	-1.5 +165
+ 
+				
+Milwaukee	8	+142	7.5	+1.5 -156
+Detroit	1	-154	over	-1.5 +144
+ 
+				
+Texas	3	+147	9.0	+1.5 -137
+Boston	4	-160	under	-1.5 +126
+ 
+				
+St.Louis	10	-122	7.5	-1.5 +143
+NYMets	2	+113	over	+1.5 -155
+ 
+				
+TampaBay	5	-107	7.5	-1.5 +153
+Atlanta	3	-101	over	+1.5 -166
+ 
+				
+Arizona	4	+131	8.0	+1.5 -170
+Miami	2	-142	under	-1.5 +156
+ 
+				
+Cleveland	3	+133	7.5	+1.5 -175
+ChiSox	1	-144	under	-1.5 +161
+ 
+				
+Cincinnati	0	+109	6.5	+1.5 -211
+KansasCity	3	-118	under	-1.5 +193
+ 
+				
+Oakland	4	-142	8.5	-1.5 +119
+Houston	6	+131	over	+1.5 -129
+ 
+			
+Philadelphia	5	+104	9.0	+1.5 -190
+Colorado	6	-113	over	-1.5 +174
+ 
+				
+ChiCubs	3	+109	6.5	+1.5 -207
+SanDiego	4	-118	over	-1.5 +190
+ 
+				
+LADodgers	0	-115	7.0	-1.5 +142
+SFGiants	2	+106	under	+1.5 -154
+ 
+
+
+				
+Oakland	1	+142	7.5	+1.5 -152
+Houston	6	-154	under	-1.5 +140
+ 
+				
+NYYankees	2	+141	7.0	+1.5 -164
+Washington	3	-153	under	-1.5 +151
+ 
+				
+Seattle	4	+127	8.0	+1.5 -159
+Baltimore	2	-138	under	-1.5 +146
+ 
+				
+Minnesota	4	+129	7.5	+1.5 -170
+Pittsburgh	3	-140	under	-1.5 +156
+ 
+				
+LAAngels	4	+116	9.0	+1.5 -180
+Toronto	3	-126	under	-1.5 +165
+ 
+				
+Milwaukee	2	+130	7.5	+1.5 -160
+Detroit	5	-141	under	-1.5 +147
+ 
+				
+Texas	2	+150	9.0	+1.5 -140
+Boston	1	-163	under	-1.5 +129
+ 
+				
+St.Louis	9	-130	7.0	-1.5 +136
+NYMets	0	+120	over	+1.5 -148
+ 
+				
+TampaBay	1	-131	7.5	-1.5 +128
+Atlanta	2	+121	under	+1.5 -139
+ 
+				
+Arizona	6	+116	7.5	+1.5 -195
+Miami	1	-126	under	-1.5 +179
+ 
+				
+Cincinnati	1	+139	7.5	+1.5 -162
+KansasCity	7	-151	over	-1.5 +149
+ 
+				
+Cleveland	4	+149	8.5	+1.5 -142
+ChiSox	3	-162	under	-1.5 +131
+ 
+  				
+Philadelphia	4	+124	10.0	+1.5 -161
+Colorado	2	-134	under	-1.5 +148
+ 
+				
+ChiCubs	3	+130	7.0	+1.5 -180
+SanDiego	2	-141	under	-1.5 +165
+ 
+				
+LADodgers	0	-131	7.0	-1.5 +131
+SFGiants	4	+121	under	+1.5 -142
+ 
+
+				
+Arizona	7	+126	7.5	+1.5 -175
+Miami	6	-137	over	-1.5 +161
+ 
+				
+Seattle	4	+100	8.0	+1.5 -200
+Baltimore	5	-108	over	-1.5 +183
+ 
+				
+Houston	5	+136	8.0	+1.5 -152
+Detroit	6	-148	over	-1.5 +140
+ 
+				
+St.Louis	0	+100	7.0	+1.5 -221
+NYMets	5	-108	under	-1.5 +202
+ 
+				
+Philadelphia	3	+148	9.5	+1.5 -138
+Colorado	7	-161	over	-1.5 +127
+ 
+				
+LADodgers	0	-129	6.0	-1.5 +143
+SFGiants	4	+119	under	+1.5 -155
+ 
+				
+LAAngels	4	-111	8.5	-1.5 +147
+Toronto	8	+103	over	+1.5 -160
+ 
+				
+Texas	3	+169	8.5	+1.5 -126
+Boston	1	-184	under	-1.5 +116
+ 
+				
+Oakland	0	-104	7.5	+1.5 -215
+TampaBay	3	-104	under	-1.5 +197
+ 
+				
+Milwaukee	1	+107	7.0	+1.5 -203
+Atlanta	10	-116	over	-1.5 +186
+ 
+				
+Cleveland	5	-126	8.5	-1.5 +136
+ChiSox	2	+116	under	+1.5 -148
+ 
+				
+ChiCubs	3	-114	7.0	-1.5 +147
+SanDiego	0	+105	under	+1.5 -160
+ 
+  
+
+				
+NYMets	1	+156	6.5	+1.5 -158
+Pittsburgh	4	-170	under	-1.5 +146
+ 
+				
+Philadelphia	1	+245	7.0	+1.5 +109
+Washington	2	-270	under	-1.5 -118
+ 
+				
+Texas	10	+170	7.5	+1.5 -131
+NYYankees	9	-185	over	-1.5 +121
+ 
+				
+Seattle	4	-150	8.0	-1.5 +114
+Toronto	3	+138	under	+1.5 -123
+ 
+				
+Houston	2	-113	8.0	-1.5 +142
+Detroit	6	+104	push	+1.5 -154
+ 
+				
+LAAngels	12	+104	8.5	+1.5 -193
+Boston	5	-113	over	-1.5 +177
+ 
+				
+Cincinnati	3	+161	7.0	+1.5 -141
+Cleveland	7	-175	over	-1.5 +130
+ 
+				
+Oakland	2	+120	7.0	+1.5 -190
+TampaBay	5	-130	push	-1.5 +174
+ 
+				
+Baltimore	8	-106	7.5	-1.5 +152
+Miami	5	-102	over	+1.5 -165
+
+				
+Milwaukee	11	-124	7.5	-1.5 +136
+Atlanta	0	+115	over	+1.5 -147
+ 
+				
+SFGiants	11	-106	10.0	-1.5 +143
+Colorado	8	-102	over	+1.5 -155
+ 
+				
+Minnesota	2	+120	7.5	+1.5 -180
+ChiSox	3	-130	under	-1.5 +165
+ 
+				
+St.Louis	0	+100	7.0	+1.5 -215
+KansasCity	5	-108	under	-1.5 +197
+ 
+  				
+ChiCubs	4	-114	8.5	-1.5 +145
+Arizona	5	+105	over	+1.5 -157
+ 
+				
+SanDiego	1	+179	6.5	+1.5 -140
+LADodgers	2	-195	under	-1.5 +129
+ 
+
+
+				
+Texas	15	+155	8.0	+1.5 -148
+NYYankees	4	-168	over	-1.5 +136
+ 
+				
+Seattle	3	+129	8.5	+1.5 -168
+Toronto	2	-140	under	-1.5 +155
+ 
+				
+NYMets	2	+106	6.5	+1.5 -210
+Pittsburgh	8	-115	over	-1.5 +192
+ 
+				
+Philadelphia	8	+126	6.5	+1.5 -174
+Washington	1	-137	over	-1.5 +160
+ 
+				
+Houston	3	+103	8.5	+1.5 -197
+Detroit	2	-111	under	-1.5 +181
+ 
+				
+Milwaukee	2	-111	7.0	-1.5 +148
+Atlanta	3	+103	under	+1.5 -161
+ 
+				
+Minnesota	4	+152	7.5	+1.5 -143
+ChiSox	3	-165	under	-1.5 +132
+ 
+				
+SFGiants	10	-103	10.0	-1.5 +150
+Colorado	8	-105	over	+1.5 -163
+ 
+				
+Oakland	5	+146	7.5	+1.5 -145
+TampaBay	0	-158	under	-1.5 +134
+ 
+				
+Cincinnati	1	+214	7.0	+1.5 -102
+Cleveland	2	-235	under	-1.5 -106
+ 
+				
+Baltimore	0	-102	7.5	+1.5 -215
+Miami	1	-106	under	-1.5 +197
+ 
+				
+LAAngels	3	-102	9.0	-1.5 +159
+Boston	8	-106	over	+1.5 -173
+ 
+				
+St.Louis	2	+121	7.0	+1.5 -180
+KansasCity	3	-131	under	-1.5 +165
+ 
+				
+SFGiants	3	-119	10.5	-1.5 +135
+Colorado	5	+110	under	+1.5 -146
+ 
+				
+ChiCubs	9	-128	8.0	-1.5 +136
+Arizona	6	+118	over	+1.5 -148
+ 
+				
+SanDiego	0	+144	7.0	+1.5 -159
+LADodgers	2	-156	under	-1.5 +146
+ 
+				
+Seattle	2	-103	9.0	+1.5 -196
+Toronto	8	-105	over	-1.5 +180
+ 
+				
+Houston	10	+134	8.5	+1.5 -156
+Detroit	8	-145	over	-1.5 +144
+ 
+				
+Cincinnati	2	+165	8.5	+1.5 -130
+Cleveland	5	-180	under	-1.5 +120
+ 
+				
+Oakland	7	-125	7.0	-1.5 +146
+TampaBay	2	+115	over	+1.5 -159
+ 
+				
+Baltimore	2	-103	7.5	-1.5 +170
+Miami	5	-105	under	+1.5 -185
+ 
+				
+Milwaukee	1	-104	7.5	-1.5 +165
+Atlanta	2	-104	under	+1.5 -180
+
+				
+NYMets	1	+165	7.5	+1.5 -136
+Pittsburgh	9	-179	over	-1.5 +126
+ 
+				
+LAAngels	1	+123	9.5	+1.5 -164
+Boston	6	-133	under	-1.5 +151
+ 
+				
+Philadelphia	1	+155	7.0	+1.5 -151
+Washington	4	-168	under	-1.5 +139
+ 
+				
+St.Louis	6	+118	7.0	+1.5 -182
+KansasCity	1	-128	push	-1.5 +167
+ 
+				
+Minnesota	8	+131	8.0	+1.5 -165
+ChiSox	1	-142	over	-1.5 +152
+ 
+				
+SFGiants	2	-126	10.0	-1.5 +130
+Colorado	11	+116	over	+1.5 -141
+ 
+				
+SanDiego	11	+111	7.0	+1.5 -218
+LADodgers	3	-120	over	-1.5 +199
+ 
+				
+ChiCubs	3	-128	8.5	-1.5 +132
+Arizona	4	+118	under	+1.5 -143
+ 
+				
+Texas	5	+149	8.5	+1.5 -142
+NYYankees	2	-162	under	-1.5 +131
+ 
+   
+
+				
+KansasCity	1	+108	8.5	+1.5 -192
+NYYankees	14	-117	over	-1.5 +176
+ 
+				
+Colorado	5	+132	8.5	+1.5 -159
+Cincinnati	4	-143	over	-1.5 +146
+ 
+				
+Philadelphia	3	+146	7.5	+1.5 -160
+NYMets	6	-158	over	-1.5 +147
+ 
+				
+Houston	3	-110	8.0	-1.5 +156
+Baltimore	4	+102	under	+1.5 -170
+ 
+				
+Boston	2	-114	8.5	-1.5 +145
+Minnesota	7	+105	over	+1.5 -157
+ 
+				
+SFGiants	8	+113	8.5	+1.5 -182
+Milwaukee	4	-122	over	-1.5 +167
+ 
+  				
+Washington	2	+105	11.0	+1.5 -185
+ChiCubs	1	-114	under	-1.5 +170
+ 
+				
+Detroit	0	+123	7.5	+1.5 -177
+Oakland	4	-133	under	-1.5 +163
+ 
+				
+Texas	10	+123	9.0	+1.5 -166
+Cleveland	8	-133	over	-1.5 +153
+ 
+				
+Arizona	2	+146	7.5	+1.5 -150
+St.Louis	3	-159	under	-1.5 +138
+ 
+				
+Miami	2	+125	7.5	+1.5 -178
+Pittsburgh	4	-135	under	-1.5 +164
+ 
+				
+ChiSox	0	+145	8.5	+1.5 -143
+Toronto	6	-157	under	-1.5 +132
+ 
+				
+Seattle	4	+126	7.0	+1.5 -185
+TampaBay	1	-137	under	-1.5 +170
+ 
+				
+Atlanta	3	+174	7.0	+1.5 -135
+LADodgers	6	-190	over	-1.5 +125
+ 
+				
+SanDiego	3	+116	7.5	+1.5 -190
+LAAngels	4	-126	under	-1.5 +174
+ 
+ 
+
+				
+Houston	4	+109	8.5	+1.5 -188
+Baltimore	1	-118	under	-1.5 +173
+ 
+				
+KansasCity	1	-104	8.5	+1.5 -207
+NYYankees	5	-104	under	-1.5 +190
+ 
+				
+Miami	1	+126	8.0	+1.5 -175
+Pittsburgh	5	-136	under	-1.5 +161
+ 
+				
+Washington	2	+102	10.0	+1.5 -191
+ChiCubs	3	-110	under	-1.5 +175
+ 
+				
+ChiSox	9	+144	9.0	+1.5 -140
+Toronto	10	-156	over	-1.5 +129
+ 
+				
+Colorado	1	+133	8.0	+1.5 -167
+Cincinnati	2	-144	under	-1.5 +154
+ 
+				
+Philadelphia	4	+171	7.0	+1.5 -131
+NYMets	5	-186	over	-1.5 +121
+ 
+				
+Texas	4	+144	8.5	+1.5 -147
+Cleveland	3	-156	under	-1.5 +136
+ 
+				
+Seattle	7	+104	7.0	+1.5 -206
+TampaBay	6	-113	over	-1.5 +189
+ 
+				
+SFGiants	6	-129	7.5	-1.5 +132
+Milwaukee	3	+119	over	+1.5 -143
+ 
+				
+Boston	1	-143	8.5	-1.5 +115
+Minnesota	2	+132	under	+1.5 -125
+ 
+				
+Arizona	4	+153	8.0	+1.5 -139
+St.Louis	6	-166	over	-1.5 +128
+ 
+				
+SanDiego	4	+157	8.0	+1.5 -140
+LAAngels	0	-171	under	-1.5 +129
+ 
+				
+Detroit	1	-110	6.5	-1.5 +155
+Oakland	0	+102	under	+1.5 -168
+ 
+				
+Atlanta	0	+235	6.0	+1.5 -112
+LADodgers	8	-259	over	-1.5 +104
+ 
+				
+Texas	3	+150	8.5	+1.5 -140
+Cleveland	12	-163	over	-1.5 +129
+ 
+				
+Miami	2	+180	7.5	+1.5 -121
+Pittsburgh	5	-196	under	-1.5 +112
+ 
+				
+Colorado	6	+138	8.0	+1.5 -156
+Cincinnati	4	-150	over	-1.5 +144
+ 
+				
+ChiSox	5	+116	9.0	+1.5 -180
+Toronto	3	-126	under	-1.5 +165
+ 
+				
+KansasCity	2	+126	7.5	+1.5 -168
+NYYankees	4	-137	under	-1.5 +155
+ 
+				
+Boston	4	-116	9.0	-1.5 +142
+Minnesota	6	+107	over	+1.5 -154
+ 
+				
+Seattle	3	-122	6.5	-1.5 +146
+TampaBay	0	+113	under	+1.5 -158
+ 
+				
+Philadelphia	0	+157	7.5	+1.5 -141
+NYMets	7	-171	under	-1.5 +130
+ 
+  				
+SFGiants	3	+107	8.5	+1.5 -191
+Milwaukee	1	-116	under	-1.5 +175
+ 
+				
+Detroit	3	+133	7.5	+1.5 -160
+Oakland	2	-144	under	-1.5 +147
+ 
+				
+Houston	4	+104	8.0	+1.5 -200
+Baltimore	5	-113	over	-1.5 +183
+ 
+				
+Washington	3	-123	6.5	-1.5 +138
+ChiCubs	0	+114	under	+1.5 -150
+ 
+				
+Arizona	3	+169	7.5	+1.5 -134
+St.Louis	4	-184	under	-1.5 +124
+ 
+				
+SanDiego	5	+147	7.0	+1.5 -154
+LAAngels	4	-160	over	-1.5 +142
+ 
+				
+Atlanta	3	+163	6.5	+1.5 -148
+LADodgers	2	-177	under	-1.5 +136
+
+
+				
+ChiSox	3	-127	8.0	-1.5 +131
+Baltimore	2	+117	under	+1.5 -142
+ 
+				
+ChiSox	3	+156	8.5	+1.5 -133
+Baltimore	6	-170	over	-1.5 +123
+ 
+				
+Boston	5	-128	9.0	-1.5 +125
+Texas	1	+118	under	+1.5 -135
+ 
+				
+Detroit	2	+105	8.0	+1.5 -196
+LAAngels	12	-114	over	-1.5 +180
+ 
+				
+NYYankees	4	-107	8.0	-1.5 +155
+Oakland	5	-101	over	+1.5 -168
+ 
+				
+Cleveland	5	-114	7.0	-1.5 +150
+Seattle	3	+105	over	+1.5 -163
+ 
+				
+Pittsburgh	11	-125	6.5	-1.5 +139
+SanDiego	5	+115	over	+1.5 -151
+ 
+				
+Atlanta	0	+120	6.5	+1.5 -201
+SFGiants	7	-130	over	-1.5 +184
+ 
+   
+
+				
+KansasCity	8	+134	8.5	+1.5 -154
+ChiCubs	4	-145	over	-1.5 +142
+ 
+				
+Colorado	4	+145	7.0	+1.5 -157
+Philadelphia	1	-157	under	-1.5 +145
+ 
+				
+TampaBay	1	+117	7.5	+1.5 -183
+Baltimore	2	-127	under	-1.5 +168
+ 
+				
+Miami	4	+145	6.5	+1.5 -160
+NYMets	3	-157	over	-1.5 +147
+ 
+				
+Washington	2	-120	7.5	-1.5 +145
+Cincinnati	5	+111	under	+1.5 -157
+ 
+				
+Boston	4	+106	9.0	+1.5 -193
+Texas	7	-115	over	-1.5 +177
+ 
+				
+ChiSox	6	+148	8.5	+1.5 -142
+Houston	3	-161	over	-1.5 +131
+ 
+				
+Toronto	6	+104	8.5	+1.5 -190
+Minnesota	4	-113	over	-1.5 +174
+ 
+				
+Arizona	7	+104	8.0	+1.5 -202
+Milwaukee	5	-113	over	-1.5 +185
+ 
+				
+LADodgers	0	+109	7.5	+1.5 -199
+St.Louis	3	-118	under	-1.5 +182
+ 
+				
+Detroit	0	-116	8.0	+1.5 -240
+LAAngels	2	+107	under	-1.5 +219
+ 
+				
+NYYankees	2	+134	7.0	+1.5 -170
+Oakland	6	-145	over	-1.5 +156
+ 
+				
+Pittsburgh	2	+102	6.0	+1.5 -232
+SanDiego	6	-110	over	-1.5 +212
+ 
+				
+Cleveland	1	+101	7.5	+1.5 -197
+Seattle	2	-109	under	-1.5 +181
+ 
+				
+Atlanta	2	+134	7.0	+1.5 -170
+SFGiants	4	-145	under	-1.5 +156
+  
+
+				
+Toronto	2	-107	8.5	-1.5 +156
+Minnesota	3	-101	under	+1.5 -170
+ 
+				
+Colorado	5	+118	8.0	+1.5 -175
+Philadelphia	2	-128	under	-1.5 +161
+ 
+				
+TampaBay	3	+124	8.0	+1.5 -169
+Baltimore	0	-134	under	-1.5 +156
+ 
+				
+Arizona	7	+122	8.0	+1.5 -180
+Milwaukee	3	-132	over	-1.5 +165
+ 
+				
+ChiSox	0	+140	7.0	+1.5 -161
+Houston	3	-152	under	-1.5 +148
+ 
+				
+Miami	9	+110	7.5	+1.5 -203
+NYMets	5	-119	over	-1.5 +186
+ 
+				
+Washington	5	+102	7.5	-1.5 +166
+Cincinnati	8	-110	over	+1.5 -181
+ 
+				
+LADodgers	5	+121	7.5	+1.5 -186
+St.Louis	1	-131	under	-1.5 +171
+ 
+				
+Boston	0	-128	9.0	-1.5 +128
+Texas	8	+118	under	+1.5 -139
+ 
+				
+NYYankees	5	+110	7.0	+1.5 -205
+Oakland	3	-119	over	-1.5 +188
+ 
+				
+Atlanta	8	+133	7.0	+1.5 -165
+SFGiants	0	-144	over	-1.5 +152
+ 
+				
+Detroit	6	+106	8.0	+1.5 -203
+LAAngels	8	-115	over	-1.5 +186
+ 
+				
+Cleveland	4	+129	7.5	+1.5 -167
+Seattle	3	-140	under	-1.5 +154
+ 
+				
+Pittsburgh	5	+104	7.0	+1.5 -210
+SanDiego	2	-113	push	-1.5 +192
+ 
+ 
+
+				
+Miami	3	+116	7.5	+1.5 -190
+NYMets	4	-126	under	-1.5 +174
+ 
+				
+Washington	2	-129	8.0	-1.5 +136
+Cincinnati	8	+119	over	+1.5 -148
+ 
+				
+Colorado	4	+100	8.5	+1.5 -203
+Philadelphia	1	-108	under	-1.5 +186
+ 
+				
+TampaBay	9	-102	8.0	-1.5 +156
+Baltimore	5	-106	over	+1.5 -170
+ 
+				
+Arizona	6	-111	8.0	-1.5 +156
+Milwaukee	7	+103	over	+1.5 -170
+ 
+				
+ChiSox	6	+130	8.5	+1.5 -155
+Houston	0	-141	under	-1.5 +143
+ 
+				
+Toronto	5	-125	8.0	-1.5 +129
+Minnesota	6	+115	over	+1.5 -140
+ 
+				
+LADodgers	1	+100	7.0	+1.5 -219
+St.Louis	3	-108	under	-1.5 +200
+ 
+  				
+KansasCity	1	+136	6.5	-1.5 +156
+ChiCubs	2	-148	under	+1.5 -170
+ 
+				
+Boston	3	-115	8.5	-1.5 +146
+Texas	4	+106	under	+1.5 -159
+ 
+				
+NYYankees	0	+115	7.0	+1.5 -192
+Oakland	3	-125	under	-1.5 +176
+ 
+				
+Atlanta	7	+168	6.5	+1.5 -138
+SFGiants	5	-183	over	-1.5 +127
+ 
+				
+Cleveland	6	-102	7.0	+1.5 -215
+Seattle	3	-106	over	-1.5 +197
+ 
+				
+Detroit	2	-120	7.0	-1.5 +142
+LAAngels	4	+111	under	+1.5 -154
+ 
+				
+Pittsburgh	1	+101	7.0	-1.5 +174
+SanDiego	7	-109	over	+1.5 -190
+ 
+   
+
+				
+ChiCubs	5	-120	7.5	-1.5 +141
+Miami	1	+111	under	+1.5 -153
+ 
+				
+Milwaukee	1	+126	7.0	+1.5 -180
+St.Louis	0	-136	under	-1.5 +165
+ 
+				
+Baltimore	2	-106	8.5	+1.5 -225
+Houston	5	-102	under	-1.5 +206
+  				
+LADodgers	11	-214	9.5	-1.5 -130
+Colorado	4	+196	over	+1.5 +120
+ 
+  				
+Atlanta	8	-102	9.0	-1.5 +161
+Arizona	1	-106	push	+1.5 -175
+ 
+				
+TampaBay	3	+136	7.0	+1.5 -160
+LAAngels	7	-148	over	-1.5 +147
+ 
+				
+NYMets	7	+110	6.0	+1.5 -219
+SanDiego	0	-119	over	-1.5 +200
+ 
+				
+NYYankees	7	+123	6.0	+1.5 -192
+Seattle	2	-133	over	-1.5 +176
+ 
+				
+Pittsburgh	4	-125	7.0	-1.5 +142
+SFGiants	3	+115	push	+1.5 -154
+ 
+ 
+
+				
+Toronto	0	+143	7.5	+1.5 -157
+Washington	2	-155	under	-1.5 +145
+ 
+				
+LADodgers	3	+100	11.0	+1.5 -190
+Colorado	6	-108	under	-1.5 +174
+ 
+				
+Cincinnati	4	-175	7.0	-1.5 +101
+Philadelphia	5	+161	over	+1.5 -109
+ 
+				
+Toronto	7	+150	6.5	+1.5 -164
+Washington	3	-163	over	-1.5 +151
+ 
+				
+Oakland	5	+115	9.0	+1.5 -183
+Detroit	3	-125	under	-1.5 +168
+ 
+				
+ChiCubs	2	-102	8.0	-1.5 +165
+Miami	5	-106	under	+1.5 -180
+ 
+				
+Minnesota	0	+174	8.0	+1.5 -137
+Boston	1	-190	under	-1.5 +126
+ 
+				
+ChiSox	2	-103	8.5	-1.5 +161
+Texas	15	-105	over	+1.5 -175
+ 
+				
+Cleveland	2	-128	8.0	-1.5 +129
+KansasCity	1	+118	under	+1.5 -140
+ 
+				
+Baltimore	4	+123	8.0	+1.5 -172
+Houston	6	-133	over	-1.5 +158
+ 
+				
+Milwaukee	0	+154	7.5	+1.5 -146
+St.Louis	1	-167	under	-1.5 +135
+ 
+  				
+LADodgers	9	-185	10.0	-1.5 -118
+Colorado	8	+170	over	+1.5 +109
+ 
+  				
+Atlanta	6	-106	9.0	+1.5 -214
+Arizona	7	-102	over	-1.5 +196
+ 
+				
+TampaBay	6	-121	7.0	-1.5 +140
+LAAngels	1	+112	push	+1.5 -152
+ 
+				
+NYMets	2	+100	6.5	+1.5 -216
+SanDiego	7	-108	over	-1.5 +198
+ 
+				
+NYYankees	5	+100	7.0	+1.5 -215
+Seattle	3	-108	over	-1.5 +197
+ 
+				
+Pittsburgh	7	+112	7.0	+1.5 -202
+SFGiants	4	-121	over	-1.5 +185
+ 
+  3rd, 
+
+				
+Minnesota	3	+136	8.0	+1.5 -154
+Boston	6	-147	over	-1.5 +142
+ 
+				
+Milwaukee	4	+156	7.0	+1.5 -144
+St.Louis	7	-170	over	-1.5 +133
+ 
+ 				
+Atlanta	8	+131	8.0	+1.5 -164
+Arizona	9	-142	over	-1.5 +151
+ 
+  				
+NYYankees	3	-106	7.0	-1.5 +166
+Seattle	1	-102	under	+1.5 -181
+ 
+				
+Pittsburgh	5	-123	7.0	-1.5 +139
+SFGiants	2	+114	push	+1.5 -151
+ 
+				
+Toronto	8	+119	8.0	+1.5 -176
+Washington	0	-129	push	-1.5 +162
+ 
+				
+Cincinnati	4	+120	6.5	+1.5 -194
+Philadelphia	5	-130	over	-1.5 +178
+ 
+				
+Oakland	6	-103	7.0	-1.5 +156
+Detroit	1	-105	push	+1.5 -170
+ 
+				
+ChiCubs	3	-119	7.5	-1.5 +151
+Miami	7	+110	over	+1.5 -164
+ 
+				
+Minnesota	2	+128	8.0	+1.5 -165
+Boston	0	-139	under	-1.5 +152
+ 
+				
+ChiSox	9	-159	8.0	-1.5 +106
+Texas	2	+146	over	+1.5 -115
+ 
+				
+Cleveland	2	-120	7.0	-1.5 +142
+KansasCity	4	+111	under	+1.5 -154
+ 
+				
+Baltimore	1	+116	8.5	+1.5 -183
+Houston	3	-126	under	-1.5 +168
+ 
+				
+LADodgers	6	-122	10.5	-1.5 +120
+Colorado	7	+113	over	+1.5 -130
+ 
+				
+NYMets	3	+138	7.0	+1.5 -170
+SanDiego	7	-150	over	-1.5 +156
+ 
+				
+TampaBay	6	+105	7.5	+1.5 -194
+LAAngels	5	-114	over	-1.5 +178
+ 
+   
+
+				
+Oakland	7	-113	8.5	-1.5 +147
+Detroit	5	+104	over	+1.5 -160
+ 
+				
+Baltimore	3	+152	7.0	+1.5 -142
+Houston	2	-165	under	-1.5 +131
+ 
+				
+Minnesota	8	+144	8.5	+1.5 -147
+Boston	4	-156	over	-1.5 +136
+ 
+				
+Cincinnati	6	-124	7.0	-1.5 +139
+Philadelphia	4	+115	over	+1.5 -151
+ 
+				
+ChiCubs	2	+104	6.5	+1.5 -225
+Washington	1	-113	under	-1.5 +206
+ 
+				
+ChiSox	1	-108	8.5	+1.5 -215
+Texas	2	+100	under	-1.5 +197
+ 
+				
+Cleveland	6	+102	8.0	+1.5 -211
+KansasCity	2	-110	push	-1.5 +193
+ 
+  				
+NYMets	6	-132	8.5	-1.5 +125
+Arizona	2	+122	under	+1.5 -135
+ 
+				
+St.Louis	7	-103	7.5	+1.5 -227
+LADodgers	1	-105	over	-1.5 +207
+ 
+				
+TampaBay	2	+115	7.5	+1.5 -183
+Seattle	1	-124	under	-1.5 +168
+ 
+   
+
+				
+SFGiants	5	-126	8.0	-1.5 +136
+Philadelphia	4	+116	over	+1.5 -147
+ 
+				
+LAAngels	7	+114	8.5	+1.5 -181
+NYYankees	8	-123	over	-1.5 +166
+ 
+				
+ChiCubs	5	+117	7.5	+1.5 -195
+Washington	7	-127	over	-1.5 +179
+ 
+				
+Houston	2	+138	9.5	+1.5 -140
+Toronto	6	-150	under	-1.5 +129
+ 
+				
+Baltimore	5	+111	8.5	+1.5 -193
+Cleveland	2	-120	under	-1.5 +177
+ 
+				
+SanDiego	6	-121	7.5	-1.5 +145
+Cincinnati	2	+112	over	+1.5 -157
+ 
+				
+Oakland	2	+112	8.0	+1.5 -180
+Boston	4	-121	under	-1.5 +165
+ 
+				
+Pittsburgh	10	-127	7.5	-1.5 +136
+Atlanta	8	+117	over	+1.5 -147
+ 
+				
+Detroit	3	+132	8.5	+1.5 -156
+ChiSox	4	-143	under	-1.5 +144
+ 
+				
+Milwaukee	10	+116	8.0	+1.5 -171
+Minnesota	5	-126	over	-1.5 +157
+ 
+				
+Texas	4	+156	8.5	+1.5 -137
+KansasCity	0	-169	under	-1.5 +126
+ 
+  				
+Miami	6	-106	11.0	+1.5 -198
+Colorado	2	-102	under	-1.5 +182
+ 
+  				
+NYMets	2	+112	9.0	+1.5 -174
+Arizona	7	-121	push	-1.5 +160
+ 
+				
+St.Louis	2	+119	7.0	+1.5 -186
+LADodgers	1	-129	under	-1.5 +171
+ 
+				
+TampaBay	1	-102	7.0	+1.5 -215
+Seattle	0	-106	under	-1.5 +197
+ 
+   
+
+				
+ChiCubs	4	-107	8.0	-1.5 +160
+Washington	2	-101	under	+1.5 -174
+ 
+				
+Houston	2	+142	8.5	+1.5 -144
+Toronto	7	-154	over	-1.5 +133
+ 
+				
+Texas	4	+136	8.0	+1.5 -157
+KansasCity	2	-148	under	-1.5 +145
+ 
+				
+Milwaukee	4	+115	8.5	+1.5 -180
+Minnesota	2	-124	under	-1.5 +165
+ 
+				
+SFGiants	7	-188	7.0	-1.5 -115
+Philadelphia	5	+173	over	+1.5 +106
+ 
+				
+Oakland	2	-104	8.5	-1.5 +156
+Boston	4	-104	under	+1.5 -170
+ 
+				
+Miami	5	-112	10.5	-1.5 +139
+Colorado	10	+104	over	+1.5 -151
+ 
+				
+Baltimore	1	+145	7.5	+1.5 -151
+Cleveland	2	-157	under	-1.5 +139
+ 
+				
+SanDiego	9	-113	8.0	-1.5 +147
+Cincinnati	7	+104	over	+1.5 -160
+ 
+				
+Pittsburgh	4	-108	7.5	+1.5 -226
+Atlanta	5	+100	over	-1.5 +206
+ 
+				
+Detroit	7	-170	7.5	-1.5 -102
+ChiSox	1	+156	over	+1.5 -106
+ 
+				
+LAAngels	2	-112	8.5	-1.5 +147
+NYYankees	8	+104	over	+1.5 -160
+ 
+				
+TampaBay	1	+167	6.5	+1.5 -140
+Seattle	2	-182	under	-1.5 +129
+ 
+				
+St.Louis	0	+165	6.0	+1.5 -140
+LADodgers	2	-180	under	-1.5 +129
+ 
+				
+NYMets	1	+131	8.5	+1.5 -164
+Arizona	2	-142	under	-1.5 +151
+ 
+
+				
+LAAngels	2	+100	8.5	+1.5 -197
+NYYankees	6	-108	under	-1.5 +181
+ 
+				
+Houston	6	-103	8.5	+1.5 -210
+Toronto	7	-105	over	-1.5 +192
+ 
+				
+Baltimore	7	+169	8.0	+1.5 -126
+Cleveland	3	-184	over	-1.5 +116
+ 
+				
+SanDiego	0	+161	7.5	+1.5 -140
+Cincinnati	4	-175	under	-1.5 +129
+ 
+				
+Oakland	4	+156	8.5	+1.5 -136
+Boston	7	-170	over	-1.5 +126
+ 
+				
+SFGiants	4	-141	8.5	-1.5 +120
+Philadelphia	6	+130	over	+1.5 -130
+ 
+				
+Pittsburgh	3	-147	7.0	-1.5 +118
+Atlanta	0	+136	under	+1.5 -128
+ 
+				
+Milwaukee	0	-123	8.5	-1.5 +132
+Minnesota	2	+114	under	+1.5 -143
+ 
+				
+Texas	3	+120	9.0	+1.5 -174
+KansasCity	4	-130	under	-1.5 +160
+ 
+				
+Detroit	6	+121	9.0	+1.5 -167
+ChiSox	4	-131	over	-1.5 +154
+ 
+				
+ChiCubs	6	+130	7.0	+1.5 -173
+Washington	3	-141	over	-1.5 +159
+ 
+				
+NYMets	6	-133	8.0	-1.5 +129
+Arizona	3	+123	over	+1.5 -140
+ 
+				
+TampaBay	3	-132	7.0	-1.5 +134
+Seattle	1	+122	under	+1.5 -145
+ 
+				
+Miami	3	-104	11.0	+1.5 -190
+Colorado	2	-104	under	-1.5 +174
+ 
+				
+St.Louis	4	+141	6.5	+1.5 -168
+LADodgers	2	-153	under	-1.5 +155
+ 
+  
+
+				
+Milwaukee	2	+120	7.5	+1.5 -179
+Pittsburgh	0	-130	under	-1.5 +165
+ 
+				
+Miami	3	+157	9.0	+1.5 -133
+Toronto	11	-171	over	-1.5 +123
+ 
+				
+SanDiego	5	+109	7.5	+1.5 -192
+Atlanta	3	-118	over	-1.5 +176
+ 
+				
+Philadelphia	4	+102	7.0	+1.5 -220
+Cincinnati	6	-110	over	-1.5 +201
+ 
+				
+Houston	1	+125	7.0	+1.5 -180
+ChiSox	3	-135	under	-1.5 +165
+ 
+				
+KansasCity	3	-107	8.5	+1.5 -205
+Minnesota	1	-101	under	-1.5 +188
+ 
+  				
+St.Louis	3	-141	10.5	-1.5 +114
+Colorado	11	+130	over	+1.5 -123
+ 
+				
+Arizona	3	+133	7.5	+1.5 -172
+LADodgers	9	-144	over	-1.5 +158
+ 
+  
+
+				
+Washington	1	+117	7.5	+1.5 -175
+NYYankees	6	-127	under	-1.5 +161
+ 
+				
+Boston	0	-113	8.0	-1.5 +142
+Baltimore	1	+104	under	+1.5 -154
+ 
+				
+Milwaukee	4	+161	7.5	+1.5 -131
+Pittsburgh	1	-175	under	-1.5 +121
+ 
+				
+Miami	3	+135	9.0	+1.5 -148
+Toronto	4	-146	under	-1.5 +136
+ 
+				
+ChiCubs	0	+132	8.5	+1.5 -156
+Detroit	6	-143	under	-1.5 +144
+ 
+				
+SFGiants	5	+110	7.0	+1.5 -210
+NYMets	0	-119	under	-1.5 +192
+ 
+				
+Philadelphia	2	+122	8.0	+1.5 -179
+Cincinnati	11	-132	over	-1.5 +165
+ 
+				
+Seattle	3	+177	7.5	+1.5 -118
+Cleveland	2	-193	under	-1.5 +109
+ 
+				
+LAAngels	8	-118	7.5	-1.5 +139
+TampaBay	2	+109	over	+1.5 -151
+ 
+				
+SanDiego	5	-121	7.0	-1.5 +143
+Atlanta	6	+112	over	+1.5 -155
+ 
+				
+Houston	2	-144	8.5	-1.5 +115
+ChiSox	4	+133	under	+1.5 -125
+ 
+				
+KansasCity	2	-110	8.5	-1.5 +146
+Minnesota	0	+102	under	+1.5 -158
+ 
+  				
+St.Louis	3	-115	10.0	-1.5 +143
+Colorado	4	+106	under	+1.5 -155
+ 
+				
+Texas	2	+170	7.0	+1.5 -130
+Oakland	1	-185	under	-1.5 +120
+ 
+				
+Arizona	1	+137	7.5	+1.5 -168
+LADodgers	3	-149	under	-1.5 +155
+ 
+   
+
+				
+Philadelphia	2	+135	9.0	+1.5 -154
+Cincinnati	5	-146	under	-1.5 +142
+ 
+				
+Miami	2	+130	9.0	+1.5 -154
+Toronto	7	-141	push	-1.5 +142
+ 
+				
+Washington	5	+120	8.5	+1.5 -170
+NYYankees	4	-130	over	-1.5 +156
+ 
+				
+St.Louis	4	-144	9.5	-1.5 +116
+Colorado	2	+133	under	+1.5 -126
+ 
+				
+Boston	2	-106	8.5	+1.5 -211
+Baltimore	5	-102	under	-1.5 +193
+ 
+				
+Milwaukee	0	+152	7.5	+1.5 -143
+Pittsburgh	2	-165	under	-1.5 +132
+ 
+				
+ChiCubs	12	-108	8.5	-1.5 +139
+Detroit	3	+100	over	+1.5 -151
+ 
+				
+LAAngels	2	+108	7.5	+1.5 -194
+TampaBay	4	-117	under	-1.5 +178
+ 
+				
+SanDiego	1	-121	7.0	-1.5 +139
+Atlanta	4	+112	under	+1.5 -151
+ 
+				
+SFGiants	8	+147	6.5	+1.5 -161
+NYMets	5	-160	over	-1.5 +148
+ 
+				
+Seattle	9	+120	8.5	+1.5 -173
+Cleveland	3	-130	over	-1.5 +159
+ 
+				
+Houston	1	-104	8.0	+1.5 -209
+ChiSox	4	-104	under	-1.5 +191
+ 
+				
+KansasCity	7	-108	7.5	-1.5 +153
+Minnesota	2	+100	over	+1.5 -166
+ 
+				
+Texas	4	+125	7.0	+1.5 -175
+Oakland	5	-135	over	-1.5 +161
+ 
+				
+Arizona	6	+161	7.5	+1.5 -139
+LADodgers	7	-175	over	-1.5 +128
+ 
+  
+
+				
+Seattle	0	-109	8.5	+1.5 -219
+Cleveland	6	+101	under	-1.5 +200
+ 
+				
+SanDiego	6	-109	7.0	-1.5 +156
+Atlanta	4	+101	over	+1.5 -170
+ 
+				
+Texas	0	+152	7.5	+1.5 -149
+Oakland	7	-165	under	-1.5 +137
+ 
+				
+Boston	5	-103	8.5	+1.5 -203
+Baltimore	6	-105	over	-1.5 +186
+ 
+				
+Colorado	0	+122	8.5	+1.5 -176
+Miami	6	-132	under	-1.5 +162
+ 
+				
+LAAngels	6	-103	7.0	-1.5 +160
+TampaBay	2	-105	over	+1.5 -174
+ 
+				
+SFGiants	4	+116	7.5	+1.5 -197
+NYMets	5	-126	over	-1.5 +181
+ 
+				
+Cincinnati	3	+144	7.5	+1.5 -157
+ChiCubs	6	-156	over	-1.5 +145
+ 
+				
+Washington	5	+100	8.5	-1.5 +157
+Milwaukee	6	-108	over	+1.5 -171
+ 
+  
+
+				
+Cincinnati	5	+115	6.5	+1.5 -203
+ChiCubs	4	-125	over	-1.5 +186
+ 
+				
+NYYankees	3	-128	7.5	-1.5 +128
+Baltimore	11	+118	over	+1.5 -139
+ 
+				
+Philadelphia	0	+193	8.0	+1.5 -116
+Pittsburgh	1	-211	under	-1.5 +107
+ 
+				
+Cleveland	0	+100	7.5	+1.5 -204
+Detroit	4	-108	under	-1.5 +187
+ 
+				
+ChiSox	5	+135	8.0	+1.5 -154
+TampaBay	7	-146	over	-1.5 +142
+ 
+				
+Atlanta	3	-105	7.0	+1.5 -230
+NYMets	5	-103	over	-1.5 +210
+ 
+				
+Colorado	1	+121	8.0	+1.5 -173
+Miami	5	-131	under	-1.5 +159
+ 
+				
+Toronto	13	-101	9.0	+1.5 -196
+Boston	10	-107	over	-1.5 +180
+ 
+				
+Minnesota	2	+118	9.0	+1.5 -172
+Texas	6	-128	under	-1.5 +158
+ 
+				
+Washington	4	-108	7.5	-1.5 +155
+Milwaukee	8	+100	over	+1.5 -168
+ 
+				
+Seattle	0	-132	7.5	-1.5 +125
+Houston	10	+122	over	+1.5 -135
+ 
+				
+KansasCity	0	+114	7.0	+1.5 -190
+St.Louis	4	-123	under	-1.5 +174
+ 
+				
+Oakland	4	+101	7.5	+1.5 -205
+LAAngels	5	-109	over	-1.5 +188
+ 
+				
+LADodgers	4	-197	6.0	-1.5 -110
+SanDiego	3	+181	over	+1.5 +102
+ 
+				
+Arizona	1	+141	6.5	+1.5 -172
+SFGiants	0	-153	under	-1.5 +158
+ 
+   
+
+				
+Toronto	5	+114	9.0	+1.5 -178
+Boston	4	-123	push	-1.5 +164
+ 
+				
+Philadelphia	3	+251	7.5	+1.5 +115
+Pittsburgh	4	-277	under	-1.5 -125
+ 
+				
+Minnesota	7	+129	9.0	+1.5 -157
+Texas	11	-140	over	-1.5 +145
+ 
+				
+Cleveland	5	-117	8.0	-1.5 +139
+Detroit	4	+108	over	+1.5 -151
+ 
+				
+KansasCity	2	+132	7.5	+1.5 -165
+St.Louis	3	-143	under	-1.5 +152
+ 
+				
+Washington	7	+111	8.0	+1.5 -208
+Milwaukee	2	-120	over	-1.5 +190
+ 
+				
+ChiSox	4	+159	6.5	+1.5 -148
+TampaBay	5	-173	over	-1.5 +136
+ 
+				
+Atlanta	5	+138	7.0	+1.5 -164
+NYMets	3	-150	over	-1.5 +151
+ 
+				
+Colorado	1	+121	7.5	+1.5 -184
+Miami	4	-131	under	-1.5 +169
+ 
+				
+Seattle	8	+119	8.5	+1.5 -175
+Houston	1	-129	over	-1.5 +161
+ 
+				
+Cincinnati	3	+132	7.5	+1.5 -170
+ChiCubs	4	-143	under	-1.5 +156
+ 
+				
+NYYankees	4	+107	8.5	-1.5 +165
+Baltimore	9	-116	over	+1.5 -179
+ 
+				
+Arizona	4	+125	7.5	+1.5 -175
+SFGiants	2	-135	under	-1.5 +161
+ 
+				
+Oakland	0	+126	8.0	+1.5 -168
+LAAngels	1	-137	under	-1.5 +155
+ 
+				
+LADodgers	1	-156	7.0	-1.5 +116
+SanDiego	2	+144	under	+1.5 -126
+ 
+  
+
+				
+Cleveland	1	-155	8.0	-1.5 +111
+Detroit	8	+143	over	+1.5 -120
+ 
+				
+Atlanta	8	+111	7.5	+1.5 -199
+NYMets	10	-120	over	-1.5 +182
+ 
+				
+Colorado	4	+118	7.0	+1.5 -190
+Miami	1	-128	under	-1.5 +174
+ 
+				
+ChiSox	1	-138	6.5	-1.5 +136
+TampaBay	2	+127	under	+1.5 -148
+ 
+				
+Toronto	13	+106	8.5	+1.5 -190
+Boston	5	-115	over	-1.5 +174
+ 
+				
+Philadelphia	0	+126	7.0	+1.5 -190
+Pittsburgh	1	-137	under	-1.5 +174
+ 
+				
+NYYankees	5	+106	8.5	+1.5 -181
+Baltimore	3	-115	under	-1.5 +166
+ 
+				
+Seattle	0	+123	8.0	+1.5 -170
+Houston	13	-133	over	-1.5 +156
+ 
+				
+Washington	4	-142	7.5	-1.5 +124
+Milwaukee	0	+131	under	+1.5 -134
+ 
+				
+Minnesota	4	+104	9.0	+1.5 -188
+Texas	3	-113	under	-1.5 +173
+ 
+				
+Oakland	8	-114	7.0	-1.5 +147
+LAAngels	1	+105	over	+1.5 -160
+ 
+				
+Arizona	4	+122	7.0	+1.5 -188
+SFGiants	0	-132	under	-1.5 +173
+ 
+				
+LADodgers	4	-108	7.0	-1.5 +161
+SanDiego	2	+100	under	+1.5 -175
+ 
+				
+Cincinnati	1	+134	7.5	+1.5 -160
+ChiCubs	2	-145	under	-1.5 +147
+ 
+
+
+				
+ChiSox	0	+179	7.0	+1.5 -135
+Pittsburgh	11	-195	over	-1.5 +125
+ 
+				
+Philadelphia	0	+214	8.0	+1.5 +102
+Baltimore	4	-235	under	-1.5 -110
+ 
+				
+Cincinnati	0	+177	8.5	+1.5 -119
+Detroit	6	-193	under	-1.5 +110
+ 
+				
+Toronto	3	+113	7.5	+1.5 -193
+NYMets	4	-122	under	-1.5 +177
+ 
+				
+NYYankees	1	-133	6.5	-1.5 +126
+Miami	2	+123	under	+1.5 -137
+ 
+				
+Atlanta	4	+156	8.0	+1.5 -140
+Boston	2	-170	under	-1.5 +129
+ 
+				
+Washington	1	+112	7.0	+1.5 -195
+TampaBay	6	-121	push	-1.5 +179
+ 
+				
+LADodgers	1	-114	9.5	-1.5 +139
+Texas	4	+105	under	+1.5 -151
+ 
+				
+KansasCity	8	-107	7.5	-1.5 +156
+Milwaukee	5	-101	over	+1.5 -170
+ 
+				
+Colorado	3	+167	7.5	+1.5 -137
+Houston	6	-182	over	-1.5 +126
+ 
+				
+Minnesota	2	+155	7.0	+1.5 -152
+St.Louis	3	-168	under	-1.5 +140
+ 
+				
+Arizona	7	+130	8.0	+1.5 -163
+LAAngels	3	-141	over	-1.5 +150
+ 
+				
+Oakland	9	+106	6.5	+1.5 -212
+SanDiego	1	-115	over	-1.5 +194
+ 
+				
+Seattle	5	+110	7.0	+1.5 -203
+SFGiants	1	-119	under	-1.5 +186
+ 
+				
+Minnesota	2	+151	7.0	+1.5 -150
+St.Louis	3	-164	under	-1.5 +138
+ 
+				
+Colorado	5	+158	8.5	+1.5 -137
+Houston	8	-172	over	-1.5 +126
+
+  				
+Oakland	6	-108	6.5	-1.5 +161
+SanDiego	5	+100	over	+1.5 -175
+ 
+				
+Seattle	2	-115	7.0	-1.5 +151
+SFGiants	6	+106	over	+1.5 -164
+ 
+				
+Atlanta	4	+146	9.0	+1.5 -142
+Boston	9	-159	over	-1.5 +131
+ 
+				
+Philadelphia	3	+177	8.5	+1.5 -116
+Baltimore	19	-193	over	-1.5 +107
+ 
+				
+ChiSox	0	+141	7.0	+1.5 -163
+Pittsburgh	3	-153	under	-1.5 +150
+ 
+				
+Cincinnati	5	+120	8.5	+1.5 -166
+Detroit	2	-130	under	-1.5 +153
+ 
+				
+Toronto	2	+147	7.5	+1.5 -155
+NYMets	3	-160	under	-1.5 +143
+ 
+				
+Washington	16	+115	7.5	+1.5 -190
+TampaBay	4	-125	over	-1.5 +174
+ 
+				
+NYYankees	2	+100	7.5	-1.5 +165
+Miami	12	-108	over	+1.5 -180
+ 
+				
+LADodgers	2	-155	9.5	-1.5 +109
+Texas	3	+143	under	+1.5 -118
+ 
+				
+Cleveland	6	+130	6.5	+1.5 -175
+ChiCubs	0	-141	under	-1.5 +161
+ 
+				
+KansasCity	7	-115	7.5	-1.5 +145
+Milwaukee	2	+106	over	+1.5 -157
+ 
+				
+Arizona	1	+165	7.5	+1.5 -133
+LAAngels	4	-180	under	-1.5 +123
+ 
+   
+
+				
+Baltimore	6	-156	7.5	-1.5 +107
+Philadelphia	4	+144	over	+1.5 -116
+ 
+				
+TampaBay	5	+130	7.5	+1.5 -170
+Washington	0	-141	under	-1.5 +156
+ 
+				
+Miami	1	+179	7.5	+1.5 -117
+NYYankees	2	-195	under	-1.5 +108
+ 
+				
+NYMets	0	+177	8.5	+1.5 -121
+Toronto	8	-193	under	-1.5 +112
+ 
+				
+Detroit	4	-105	6.5	+1.5 -236
+Cincinnati	8	-103	over	-1.5 +215
+ 
+				
+ChiCubs	17	+115	8.5	+1.5 -188
+Cleveland	0	-124	over	-1.5 +173
+ 
+				
+Boston	2	-101	8.0	+1.5 -225
+Atlanta	5	-107	under	-1.5 +206
+ 
+				
+Pittsburgh	3	-114	9.0	-1.5 +146
+ChiSox	2	+105	under	+1.5 -159
+ 
+				
+Milwaukee	2	+128	7.5	+1.5 -175
+KansasCity	10	-139	over	-1.5 +161
+ 
+				
+St.Louis	1	-138	7.5	-1.5 +124
+Minnesota	3	+127	under	+1.5 -134
+ 
+  				
+Houston	8	-103	10.5	-1.5 +143
+Colorado	4	-105	over	+1.5 -155
+ 
+ 				
+LAAngels	2	+119	9.0	+1.5 -180
+Arizona	3	-129	under	-1.5 +165
+ 
+				
+SanDiego	2	+156	7.0	+1.5 -137
+Oakland	16	-170	over	-1.5 +126
+ 
+				
+Texas	5	+249	6.0	+1.5 -101
+LADodgers	3	-275	over	-1.5 -107
+ 
+				
+SFGiants	0	+122	5.5	+1.5 -194
+Seattle	2	-132	under	-1.5 +178
+ 
+
+
+				
+Baltimore	1	-154	8.5	-1.5 +106
+Philadelphia	2	+142	under	+1.5 -115
+ 
+				
+St.Louis	1	-121	8.0	-1.5 +141
+Minnesota	2	+112	under	+1.5 -153
+ 
+				
+Houston	8	-113	10.5	-1.5 +136
+Colorado	4	+104	over	+1.5 -148
+ 
+				
+SanDiego	3	+118	7.5	+1.5 -175
+Oakland	1	-128	under	-1.5 +161
+ 
+  				
+LAAngels	7	-107	9.0	-1.5 +156
+Arizona	1	-101	under	+1.5 -170
+ 
+				
+Miami	4	+119	8.0	+1.5 -180
+NYYankees	9	-129	over	-1.5 +165
+ 
+				
+TampaBay	5	-110	7.0	-1.5 +160
+Washington	3	+102	over	+1.5 -174
+ 
+				
+NYMets	1	+138	9.0	+1.5 -154
+Toronto	7	-150	under	-1.5 +142
+ 
+				
+ChiCubs	3	+133	7.5	+1.5 -159
+Cleveland	4	-144	under	-1.5 +146
+ 
+				
+Boston	5	-111	7.0	-1.5 +151
+Atlanta	2	+103	push	+1.5 -164
+ 
+				
+Milwaukee	2	+128	7.5	+1.5 -165
+KansasCity	3	-139	under	-1.5 +152
+ 
+				
+Pittsburgh	3	-129	7.5	-1.5 +127
+ChiSox	2	+119	under	+1.5 -138
+ 
+				
+Texas	0	+232	7.5	+1.5 +105
+LADodgers	1	-255	under	-1.5 -114
+ 
+				
+SFGiants	7	+134	7.5	+1.5 -164
+Seattle	0	-145	under	-1.5 +151
+ 
+ 
+
+				
+Pittsburgh	1	-121	7.0	-1.5 +146
+Washington	4	+112	under	+1.5 -158
+ 
+				
+Detroit	2	-105	8.0	+1.5 -215
+NYYankees	7	-103	over	-1.5 +197
+ 
+				
+St.Louis	12	-185	8.0	-1.5 -109
+Philadelphia	4	+170	over	+1.5 +101
+ 
+				
+Baltimore	4	+103	8.5	+1.5 -197
+Toronto	5	-111	over	-1.5 +181
+ 
+				
+Miami	0	+112	8.0	+1.5 -193
+Cincinnati	5	-121	under	-1.5 +177
+ 
+				
+TampaBay	4	+157	7.0	+1.5 -136
+Cleveland	1	-171	under	-1.5 +126
+ 
+				
+NYMets	1	-144	7.0	-1.5 +122
+Atlanta	2	+133	under	+1.5 -132
+ 
+				
+Boston	7	-105	8.0	+1.5 -215
+KansasCity	3	-103	over	-1.5 +197
+ 
+				
+ChiCubs	2	-109	8.0	+1.5 -225
+Minnesota	7	+101	over	-1.5 +206
+ 
+				
+Texas	2	+179	7.0	+1.5 -135
+ChiSox	1	-195	under	-1.5 +125
+ 
+  				
+Milwaukee	9	+131	10.5	+1.5 -157
+Colorado	5	-142	over	-1.5 +145
+ 
+				
+LAAngels	12	+142	7.0	+1.5 -154
+Oakland	7	-154	over	-1.5 +142
+ 
+  				
+SanDiego	2	-107	8.5	-1.5 +148
+Arizona	4	-101	under	+1.5 -161
+ 
+				
+Houston	2	-110	7.0	-1.5 +150
+Seattle	5	+102	push	+1.5 -163
+ 
+				
+SFGiants	9	+129	7.0	+1.5 -169
+LADodgers	5	-140	over	-1.5 +156
+ 
+				
+Baltimore	5	+103	8.5	+1.5 -197
+Toronto	3	-111	under	-1.5 +181
+ 
+				
+Texas	2	+146	8.5	+1.5 -142
+ChiSox	3	-158	under	-1.5 +131
+ 
+				
+ChiCubs	4	-102	8.5	-1.5 +156
+Minnesota	1	-106	under	+1.5 -170
+ 
+				
+LAAngels	1	+121	7.5	+1.5 -174
+Oakland	4	-131	under	-1.5 +160
+ 
+				
+Pittsburgh	0	+132	6.5	+1.5 -180
+Washington	6	-143	under	-1.5 +165
+ 
+				
+Milwaukee	1	+116	10.0	+1.5 -170
+Colorado	5	-126	under	-1.5 +156
+ 
+				
+St.Louis	10	-150	7.5	-1.5 +115
+Philadelphia	1	+138	over	+1.5 -125
+ 
+				
+Boston	4	+108	8.0	+1.5 -182
+KansasCity	7	-117	over	-1.5 +167
+ 
+				
+NYMets	4	-124	7.0	-1.5 +135
+Atlanta	6	+115	over	+1.5 -146
+ 
+				
+TampaBay	4	+162	7.0	+1.5 -134
+Cleveland	1	-176	under	-1.5 +124
+ 
+				
+Miami	5	+115	8.0	+1.5 -186
+Cincinnati	0	-125	under	-1.5 +171
+ 
+				
+SFGiants	6	+132	8.0	+1.5 -163
+LADodgers	2	-143	push	-1.5 +150
+ 
+				
+Detroit	3	+133	8.5	+1.5 -160
+NYYankees	14	-144	over	-1.5 +147
+ 
+				
+Houston	3	-120	6.5	-1.5 +143
+Seattle	6	+111	over	+1.5 -155
+ 
+				
+SanDiego	8	-114	8.0	-1.5 +143
+Arizona	1	+105	over	+1.5 -155
+ 
+
+
+				
+Detroit	12	+136	8.0	+1.5 -159
+NYYankees	4	-148	over	-1.5 +146
+ 
+				
+Baltimore	13	+117	9.0	+1.5 -183
+Toronto	9	-127	over	-1.5 +168
+ 
+				
+TampaBay	0	+107	8.0	+1.5 -192
+Cleveland	1	-116	under	-1.5 +176
+ 
+				
+Miami	2	+106	8.5	+1.5 -203
+Cincinnati	5	-115	under	-1.5 +186
+ 
+				
+St.Louis	2	-185	8.5	-1.5 -109
+Philadelphia	9	+170	over	+1.5 +101
+ 
+				
+Pittsburgh	2	-108	8.0	+1.5 -219
+Washington	9	+100	over	-1.5 +200
+ 
+				
+ChiCubs	8	-137	8.0	-1.5 +120
+Minnesota	0	+126	push	+1.5 -130
+ 
+				
+Texas	2	+122	8.0	+1.5 -181
+ChiSox	3	-132	under	-1.5 +166
+ 
+				
+Boston	13	-101	8.5	+1.5 -199
+KansasCity	2	-107	over	-1.5 +182
+ 
+				
+LAAngels	2	+102	7.5	+1.5 -208
+Oakland	3	-110	under	-1.5 +190
+ 
+				
+Milwaukee	4	+104	11.0	+1.5 -184
+Colorado	10	-113	over	-1.5 +169
+ 
+				
+SanDiego	2	-107	8.5	+1.5 -220
+Arizona	7	-101	over	-1.5 +201
+ 
+				
+Houston	6	+105	7.5	+1.5 -199
+Seattle	2	-114	over	-1.5 +182
+ 
+				
+NYMets	0	-121	7.0	-1.5 +141
+Atlanta	1	+112	under	+1.5 -153
+ 
+				
+SFGiants	2	+152	7.5	+1.5 -148
+LADodgers	10	-165	over	-1.5 +136
+ 
+
+				
+Philadelphia	11	+254	8.5	+1.5 +120
+NYYankees	8	-280	over	-1.5 -130
+ 
+				
+Detroit	8	+127	9.0	+1.5 -156
+Cleveland	5	-138	over	-1.5 +144
+ 
+				
+Toronto	8	+113	7.0	+1.5 -195
+TampaBay	5	-122	over	-1.5 +179
+ 
+				
+LADodgers	2	-180	8.5	-1.5 -108
+ChiCubs	4	+165	under	+1.5 +100
+ 
+				
+ChiSox	2	+125	9.0	+1.5 -157
+Minnesota	13	-135	over	-1.5 +145
+ 
+				
+Houston	3	+114	7.5	+1.5 -189
+LAAngels	4	-123	under	-1.5 +174
+ 
+				
+KansasCity	4	+136	6.5	+1.5 -166
+Seattle	1	-148	under	-1.5 +153
+ 
+ 
+
+				
+Atlanta	1	+146	7.5	+1.5 -155
+Washington	3	-158	under	-1.5 +143
+ 
+				
+Philadelphia	11	+249	9.5	+1.5 +127
+NYYankees	6	-275	over	-1.5 -138
+ 
+				
+Cincinnati	6	+140	8.0	+1.5 -156
+Pittsburgh	7	-152	over	-1.5 +144
+ 
+				
+Baltimore	6	+106	9.0	+1.5 -195
+Boston	4	-115	over	-1.5 +179
+ 
+				
+Toronto	3	+146	7.0	+1.5 -153
+TampaBay	4	-158	push	-1.5 +141
+ 
+				
+Detroit	7	+102	7.0	+1.5 -215
+Cleveland	3	-110	over	-1.5 +197
+ 
+				
+St.Louis	4	-125	7.0	-1.5 +129
+Miami	3	+115	push	+1.5 -140
+ 
+				
+LADodgers	0	-137	7.0	-1.5 +124
+ChiCubs	1	+126	under	+1.5 -134
+ 
+				
+Oakland	8	-129	9.0	-1.5 +129
+Texas	6	+119	over	+1.5 -140
+ 
+				
+NYMets	2	+141	8.0	+1.5 -161
+Milwaukee	3	-153	under	-1.5 +148
+ 
+				
+ChiSox	6	-106	8.0	-1.5 +151
+Minnesota	2	-102	push	+1.5 -164
+ 
+  				
+Arizona	5	-120	10.5	-1.5 +129
+Colorado	10	+111	over	+1.5 -140
+ 
+				
+Houston	13	+108	7.5	+1.5 -195
+LAAngels	3	-117	over	-1.5 +179
+ 
+				
+KansasCity	0	+109	7.0	-1.5 +174
+Seattle	7	-118	push	+1.5 -190
+ 
+				
+SanDiego	3	+179	6.5	+1.5 -131
+SFGiants	2	-195	under	-1.5 +121
+				
+Detroit	2	+187	8.0	+1.5 -117
+Cleveland	8	-204	over	-1.5 +108
+ 
+				
+Toronto	1	+108	7.5	+1.5 -194
+TampaBay	0	-117	under	-1.5 +178
+ 
+				
+Philadelphia	2	+110	8.0	+1.5 -187
+NYYankees	10	-119	over	-1.5 +172
+ 
+				
+ChiSox	1	-141	7.0	-1.5 +115
+Minnesota	6	+130	push	+1.5 -125
+ 
+				
+Houston	1	-103	7.5	-1.5 +158
+LAAngels	2	-105	under	+1.5 -172
+ 
+				
+Cincinnati	5	+164	6.5	+1.5 -137
+Pittsburgh	2	-178	over	-1.5 +126
+ 
+				
+Atlanta	1	+156	6.5	+1.5 -147
+Washington	2	-169	under	-1.5 +136
+ 
+				
+St.Louis	6	-114	6.5	-1.5 +149
+Miami	1	+105	over	+1.5 -162
+ 
+				
+Baltimore	1	+129	8.5	+1.5 -161
+Boston	5	-140	under	-1.5 +148
+ 
+				
+Oakland	8	+110	8.5	+1.5 -178
+Texas	2	-119	over	-1.5 +164
+ 
+				
+LADodgers	5	-109	8.0	-1.5 +152
+ChiCubs	2	+101	under	+1.5 -165
+ 
+				
+NYMets	1	+122	7.5	+1.5 -180
+Milwaukee	4	-132	under	-1.5 +165
+ 
+  				
+Arizona	8	+108	10.5	+1.5 -176
+Colorado	7	-117	over	-1.5 +162
+ 
+				
+KansasCity	8	+100	7.0	+1.5 -218
+Seattle	2	-108	over	-1.5 +199
+ 
+				
+SanDiego	0	+110	7.0	+1.5 -206
+SFGiants	6	-119	under	-1.5 +189
+ 
+   
+
+				
+ChiSox	8	+147	8.5	+1.5 -137
+Detroit	7	-160	over	-1.5 +126
+ 
+				
+Baltimore	8	+121	8.5	+1.5 -170
+Boston	6	-131	over	-1.5 +156
+ 
+				
+Oakland	6	-141	9.0	-1.5 +118
+Texas	3	+130	push	+1.5 -128
+ 
+				
+NYMets	2	-116	7.0	-1.5 +147
+Milwaukee	0	+107	under	+1.5 -160
+ 
+				
+LADodgers	4	+128	7.0	+1.5 -185
+ChiCubs	0	-139	under	-1.5 +170
+ 
+				
+Arizona	4	-124	10.5	-1.5 +133
+Colorado	6	+115	under	+1.5 -144
+ 
+				
+SanDiego	8	+121	6.5	+1.5 -190
+SFGiants	13	-131	over	-1.5 +174
+ 
+				
+Atlanta	0	+124	7.5	+1.5 -182
+Washington	7	-134	under	-1.5 +167
+ 
+				
+Cincinnati	5	+147	7.5	+1.5 -160
+Pittsburgh	4	-160	over	-1.5 +147
+ 
+				
+St.Louis	5	-115	7.5	-1.5 +146
+Miami	1	+106	under	+1.5 -158
+ 
+				
+NYYankees	0	+136	7.5	+1.5 -164
+Houston	4	-148	under	-1.5 +151
+ 
+
+
+				
+Washington	5	-177	6.5	-1.5 +101
+Philadelphia	2	+163	over	+1.5 -109
+ 
+				
+Atlanta	2	+219	6.5	+1.5 -107
+Pittsburgh	3	-240	under	-1.5 -101
+ 
+				
+Cleveland	3	-107	7.5	-1.5 +156
+Baltimore	4	-101	under	+1.5 -170
+ 
+				
+Texas	2	+157	9.0	+1.5 -135
+Toronto	12	-171	over	-1.5 +125
+ 
+				
+ChiSox	4	+145	8.0	+1.5 -147
+Detroit	5	-157	over	-1.5 +136
+ 
+				
+Cincinnati	1	-120	6.5	-1.5 +147
+NYMets	2	+111	under	+1.5 -160
+ 
+				
+LADodgers	7	-127	7.5	-1.5 +136
+Miami	1	+117	over	+1.5 -147
+ 
+				
+Boston	4	+104	7.5	+1.5 -203
+TampaBay	3	-113	under	-1.5 +186
+ 
+				
+Minnesota	4	+123	7.5	+1.5 -180
+Milwaukee	10	-133	over	-1.5 +165
+ 
+				
+NYYankees	3	+117	8.5	+1.5 -182
+Houston	2	-127	under	-1.5 +167
+ 
+				
+ChiCubs	2	+112	6.5	+1.5 -202
+St.Louis	3	-121	under	-1.5 +185
+ 
+				
+KansasCity	5	+117	7.0	+1.5 -183
+Oakland	2	-127	push	-1.5 +168
+ 
+				
+Seattle	3	+108	7.5	+1.5 -200
+LAAngels	1	-117	under	-1.5 +183
+ 
+				
+Arizona	2	+135	6.5	+1.5 -169
+SanDiego	4	-146	under	-1.5 +156
+ 
+				
+Colorado	8	+119	7.0	+1.5 -191
+SFGiants	6	-129	over	-1.5 +175
+ 
+				
+Texas	4	+136	8.5	+1.5 -150
+Toronto	0	-148	under	-1.5 +138
+ 
+				
+Minnesota	5	+126	8.0	+1.5 -180
+Milwaukee	2	-137	under	-1.5 +165
+ 
+				
+Colorado	5	+116	7.5	+1.5 -185
+SFGiants	7	-126	over	-1.5 +170
+ 
+				
+KansasCity	3	+134	7.0	+1.5 -166
+Oakland	2	-145	under	-1.5 +153
+ 
+				
+Atlanta	4	+141	7.0	+1.5 -151
+Pittsburgh	8	-153	over	-1.5 +139
+ 
+				
+LADodgers	2	-280	6.5	-1.5 -150
+Miami	3	+254	under	+1.5 +138
+ 
+				
+NYYankees	9	-130	7.5	-1.5 +133
+Houston	6	+120	over	+1.5 -144
+ 
+				
+Boston	1	+102	7.5	+1.5 -199
+TampaBay	4	-110	under	-1.5 +182
+ 
+				
+Cincinnati	1	+147	7.5	+1.5 -171
+NYMets	2	-160	under	-1.5 +157
+ 
+				
+ChiCubs	1	+164	7.0	+1.5 -141
+St.Louis	8	-178	over	-1.5 +130
+ 
+				
+Seattle	2	+129	7.5	+1.5 -169
+LAAngels	4	-140	under	-1.5 +156
+ 
+				
+Arizona	2	+118	6.5	+1.5 -187
+SanDiego	7	-128	over	-1.5 +172
+
+
+				
+Washington	3	-170	8.0	-1.5 +102
+Philadelphia	2	+156	under	+1.5 -110
+ 
+				
+Texas	2	+156	9.0	+1.5 -135
+Toronto	3	-170	under	-1.5 +125
+ 
+				
+ChiSox	4	+147	7.5	+1.5 -147
+Detroit	5	-160	over	-1.5 +136
+ 
+				
+Boston	5	+161	6.5	+1.5 -148
+TampaBay	3	-175	over	-1.5 +136
+ 
+				
+
+ 
+				
+LADodgers	2	-215	7.0	-1.5 -118
+Miami	0	+197	under	+1.5 +109
+ 
+				
+Cleveland	0	+122	8.5	+1.5 -163
+Baltimore	4	-132	under	-1.5 +150
+
+				
+Atlanta	2	+146	7.0	+1.5 -164
+Pittsburgh	1	-158	under	-1.5 +151
+ 
+				
+NYYankees	1	-107	7.5	-1.5 +159
+Houston	3	-101	under	+1.5 -173
+ 
+				
+Minnesota	3	+146	8.0	+1.5 -146
+Milwaukee	5	-158	push	-1.5 +135
+ 
+				
+Seattle	2	-115	7.0	-1.5 +161
+LAAngels	3	+106	under	+1.5 -175
+ 
+				
+Colorado	3	+201	7.0	+1.5 -116
+SFGiants	6	-220	over	-1.5 +107
+ 
+				
+KansasCity	5	+130	7.5	+1.5 -167
+Oakland	3	-141	over	-1.5 +154
+ 
+				
+Washington	5	-175	8.5	-1.5 +107
+Philadelphia	8	+161	over	+1.5 -116
+ 
+				
+Arizona	6	+103	7.5	+1.5 -210
+SanDiego	4	-111	over	-1.5 +192
+ 
+				
+Cleveland	0	+124	9.0	+1.5 -166
+Baltimore	8	-134	under	-1.5 +153
+ 
+				
+ChiCubs	1	+124	7.0	+1.5 -183
+St.Louis	4	-134	under	-1.5 +168
+ 
+  
+
+				
+Milwaukee	7	-156	8.0	-1.5 +110
+Philadelphia	4	+144	over	+1.5 -119
+ 
+				
+Texas	8	+122	9.0	+1.5 -161
+Baltimore	1	-132	push	-1.5 +148
+ 
+				
+Boston	3	+112	8.5	+1.5 -184
+Toronto	1	-121	under	-1.5 +169
+ 
+				
+Cleveland	7	+110	7.0	+1.5 -193
+TampaBay	1	-119	over	-1.5 +177
+ 
+				
+Minnesota	7	+146	7.5	+1.5 -149
+Cincinnati	11	-159	over	-1.5 +137
+ 
+				
+KansasCity	1	+115	7.0	+1.5 -182
+Houston	6	-124	push	-1.5 +167
+ 
+  				
+LADodgers	6	-155	9.0	-1.5 +111
+Arizona	10	+143	over	+1.5 -120
+ 
+				
+NYYankees	1	+119	8.0	+1.5 -178
+LAAngels	4	-129	under	-1.5 +164
+ 
+				
+Colorado	1	+156	8.0	+1.5 -135
+Oakland	7	-170	push	-1.5 +125
+ 
+ 
+
+				
+Milwaukee	4	+112	7.0	+1.5 -195
+Philadelphia	3	-122	push	-1.5 +179
+ 
+				
+Texas	8	+131	8.5	+1.5 -156
+Baltimore	6	-142	over	-1.5 +144
+ 
+				
+Boston	4	+128	9.0	+1.5 -155
+Toronto	3	-139	under	-1.5 +143
+ 
+				
+Pittsburgh	5	-112	7.5	-1.5 +150
+Detroit	4	+104	over	+1.5 -163
+ 
+				
+Washington	6	-113	6.5	-1.5 +155
+Atlanta	1	+104	over	+1.5 -168
+ 
+				
+SFGiants	3	+111	7.0	+1.5 -199
+Miami	5	-120	over	-1.5 +182
+ 
+				
+Minnesota	8	+115	8.0	+1.5 -185
+Cincinnati	5	-125	over	-1.5 +170
+ 
+				
+Cleveland	6	-138	7.0	-1.5 +129
+TampaBay	2	+127	over	+1.5 -140
+ 
+				
+ChiCubs	1	-118	7.0	-1.5 +149
+NYMets	0	+109	under	+1.5 -162
+ 
+				
+KansasCity	0	+136	7.0	+1.5 -163
+Houston	4	-148	under	-1.5 +150
+ 
+				
+ChiSox	2	-110	6.0	-1.5 +159
+St.Louis	1	+102	under	+1.5 -173
+ 
+  				
+LADodgers	6	-115	9.0	-1.5 +143
+Arizona	4	+106	over	+1.5 -155
+ 
+				
+NYYankees	1	+119	7.5	+1.5 -172
+LAAngels	2	-129	under	-1.5 +158
+ 
+				
+Colorado	2	+129	7.5	+1.5 -166
+Oakland	1	-140	under	-1.5 +153
+ 
+				
+Seattle	5	+109	7.5	+1.5 -207
+SanDiego	0	-118	under	-1.5 +190
+ 
+				
+Minnesota	1	+176	7.0	+1.5 -130
+Cincinnati	2	-192	under	-1.5 +120
+ 
+				
+Boston	2	+123	8.5	+1.5 -166
+Toronto	11	-133	over	-1.5 +153
+ 
+				
+Colorado	1	+165	7.5	+1.5 -129
+Oakland	4	-180	under	-1.5 +119
+ 
+  				
+Seattle	7	+100	7.0	+1.5 -214
+SanDiego	0	-108	push	-1.5 +196
+ 
+				
+NYYankees	3	-106	8.0	+1.5 -218
+LAAngels	1	-102	under	-1.5 +199
+ 
+				
+Milwaukee	9	-114	7.5	-1.5 +152
+Philadelphia	5	+105	over	+1.5 -165
+ 
+				
+Texas	2	+160	8.5	+1.5 -131
+Baltimore	4	-174	under	-1.5 +121
+ 
+				
+Pittsburgh	9	-102	8.5	+1.5 -208
+Detroit	3	-106	over	-1.5 +190
+ 
+				
+ChiCubs	2	-119	7.0	-1.5 +143
+NYMets	0	+110	under	+1.5 -155
+ 
+				
+Washington	1	-136	7.5	-1.5 +137
+Atlanta	4	+126	under	+1.5 -149
+ 
+				
+SFGiants	5	-125	7.0	-1.5 +135
+Miami	6	+115	over	+1.5 -146
+ 
+				
+Cleveland	8	-145	7.0	-1.5 +121
+TampaBay	1	+134	over	+1.5 -131
+ 
+				
+KansasCity	5	+104	7.5	+1.5 -194
+Houston	6	-113	over	-1.5 +178
+ 
+				
+ChiSox	7	+140	6.5	+1.5 -170
+St.Louis	1	-152	over	-1.5 +156
+ 
+ 				
+LADodgers	4	-126	8.5	-1.5 +135
+Arizona	3	+116	under	+1.5 -146
+ 
+				
+Cleveland	5	-130	6.5	-1.5 +143
+TampaBay	4	+120	over	+1.5 -155
+ 
+				
+SFGiants	4	+111	6.5	+1.5 -203
+Miami	5	-120	over	-1.5 +186
+ 
+				
+Pittsburgh	8	-137	9.0	-1.5 +126
+Detroit	4	+126	over	+1.5 -137
+ 
+				
+ChiCubs	6	+112	6.0	+1.5 -212
+NYMets	1	-121	over	-1.5 +194
+ 
+				
+Milwaukee	8	-136	8.0	-1.5 +126
+Philadelphia	7	+126	over	+1.5 -136
+ 
+				
+Texas	2	+103	8.5	+1.5 -195
+Baltimore	0	-111	under	-1.5 +179
+ 
+				
+Boston	12	+145	9.0	+1.5 -135
+Toronto	6	-157	over	-1.5 +125
+ 
+				
+Washington	1	-188	6.5	-1.5 -107
+Atlanta	2	+173	under	+1.5 -101
+ 
+				
+SanDiego	5	+102	7.5	+1.5 -210
+St.Louis	3	-110	over	-1.5 +192
+ 
+				
+Minnesota	2	+141	7.5	+1.5 -155
+KansasCity	0	-153	under	-1.5 +143
+ 
+  				
+Colorado	1	+145	9.0	+1.5 -142
+Arizona	8	-157	push	-1.5 +131
+ 
+				
+Seattle	0	+133	7.0	+1.5 -169
+Oakland	4	-144	under	-1.5 +156
+ 
+ 				
+Miami	2	+168	7.0	+1.5 -128
+ChiCubs	1	-183	under	-1.5 +118
+ 
+				
+SFGiants	1	+115	7.5	+1.5 -186
+Washington	2	-125	under	-1.5 +171
+ 
+				
+TampaBay	5	+120	7.0	+1.5 -175
+NYYankees	7	-130	over	-1.5 +161
+ 
+				
+Cleveland	5	+111	7.5	+1.5 -200
+Pittsburgh	2	-120	under	-1.5 +183
+ 
+				
+Toronto	6	+109	8.5	+1.5 -185
+Detroit	8	-118	over	-1.5 +170
+ 
+				
+Houston	12	+106	9.5	+1.5 -181
+Boston	8	-115	over	-1.5 +166
+ 
+				
+Milwaukee	12	-114	8.0	-1.5 +152
+Cincinnati	1	+105	over	+1.5 -165
+ 
+				
+Philadelphia	1	+150	7.5	+1.5 -140
+Atlanta	2	-163	under	-1.5 +129
+ 
+				
+LAAngels	8	-135	9.5	-1.5 +123
+Texas	2	+125	over	+1.5 -133
+ 
+				
+Baltimore	0	-157	8.0	-1.5 +105
+ChiSox	1	+145	under	+1.5 -114
+ 
+				
+Minnesota	2	+125	7.5	+1.5 -172
+KansasCity	3	-135	under	-1.5 +158
+ 
+				
+SanDiego	2	+139	7.0	+1.5 -169
+St.Louis	1	-151	under	-1.5 +156
+ 
+				
+Seattle	9	+111	7.0	+1.5 -196
+Oakland	5	-120	over	-1.5 +180
+ 
+  				
+Colorado	3	+155	9.0	+1.5 -135
+Arizona	4	-168	under	-1.5 +125
+ 
+				
+NYMets	2	+223	6.0	+1.5 -113
+LADodgers	1	-245	under	-1.5 +104
+ 
+				
+SFGiants	3	-104	6.5	-1.5 +165
+Washington	9	-104	over	+1.5 -179
+ 
+				
+TampaBay	2	+152	7.5	+1.5 -143
+NYYankees	3	-165	under	-1.5 +132
+ 
+				
+Toronto	3	+100	8.5	+1.5 -208
+Detroit	8	-108	over	-1.5 +190
+ 
+				
+Houston	1	+138	8.0	+1.5 -164
+Boston	6	-150	under	-1.5 +151
+ 
+				
+Baltimore	2	+101	7.5	+1.5 -208
+ChiSox	3	-109	under	-1.5 +190
+ 
+				
+SanDiego	1	+183	7.0	+1.5 -124
+St.Louis	2	-200	under	-1.5 +115
+ 
+				
+Cleveland	0	+103	8.0	+1.5 -203
+Pittsburgh	1	-111	under	-1.5 +186
+ 
+				
+Seattle	0	-130	7.5	-1.5 +133
+Oakland	2	+120	under	+1.5 -144
+ 
+				
+Miami	2	+120	7.5	+1.5 -185
+ChiCubs	7	-130	over	-1.5 +170
+ 
+				
+Minnesota	5	+144	8.0	+1.5 -148
+KansasCity	3	-156	push	-1.5 +136
+ 
+				
+NYMets	3	+156	6.5	+1.5 -156
+LADodgers	4	-170	over	-1.5 +144
+ 
+				
+Milwaukee	7	+101	8.5	-1.5 +165
+Cincinnati	3	-109	over	+1.5 -179
+ 
+				
+Philadelphia	5	+163	7.0	+1.5 -136
+Atlanta	9	-177	over	-1.5 +126
+ 
+				
+LAAngels	13	-119	9.0	-1.5 +139
+Texas	0	+110	over	+1.5 -151
+ 
+				
+Colorado	3	+147	9.0	+1.5 -142
+Arizona	7	-160	over	-1.5 +131
+ 
+ 
+
+				
+TampaBay	8	+119	9.0	+1.5 -170
+NYYankees	1	-129	push	-1.5 +156
+ 
+				
+Toronto	10	-119	9.0	-1.5 +140
+Detroit	5	+110	over	+1.5 -152
+ 
+				
+Milwaukee	6	+113	8.0	+1.5 -199
+Cincinnati	1	-122	under	-1.5 +182
+ 
+				
+Philadelphia	4	-104	6.5	+1.5 -236
+Atlanta	0	-104	under	-1.5 +215
+ 
+				
+Houston	4	+107	8.5	+1.5 -193
+Boston	5	-116	over	-1.5 +177
+ 
+				
+Cleveland	3	+119	6.5	+1.5 -192
+Pittsburgh	5	-129	over	-1.5 +176
+ 
+				
+Minnesota	2	+136	8.5	+1.5 -159
+KansasCity	3	-148	under	-1.5 +146
+ 
+				
+Baltimore	9	-110	8.5	-1.5 +146
+ChiSox	1	+102	over	+1.5 -159
+ 
+				
+SanDiego	1	+165	7.0	+1.5 -142
+St.Louis	3	-180	under	-1.5 +131
+ 
+ 				
+Miami	0	+120	7.5	+1.5 -185
+ChiCubs	2	-130	under	-1.5 +170
+ 
+				
+Seattle	2	+105	7.5	+1.5 -196
+Oakland	1	-114	under	-1.5 +180
+ 
+				
+NYMets	8	+140	7.0	+1.5 -162
+LADodgers	0	-152	over	-1.5 +149
+ 
+				
+Colorado	6	+152	8.5	+1.5 -144
+Arizona	4	-165	over	-1.5 +133
+ 
+				
+LAAngels	12	-123	9.5	-1.5 +130
+Texas	6	+114	over	+1.5 -141
+ 
+				
+SFGiants	1	+141	7.0	+1.5 -155
+Washington	3	-153	under	-1.5 +143
+ 
+ 
+
+				
+SanDiego	1	+104	7.0	+1.5 -220
+Pittsburgh	2	-113	under	-1.5 +201
+ 
+				
+Cincinnati	3	+109	7.5	+1.5 -196
+Washington	2	-118	under	-1.5 +180
+ 
+				
+Houston	9	+110	7.0	+1.5 -199
+Cleveland	4	-119	over	-1.5 +182
+ 
+				
+St.Louis	6	+109	8.5	+1.5 -200
+ChiCubs	0	-118	under	-1.5 +183
+ 
+				
+Baltimore	2	-118	7.5	-1.5 +141
+Minnesota	4	+109	under	+1.5 -153
+ 
+				
+Toronto	2	+112	7.5	+1.5 -191
+ChiSox	4	-121	under	-1.5 +175
+ 
+				
+Atlanta	5	+136	8.5	+1.5 -158
+Milwaukee	3	-148	under	-1.5 +146
+ 
+				
+Detroit	12	+151	7.5	+1.5 -144
+Seattle	5	-164	over	-1.5 +133
+ 
+				
+Philadelphia	7	+232	7.5	+1.5 +102
+LADodgers	10	-255	over	-1.5 -110
+ 
+				
+NYMets	3	+130	7.0	+1.5 -179
+SFGiants	0	-141	under	-1.5 +165
+ 
+  
+
+ 				
+St.Louis	4	+149	6.0	+1.5 -171
+ChiCubs	7	-162	over	-1.5 +157
+ 
+				
+TampaBay	5	+109	7.0	+1.5 -204
+KansasCity	9	-118	over	-1.5 +187
+ 
+				
+Cincinnati	5	+134	6.0	+1.5 -177
+Washington	0	-145	under	-1.5 +163
+ 
+				
+Oakland	4	-117	8.0	-1.5 +136
+NYYankees	3	+108	under	+1.5 -147
+ 
+				
+SanDiego	2	+126	7.0	+1.5 -185
+Pittsburgh	3	-137	under	-1.5 +170
+ 
+				
+Miami	3	+192	9.0	+1.5 -108
+Boston	4	-210	under	-1.5 +100
+ 
+				
+Houston	0	+161	7.0	+1.5 -137
+Cleveland	2	-175	under	-1.5 +126
+ 
+				
+St.Louis	3	-103	7.0	-1.5 +163
+ChiCubs	5	-105	over	+1.5 -177
+ 
+				
+Arizona	4	+118	8.5	+1.5 -178
+Texas	2	-128	under	-1.5 +164
+ 
+				
+Toronto	2	-123	8.5	-1.5 +134
+ChiSox	1	+114	under	+1.5 -145
+ 
+				
+TampaBay	1	+108	7.0	+1.5 -194
+KansasCity	7	-117	over	-1.5 +178
+ 
+				
+Atlanta	4	+134	7.5	+1.5 -138
+Milwaukee	3	-145	under	-1.5 +127
+ 
+				
+Baltimore	3	-125	7.0	-1.5 +133
+Minnesota	8	+115	over	+1.5 -144
+ 
+ 				
+LAAngels	10	-109	10.5	-1.5 +141
+Colorado	2	+101	over	+1.5 -153
+ 
+				
+Philadelphia	7	+245	7.0	+1.5 +107
+LADodgers	2	-270	over	-1.5 -116
+ 
+				
+Detroit	6	+168	7.5	+1.5 -133
+Seattle	7	-183	over	-1.5 +123
+ 
+				
+NYMets	0	+115	7.0	+1.5 -201
+SFGiants	3	-125	under	-1.5 +184
+ 
+   
+
+				
+Baltimore	3	-128	8.0	-1.5 +132
+Minnesota	5	+118	push	+1.5 -143
+ 
+				
+Atlanta	5	+132	7.0	+1.5 -168
+Milwaukee	6	-143	over	-1.5 +155
+
+ 				
+Detroit	5	+104	7.5	+1.5 -202
+Seattle	4	-113	over	-1.5 +185
+ 
+				
+NYMets	4	-107	6.5	-1.5 +165
+SFGiants	1	-101	under	+1.5 -180
+ 
+				
+SanDiego	2	+121	7.0	+1.5 -185
+Pittsburgh	5	-131	push	-1.5 +170
+ 
+				
+Oakland	4	-102	8.0	-1.5 +160
+NYYankees	5	-106	over	+1.5 -174
+ 
+				
+Houston	2	+122	8.0	+1.5 -171
+Cleveland	4	-132	under	-1.5 +157
+ 
+				
+Miami	3	+164	9.0	+1.5 -129
+Boston	6	-178	push	-1.5 +119
+ 
+				
+St.Louis	6	+106	6.5	+1.5 -210
+ChiCubs	5	-115	over	-1.5 +192
+ 
+				
+Arizona	7	+101	9.5	+1.5 -192
+Texas	4	-109	over	-1.5 +176
+ 
+				
+TampaBay	7	-148	6.5	-1.5 +126
+KansasCity	9	+136	over	+1.5 -137
+ 
+				
+Toronto	6	-155	9.0	-1.5 +106
+ChiSox	7	+143	over	+1.5 -115
+ 
+  				
+LAAngels	3	-128	10.5	-1.5 +129
+Colorado	2	+118	under	+1.5 -140
+ 
+				
+Philadelphia	0	+301	6.5	+1.5 +128
+LADodgers	5	-335	under	-1.5 -139
+ 
+   
+
+				
+Oakland	2	+138	8.5	+1.5 -149
+NYYankees	6	-150	under	-1.5 +137
+ 
+				
+Toronto	0	+108	8.0	+1.5 -191
+ChiSox	2	-117	under	-1.5 +175
+ 
+				
+TampaBay	3	+116	7.0	+1.5 -184
+KansasCity	8	-126	over	-1.5 +169
+ 
+				
+St.Louis	4	-102	7.0	-1.5 +159
+Pittsburgh	1	-106	under	+1.5 -173
+ 
+				
+Houston	1	+109	7.5	+1.5 -195
+Cleveland	3	-118	under	-1.5 +179
+ 
+				
+Cincinnati	0	+135	7.0	+1.5 -166
+Miami	2	-146	under	-1.5 +153
+ 
+				
+Detroit	4	-123	8.0	-1.5 +136
+Minnesota	2	+114	under	+1.5 -148
+ 
+  				
+Atlanta	3	+100	10.0	+1.5 -188
+Colorado	5	-108	under	-1.5 +173
+ 
+				
+LAAngels	2	+129	7.0	+1.5 -171
+Seattle	7	-140	over	-1.5 +157
+ 
+				
+Philadelphia	0	+271	7.0	+1.5 +115
+LADodgers	6	-300	under	-1.5 -125
+ 
+  
+
+				
+ChiSox	1	+143	7.0	+1.5 -167
+ChiCubs	0	-155	under	-1.5 +154
+ 
+				
+St.Louis	2	+126	6.0	+1.5 -197
+Pittsburgh	5	-136	over	-1.5 +181
+ 
+				
+Washington	2	+126	8.5	+1.5 -164
+Baltimore	3	-136	under	-1.5 +151
+ 
+				
+Cincinnati	1	-117	7.0	-1.5 +146
+Miami	0	+108	under	+1.5 -158
+ 
+				
+Oakland	1	+141	7.5	+1.5 -156
+Cleveland	5	-153	under	-1.5 +144
+ 
+				
+NYYankees	5	-108	7.5	-1.5 +149
+Boston	1	+100	under	+1.5 -162
+ 
+				
+Arizona	2	+127	6.5	+1.5 -181
+NYMets	4	-138	under	-1.5 +166
+ 
+				
+Houston	1	-105	7.0	+1.5 -225
+TampaBay	3	-103	under	-1.5 +206
+ 
+				
+SanDiego	3	+110	9.5	+1.5 -177
+Texas	4	-119	under	-1.5 +163
+ 
+				
+Toronto	0	-118	8.5	-1.5 +138
+KansasCity	3	+109	under	+1.5 -150
+ 
+				
+Atlanta	3	+110	10.0	-1.5 +169
+Colorado	5	-119	under	+1.5 -184
+ 
+				
+Detroit	6	+108	8.0	+1.5 -193
+Minnesota	8	-117	over	-1.5 +177
+ 
+				
+LAAngels	7	-112	7.5	-1.5 +144
+Seattle	3	+104	over	+1.5 -156
+ 
+				
+Milwaukee	2	+147	7.0	+1.5 -155
+LADodgers	3	-160	under	-1.5 +143
+ 
+				
+Philadelphia	2	+152	6.0	+1.5 -165
+SFGiants	15	-165	over	-1.5 +152
+ 
+   
+
+				
+Toronto	6	-130	8.0	-1.5 +125
+KansasCity	2	+120	push	+1.5 -135
+ 
+				
+ChiSox	5	-115	6.0	-1.5 +154
+ChiCubs	1	+106	push	+1.5 -167
+ 
+				
+Detroit	5	+135	8.5	+1.5 -148
+Minnesota	9	-146	over	-1.5 +136
+ 
+				
+Arizona	2	+120	6.5	+1.5 -190
+NYMets	4	-130	under	-1.5 +174
+ 
+				
+Houston	0	-106	6.5	-1.5 +154
+TampaBay	3	-102	under	+1.5 -167
+ 
+				
+Cincinnati	3	-127	7.5	-1.5 +129
+Miami	14	+117	over	+1.5 -140
+ 
+				
+Atlanta	2	+139	10.0	+1.5 -143
+Colorado	3	-151	under	-1.5 +132
+ 
+				
+Oakland	5	+141	7.5	+1.5 -159
+Cleveland	4	-153	over	-1.5 +146
+ 
+				
+NYYankees	3	+132	8.5	+1.5 -158
+Boston	5	-143	under	-1.5 +146
+ 
+				
+St.Louis	5	+109	6.5	+1.5 -204
+Pittsburgh	6	-118	over	-1.5 +187
+ 
+				
+Washington	7	+111	7.5	+1.5 -185
+Baltimore	4	-120	over	-1.5 +170
+ 
+				
+SanDiego	6	+108	9.0	+1.5 -180
+Texas	5	-117	over	-1.5 +165
+ 
+				
+Philadelphia	5	+176	7.5	+1.5 -127
+SFGiants	8	-192	over	-1.5 +117
+ 
+				
+LAAngels	0	+105	7.5	-1.5 +166
+Seattle	5	-114	under	+1.5 -181
+ 
+				
+Milwaukee	7	+134	7.5	+1.5 -166
+LADodgers	1	-145	over	-1.5 +153
+
+
+				
+Houston	3	-120	7.0	-1.5 +143
+TampaBay	4	+111	push	+1.5 -155
+ 
+				
+Cincinnati	1	-150	6.5	-1.5 +120
+Miami	8	+138	over	+1.5 -130
+ 
+				
+Oakland	2	+121	6.5	+1.5 -187
+Cleveland	0	-131	under	-1.5 +172
+ 
+				
+Arizona	3	-111	7.5	-1.5 +155
+NYMets	5	+103	over	+1.5 -168
+ 
+				
+Washington	3	-105	7.0	-1.5 +157
+Baltimore	2	-103	under	+1.5 -171
+ 
+				
+NYYankees	8	-102	9.0	+1.5 -201
+Boston	6	-106	over	-1.5 +184
+ 
+				
+Toronto	10	+109	8.5	+1.5 -187
+KansasCity	11	-118	over	-1.5 +172
+ 
+				
+Detroit	1	+115	8.5	+1.5 -174
+Minnesota	7	-125	under	-1.5 +160
+ 
+  				
+ChiSox	1	+152	6.5	+1.5 -156
+ChiCubs	3	-165	under	-1.5 +144
+ 
+				
+SanDiego	2	+123	9.0	+1.5 -166
+Texas	1	-133	under	-1.5 +153
+ 
+				
+Philadelphia	2	+188	7.5	+1.5 -114
+SFGiants	4	-205	under	-1.5 +105
+ 
+				
+LAAngels	10	-106	7.5	+1.5 -216
+Seattle	3	-102	over	-1.5 +198
+ 
+				
+Atlanta	3	+117	10.5	+1.5 -165
+Colorado	11	-127	over	-1.5 +152
+ 
+				
+Milwaukee	3	+138	7.5	+1.5 -165
+LADodgers	4	-150	under	-1.5 +152
+ 
+				
+St.Louis	5	+151	7.0	+1.5 -153
+Pittsburgh	6	-164	over	-1.5 +141
+ 
+   
+
+				
+KansasCity	4	+103	7.5	+1.5 -201
+ChiSox	2	-111	under	-1.5 +184
+ 
+				
+LADodgers	3	-121	7.5	-1.5 +136
+Washington	5	+112	over	+1.5 -147
+ 
+				
+Seattle	3	+153	8.0	+1.5 -139
+NYYankees	4	-166	under	-1.5 +128
+ 
+				
+Miami	3	-180	6.5	-1.5 -106
+Philadelphia	6	+165	over	+1.5 -102
+ 
+				
+TampaBay	2	+132	8.5	+1.5 -155
+Toronto	6	-143	under	-1.5 +143
+ 
+				
+Baltimore	3	-106	8.0	-1.5 +141
+Detroit	7	-102	over	+1.5 -153
+ 
+				
+Cleveland	1	-106	8.5	-1.5 +151
+Cincinnati	6	-102	under	+1.5 -164
+ 
+			
+ChiCubs	2	-128	7.5	-1.5 +133
+Atlanta	4	+118	under	+1.5 -144
+ 
+				
+Texas	2	+136	8.0	+1.5 -154
+Houston	3	-147	under	-1.5 +142
+ 
+				
+KansasCity	0	-115	9.0	-1.5 +138
+ChiSox	2	+106	under	+1.5 -150
+ 
+				
+Pittsburgh	1	+109	8.5	+1.5 -191
+Milwaukee	4	-118	under	-1.5 +175
+ 
+				
+NYMets	2	+125	7.0	+1.5 -194
+St.Louis	3	-135	under	-1.5 +178
+ 
+  				
+SFGiants	6	+105	8.5	+1.5 -205
+Arizona	5	-114	over	-1.5 +188
+ 
+				
+Boston	0	+117	8.0	+1.5 -178
+LAAngels	1	-127	under	-1.5 +164
+ 
+				
+Minnesota	5	+156	6.5	+1.5 -137
+Oakland	0	-170	under	-1.5 +126
+ 
+				
+Colorado	2	+132	7.0	+1.5 -168
+SanDiego	4	-143	under	-1.5 +155
+ 
+  
+
+				
+Seattle	4	+146	8.0	+1.5 -140
+NYYankees	3	-158	under	-1.5 +129
+
+				
+TampaBay	3	+125	9.0	+1.5 -160
+Toronto	2	-135	under	-1.5 +147
+ 
+				
+KansasCity	7	+107	7.5	+1.5 -191
+ChiSox	6	-116	over	-1.5 +175
+ 
+				
+LADodgers	4	-171	7.0	-1.5 +104
+Washington	2	+157	under	+1.5 -112
+ 
+				
+Miami	1	-113	7.5	-1.5 +143
+Philadelphia	3	+104	under	+1.5 -155
+ 
+				
+Baltimore	3	+128	8.0	+1.5 -160
+Detroit	0	-139	under	-1.5 +147
+ 
+				
+Texas	7	+121	8.5	+1.5 -174
+Houston	6	-131	over	-1.5 +160
+ 
+				
+Cleveland	9	-156	7.5	-1.5 +109
+Cincinnati	4	+144	over	+1.5 -118
+ 
+				
+Pittsburgh	5	-127	8.0	-1.5 +136
+Milwaukee	8	+117	over	+1.5 -148
+ 
+				
+ChiCubs	4	-163	7.5	-1.5 +105
+Atlanta	0	+150	under	+1.5 -114
+ 
+				
+NYMets	2	+147	7.5	+1.5 -152
+St.Louis	12	-160	over	-1.5 +140
+ 
+				
+SFGiants	8	-103	8.5	+1.5 -210
+Arizona	4	-105	over	-1.5 +192
+ 
+  				
+Colorado	4	+126	7.0	+1.5 -185
+SanDiego	5	-136	over	-1.5 +170
+ 
+				
+Boston	0	+124	7.5	+1.5 -185
+LAAngels	3	-134	under	-1.5 +170
+ 
+				
+Minnesota	2	+137	7.0	+1.5 -163
+Oakland	3	-149	under	-1.5 +150
+ 
+   
+
+				
+Seattle	1	-110	8.5	-1.5 +149
+NYYankees	2	+102	under	+1.5 -162
+ 
+				
+TampaBay	0	-108	8.0	-1.5 +151
+Toronto	4	+100	under	+1.5 -164
+ 
+				
+Baltimore	9	+107	8.5	+1.5 -191
+Detroit	3	-116	over	-1.5 +175
+ 
+				
+Cleveland	5	+107	7.0	+1.5 -215
+Cincinnati	3	-116	over	-1.5 +197
+ 
+				
+Miami	7	+130	7.5	+1.5 -163
+Philadelphia	8	-141	over	-1.5 +150
+ 
+				
+LADodgers	5	-106	6.5	+1.5 -240
+Washington	0	-102	under	-1.5 +219
+ 
+				
+KansasCity	4	+159	7.0	+1.5 -142
+ChiSox	1	-173	under	-1.5 +131
+ 
+				
+Pittsburgh	1	+123	8.0	+1.5 -188
+Milwaukee	6	-133	under	-1.5 +173
+ 
+				
+Texas	0	+157	7.0	+1.5 -143
+Houston	10	-171	over	-1.5 +132
+ 
+				
+NYMets	3	+131	7.5	+1.5 -151
+St.Louis	1	-142	under	-1.5 +139
+ 
+				
+Minnesota	1	+126	7.5	+1.5 -168
+Oakland	14	-136	over	-1.5 +155
+ 
+				
+SFGiants	2	-110	7.5	-1.5 +154
+Arizona	1	+102	under	+1.5 -167
+ 
+				
+ChiCubs	4	-160	6.5	-1.5 +110
+Atlanta	1	+147	under	+1.5 -119
+ 
+
+
+				
+Boston	1	+104	8.0	+1.5 -194
+LAAngels	11	-113	over	-1.5 +178
+ 
+				
+NYMets	2	+109	7.0	+1.5 -209
+Washington	7	-118	over	-1.5 +191
+ 
+				
+TampaBay	3	-116	8.0	-1.5 +143
+Philadelphia	5	+107	push	+1.5 -155
+ 
+				
+Seattle	4	+102	9.5	+1.5 -191
+Detroit	5	-110	under	-1.5 +175
+ 
+				
+LADodgers	5	-135	7.5	-1.5 +126
+Atlanta	7	+125	over	+1.5 -136
+ 
+				
+ChiCubs	4	+100	9.5	+1.5 -200
+Cincinnati	5	-108	under	-1.5 +183
+ 
+				
+Pittsburgh	10	+123	7.0	+1.5 -178
+KansasCity	7	-133	over	-1.5 +164
+ 
+ 				
+Texas	7	+147	10.5	+1.5 -138
+Colorado	8	-160	over	-1.5 +127
+ 
+ 				
+Miami	1	+145	8.0	+1.5 -155
+Arizona	3	-157	under	-1.5 +143
+ 
+				
+Boston	3	+135	7.5	+1.5 -158
+LAAngels	7	-146	over	-1.5 +146
+ 
+				
+SFGiants	2	-116	7.0	-1.5 +143
+SanDiego	4	+107	under	+1.5 -155
+ 
+
+				
+TampaBay	1	-135	7.5	-1.5 +126
+Philadelphia	0	+125	under	+1.5 -136
+ 
+				
+NYMets	7	-119	7.0	-1.5 +151
+Washington	2	+110	over	+1.5 -164
+ 
+				
+Baltimore	2	+111	8.5	+1.5 -190
+NYYankees	3	-120	under	-1.5 +174
+ 
+				
+Seattle	11	-137	9.0	-1.5 +126
+Detroit	9	+126	over	+1.5 -137
+ 
+				
+LADodgers	3	-130	7.0	-1.5 +131
+Atlanta	4	+120	push	+1.5 -142
+ 
+				
+ChiCubs	5	-125	8.5	-1.5 +141
+Cincinnati	4	+115	over	+1.5 -153
+ 
+				
+Pittsburgh	1	-113	7.0	-1.5 +154
+KansasCity	3	+104	under	+1.5 -167
+ 
+				
+St.Louis	8	-134	7.5	-1.5 +126
+ChiSox	5	+124	over	+1.5 -136
+ 
+				
+Boston	3	+104	8.0	+1.5 -190
+Houston	8	-113	over	-1.5 +174
+ 
+				
+Cleveland	1	-115	8.0	-1.5 +147
+Milwaukee	8	+106	over	+1.5 -160
+
+  				
+Texas	9	+120	11.5	+1.5 -152
+Colorado	0	-130	under	-1.5 +140
+ 
+ 				
+Miami	3	+126	8.0	+1.5 -175
+Arizona	0	-136	under	-1.5 +161
+ 
+				
+Minnesota	0	+115	7.0	+1.5 -195
+LAAngels	7	-124	push	-1.5 +179
+ 
+				
+Toronto	7	-110	7.5	-1.5 +151
+Oakland	1	+102	over	+1.5 -164
+ 
+				
+SFGiants	9	-125	7.0	-1.5 +146
+SanDiego	3	+115	over	+1.5 -158
+ 
+
+				
+LADodgers	3	-157	7.5	-1.5 +109
+Atlanta	1	+145	under	+1.5 -118
+ 
+				
+ChiCubs	1	-111	8.0	-1.5 +152
+Cincinnati	9	+103	over	+1.5 -165
+ 
+				
+NYMets	3	+100	7.0	+1.5 -223
+Washington	4	-108	push	-1.5 +204
+ 
+				
+TampaBay	4	-174	7.5	-1.5 -102
+Philadelphia	5	+160	over	+1.5 -106
+ 
+				
+Cleveland	7	+106	9.0	+1.5 -192
+Milwaukee	5	-115	over	-1.5 +176
+ 
+				
+Texas	10	+147	10.5	+1.5 -134
+Colorado	8	-160	over	-1.5 +124
+ 
+ 				
+SFGiants	7	-103	7.0	+1.5 -232
+SanDiego	1	-105	over	-1.5 +212
+ 
+				
+ChiCubs	6	+112	8.5	+1.5 -183
+Cincinnati	5	-121	over	-1.5 +168
+ 
+				
+Baltimore	3	+106	8.5	+1.5 -184
+NYYankees	4	-115	under	-1.5 +169
+ 
+				
+Seattle	4	+124	8.5	+1.5 -159
+Detroit	9	-134	over	-1.5 +146
+ 
+				
+Pittsburgh	1	+117	7.5	+1.5 -185
+KansasCity	5	-127	under	-1.5 +170
+ 
+				
+Boston	2	+128	8.0	+1.5 -160
+Houston	4	-139	under	-1.5 +147
+ 
+				
+St.Louis	3	-146	8.0	-1.5 +115
+ChiSox	2	+135	under	+1.5 -124
+ 
+  				
+Miami	5	-113	7.0	-1.5 +150
+Arizona	3	+104	over	+1.5 -163
+ 
+				
+Toronto	3	+130	7.0	+1.5 -180
+Oakland	4	-141	push	-1.5 +165
+ 
+				
+Minnesota	2	+156	7.5	+1.5 -131
+LAAngels	5	-170	under	-1.5 +121
+ 
+  
+
+				
+Baltimore	3	+118	7.5	+1.5 -181
+NYYankees	9	-128	over	-1.5 +166
+ 
+				
+Seattle	3	+146	7.5	+1.5 -154
+Detroit	2	-159	under	-1.5 +142
+ 
+				
+Minnesota	3	+166	7.5	+1.5 -137
+LAAngels	0	-181	under	-1.5 +126
+ 
+				
+Toronto	5	-120	8.5	-1.5 +142
+Oakland	2	+111	under	+1.5 -154
+ 
+				
+Washington	3	+170	7.0	+1.5 -134
+Pittsburgh	7	-185	over	-1.5 +123
+ 
+				
+ChiSox	8	+126	7.5	+1.5 -180
+Cleveland	1	-136	over	-1.5 +165
+ 
+				
+LADodgers	3	-255	6.5	-1.5 -133
+NYMets	0	+232	under	+1.5 +123
+ 
+				
+KansasCity	3	+131	7.0	+1.5 -175
+St.Louis	4	-142	push	-1.5 +161
+ 
+				
+Boston	4	+120	7.5	+1.5 -180
+Houston	5	-131	over	-1.5 +165
+ 
+  				
+Milwaukee	3	-134	8.0	-1.5 +124
+Arizona	8	+124	over	+1.5 -134
+ 
+				
+Miami	4	+135	6.5	+1.5 -169
+SanDiego	0	-147	under	-1.5 +155
+ 
+   
+
+				
+Philadelphia	5	+241	9.0	+1.5 +116
+ChiCubs	3	-265	under	-1.5 -126
+ 
+				
+Washington	5	-129	6.5	-1.5 +132
+Pittsburgh	7	+119	over	+1.5 -143
+ 
+				
+Baltimore	1	+141	6.5	+1.5 -159
+TampaBay	3	-153	under	-1.5 +146
+ 
+				
+Detroit	1	+136	9.0	+1.5 -146
+Boston	2	-147	under	-1.5 +135
+ 
+				
+LADodgers	7	-113	7.5	-1.5 +147
+NYMets	2	+104	over	+1.5 -160
+ 
+				
+ChiSox	6	+147	7.0	+1.5 -151
+Cleveland	0	-160	under	-1.5 +139
+ 
+				
+Houston	4	-109	8.0	-1.5 +151
+KansasCity	0	+101	under	+1.5 -164
+ 
+				
+NYYankees	1	-157	8.0	-1.5 +102
+Minnesota	10	+145	over	+1.5 -110
+ 
+				
+Atlanta	2	+176	7.5	+1.5 -131
+St.Louis	4	-192	under	-1.5 +121
+ 
+  				
+Cincinnati	5	+104	11.0	+1.5 -180
+Colorado	6	-113	push	-1.5 +165
+ 
+  				
+Milwaukee	2	+115	8.0	+1.5 -187
+Arizona	1	-125	under	-1.5 +171
+ 
+				
+Texas	4	+131	8.0	+1.5 -156
+LAAngels	2	-142	under	-1.5 +144
+ 
+				
+Toronto	2	+140	6.5	+1.5 -161
+Seattle	5	-152	over	-1.5 +148
+ 
+				
+Miami	1	+140	6.5	+1.5 -170
+SanDiego	3	-152	under	-1.5 +156
+ 
+				
+Oakland	3	+122	7.0	+1.5 -176
+SFGiants	9	-132	over	-1.5 +162
+ 
+   
+
+				
+Philadelphia	5	+186	6.0	+1.5 -133
+ChiCubs	0	-202	under	-1.5 +123
+ 
+				
+Detroit	5	+115	9.5	+1.5 -174
+Boston	1	-125	under	-1.5 +160
+ 
+				
+Oakland	1	+176	6.5	+1.5 -131
+SFGiants	2	-192	under	-1.5 +121
+ 
+				
+Toronto	8	-128	8.0	-1.5 +135
+Seattle	6	+119	over	+1.5 -146
+ 
+				
+Baltimore	5	+104	7.0	+1.5 -224
+TampaBay	1	-113	under	-1.5 +204
+ 
+				
+Washington	9	+133	7.0	+1.5 -167
+Pittsburgh	3	-144	over	-1.5 +154
+ 
+				
+NYYankees	8	-114	8.0	-1.5 +140
+Minnesota	5	+105	over	+1.5 -151
+ 
+				
+LADodgers	2	+111	7.0	+1.5 -193
+NYMets	15	-121	over	-1.5 +177
+ 
+				
+ChiSox	10	-109	6.0	-1.5 +161
+Cleveland	3	+100	over	+1.5 -175
+ 
+				
+Houston	1	+127	8.0	+1.5 -180
+KansasCity	2	-138	under	-1.5 +165
+ 
+				
+Atlanta	0	+201	6.5	+1.5 -126
+St.Louis	1	-220	under	-1.5 +116
+ 
+				
+Cincinnati	5	-124	10.0	-1.5 +134
+Colorado	2	+115	under	+1.5 -145
+ 
+				
+Milwaukee	0	+109	8.0	+1.5 -198
+Arizona	2	-118	under	-1.5 +182
+ 
+  				
+Miami	1	+120	7.0	+1.5 -199
+SanDiego	3	-130	under	-1.5 +182
+ 
+				
+Texas	7	+139	7.5	+1.5 -151
+LAAngels	6	-151	over	-1.5 +139
+ 
+   
+
+				
+ChiSox	2	+138	7.0	+1.5 -160
+Cleveland	1	-149	under	-1.5 +147
+ 
+				
+LADodgers	2	-125	6.0	-1.5 +139
+NYMets	3	+115	under	+1.5 -151
+ 
+				
+Baltimore	5	-115	7.0	-1.5 +152
+TampaBay	2	+106	push	+1.5 -165
+ 
+				
+Washington	1	+148	7.0	+1.5 -157
+Pittsburgh	3	-160	under	-1.5 +145
+ 
+				
+NYYankees	7	-125	8.0	-1.5 +129
+Minnesota	2	+115	over	+1.5 -140
+ 
+				
+Houston	1	-111	7.0	-1.5 +155
+KansasCity	5	+103	under	+1.5 -168
+ 
+				
+Atlanta	3	+175	7.0	+1.5 -127
+St.Louis	2	-190	under	-1.5 +117
+ 
+  				
+Philadelphia	11	+164	7.0	+1.5 -135
+ChiCubs	5	-178	over	-1.5 +124
+ 
+				
+Texas	7	+170	7.5	+1.5 -122
+LAAngels	13	-185	over	-1.5 +113
+ 
+				
+Oakland	3	+126	7.5	+1.5 -181
+SFGiants	4	-137	under	-1.5 +166
+ 
+				
+Toronto	5	-113	7.5	-1.5 +153
+Seattle	6	+105	over	+1.5 -166
+ 
+				
+Cincinnati	7	-113	11.5	-1.5 +136
+Colorado	17	+104	over	+1.5 -148
+ 
+				
+Milwaukee	0	+131	8.0	+1.5 -170
+Arizona	3	-142	under	-1.5 +156
+ 
+				
+Miami	2	-105	7.0	-1.5 +161
+SanDiego	3	-103	under	+1.5 -175
+ 
+				
+Detroit	1	+138	9.5	+1.5 -148
+Boston	11	-150	over	-1.5 +136
+
+
+				
+Atlanta	1	+150	7.5	+1.5 -139
+Baltimore	2	-163	under	-1.5 +128
+ 
+				
+ChiSox	10	+151	9.0	+1.5 -125
+Boston	8	-165	over	-1.5 +115
+ 
+				
+KansasCity	9	-103	7.5	+1.5 -215
+Cleveland	4	-105	over	-1.5 +197
+ 
+				
+Detroit	2	+108	7.0	+1.5 -205
+TampaBay	5	-117	push	-1.5 +188
+ 
+				
+Colorado	8	+130	7.0	+1.5 -176
+ChiCubs	9	-141	over	-1.5 +162
+ 
+				
+NYYankees	6	-111	10.0	-1.5 +139
+Texas	2	+103	under	+1.5 -151
+ 
+				
+Cincinnati	1	+149	7.5	+1.5 -153
+St.Louis	4	-162	under	-1.5 +141
+ 
+				
+Arizona	4	+114	7.0	+1.5 -185
+Seattle	3	-123	push	-1.5 +170
+ 
+				
+Milwaukee	2	+174	7.0	+1.5 -135
+SFGiants	4	-190	under	-1.5 +125
+ 
+ 
+
+				
+Atlanta	3	+163	7.5	+1.5 -130
+Baltimore	7	-177	over	-1.5 +120
+ 
+				
+Philadelphia	3	+245	9.5	+1.5 +113
+Toronto	2	-270	under	-1.5 -122
+ 
+				
+Washington	1	+115	6.5	+1.5 -215
+Miami	4	-124	under	-1.5 +197
+ 
+				
+Detroit	2	-116	6.5	-1.5 +152
+TampaBay	10	+107	over	+1.5 -165
+ 
+				
+SanDiego	0	+123	7.0	+1.5 -190
+NYMets	4	-133	under	-1.5 +174
+ 
+				
+ChiSox	9	+126	8.5	+1.5 -162
+Boston	4	-136	over	-1.5 +149
+ 
+				
+KansasCity	2	+108	7.5	+1.5 -205
+Cleveland	1	-117	under	-1.5 +188
+ 
+				
+NYYankees	21	-111	9.5	-1.5 +147
+Texas	5	+103	over	+1.5 -160
+ 
+				
+Colorado	7	+137	8.5	+1.5 -158
+ChiCubs	2	-149	over	-1.5 +146
+ 
+				
+Pittsburgh	8	-114	9.5	-1.5 +145
+Minnesota	7	+105	over	+1.5 -157
+ 
+				
+LAAngels	5	+129	8.0	+1.5 -169
+Houston	10	-140	over	-1.5 +156
+ 
+				
+Cincinnati	4	+132	7.5	+1.5 -163
+St.Louis	0	-143	under	-1.5 +150
+ 
+				
+Arizona	8	+155	7.0	+1.5 -138
+Seattle	4	-168	over	-1.5 +127
+ 
+				
+Oakland	2	+126	6.5	+1.5 -182
+LADodgers	0	-137	under	-1.5 +167
+ 
+				
+Milwaukee	5	+139	7.0	+1.5 -161
+SFGiants	2	-151	push	-1.5 +148
+ 
+   
+
+				
+Detroit	2	+157	6.5	+1.5 -142
+TampaBay	1	-171	under	-1.5 +131
+ 
+				
+KansasCity	1	+156	7.5	+1.5 -140
+Cleveland	12	-170	over	-1.5 +129
+ 
+				
+Pittsburgh	10	-129	8.0	-1.5 +138
+Minnesota	4	+119	over	+1.5 -150
+ 
+  				
+Colorado	2	+210	8.0	+1.5 -108
+ChiCubs	3	-230	under	-1.5 +100
+  				
+Arizona	8	+153	6.5	+1.5 -145
+Seattle	2	-166	over	-1.5 +134
+ 
+
+Milwaukee	0	-109	7.0	+1.5 -243
+SFGiants	5	+101	under	-1.5 +221
+ 
+				
+Atlanta	0	+158	8.5	+1.5 -142
+Baltimore	2	-172	under	-1.5 +131
+ 
+
+Philadelphia	2	+248	9.0	+1.5 +112
+Toronto	8	-273	over	-1.5 -121
+ 
+				
+SanDiego	7	-105	7.0	+1.5 -230
+NYMets	3	-103	over	-1.5 +210
+ 
+				
+ChiSox	9	+104	8.5	+1.5 -203
+Boston	2	-113	over	-1.5 +186
+ 
+				
+Washington	7	-119	7.5	-1.5 +137
+Miami	2	+110	over	+1.5 -149
+ 
+				
+NYYankees	2	-166	9.0	-1.5 -102
+Texas	5	+153	under	+1.5 -106
+ 
+				
+LAAngels	3	+122	7.5	+1.5 -177
+Houston	6	-132	over	-1.5 +163
+ 
+
+Cincinnati	1	+151	7.5	+1.5 -152
+St.Louis	0	-164	under	-1.5 +140
+ 
+				
+Oakland	7	+139	7.0	+1.5 -160
+LADodgers	10	-151	over	-1.5 +147
+ 
+ 				
+Washington	1	-183	6.5	-1.5 -105
+Miami	0	+168	under	+1.5 -103
+ 
+
+SanDiego	8	-109	7.0	+1.5 -237
+NYMets	7	+101	over	-1.5 +216
+ 
+				
+Atlanta	1	-127	7.5	-1.5 +132
+Philadelphia	4	+117	under	+1.5 -143
+ 
+				
+Detroit	9	+129	8.5	+1.5 -170
+Baltimore	8	-140	over	-1.5 +156
+ 
+				
+KansasCity	2	+114	9.0	+1.5 -186
+Toronto	5	-123	under	-1.5 +171
+ 
+				
+Pittsburgh	5	-152	9.0	-1.5 +111
+Cincinnati	15	+140	over	+1.5 -120
+ 
+				
+ChiSox	2	-188	7.5	-1.5 -113
+Boston	8	+173	over	+1.5 +104
+ 
+				
+Colorado	8	+168	7.0	+1.5 -140
+St.Louis	9	-183	over	-1.5 +129
+ 
+				
+NYYankees	6	-126	9.0	-1.5 +126
+Texas	7	+116	over	+1.5 -137
+ 
+				
+ChiCubs	5	-136	7.0	-1.5 +126
+Milwaukee	2	+126	push	+1.5 -136
+ 
+				
+Seattle	5	+112	8.5	+1.5 -189
+Minnesota	9	-121	over	-1.5 +174
+ 
+				
+LAAngels	0	+120	7.5	+1.5 -184
+Houston	3	-130	under	-1.5 +169
+ 
+				
+Cleveland	3	-129	7.0	-1.5 +138
+Oakland	1	+119	under	+1.5 -150
+ 
+  
+
+				
+Atlanta	3	-120	7.5	+1.5 -240
+Philadelphia	9	+111	over	-1.5 +219
+ 
+				
+Detroit	7	+155	8.5	+1.5 -137
+Baltimore	8	-168	over	-1.5 +126
+ 
+
+KansasCity	6	+100	7.5	+1.5 -213
+Toronto	7	-108	over	-1.5 +195
+ 
+				
+Washington	1	+104	7.0	+1.5 -225
+NYMets	2	-113	under	-1.5 +206
+ 
+				
+TampaBay	5	+100	9.0	+1.5 -198
+Boston	7	-108	over	-1.5 +182
+ 
+				
+SanDiego	8	+102	7.5	+1.5 -225
+Miami	3	-110	over	-1.5 +206
+ 
+				
+Pittsburgh	5	-130	9.0	-1.5 +136
+Cincinnati	4	+120	push	+1.5 -147
+ 
+				
+SFGiants	3	-170	9.0	-1.5 +100
+Texas	6	+156	push	+1.5 -108
+ 
+				
+ChiCubs	4	-125	8.0	-1.5 +135
+Milwaukee	1	+115	under	+1.5 -146
+ 
+				
+NYYankees	13	-118	8.0	-1.5 +139
+ChiSox	6	+109	over	+1.5 -151
+ 
+				
+Arizona	6	+125	8.0	+1.5 -165
+Houston	4	-135	over	-1.5 +152
+ 
+				
+Seattle	6	-113	8.5	-1.5 +148
+Minnesota	1	+104	under	+1.5 -161
+ 
+
+Colorado	0	+214	7.5	+1.5 -103
+St.Louis	7	-235	under	-1.5 -105
+ 
+
+Cleveland	2	-140	7.5	-1.5 +126
+Oakland	1	+129	under	+1.5 -136
+ 
+				
+LAAngels	3	+165	6.0	+1.5 -144
+LADodgers	5	-180	over	-1.5 +133
+ 
+  
+
+
+KansasCity	7	+114	8.0	+1.5 -184
+Toronto	6	-123	over	-1.5 +169
+ 
+
+TampaBay	7	+117	10.5	+1.5 -160
+Boston	11	-127	over	-1.5 +147
+ 
+				
+LAAngels	1	+188	6.0	+1.5 -130
+LADodgers	3	-205	under	-1.5 +120
+ 
+				
+Detroit	2	+137	8.0	+1.5 -157
+Baltimore	6	-149	push	-1.5 +145
+ 
+				
+Atlanta	2	+107	7.5	+1.5 -207
+Philadelphia	12	-116	over	-1.5 +190
+ 
+				
+SanDiego	5	-107	7.5	+1.5 -240
+Miami	3	-101	over	-1.5 +219
+ 
+				
+Seattle	2	+118	8.5	+1.5 -171
+Minnesota	3	-128	under	-1.5 +157
+ 
+				
+Pittsburgh	3	-141	7.5	-1.5 +119
+Cincinnati	4	+130	under	+1.5 -129
+ 
+				
+ChiCubs	4	-142	8.5	-1.5 +119
+Milwaukee	2	+131	under	+1.5 -129
+ 
+				
+Washington	2	+136	6.5	+1.5 -172
+NYMets	3	-148	under	-1.5 +158
+ 
+				
+NYYankees	2	-125	9.0	-1.5 +134
+ChiSox	8	+115	over	+1.5 -145
+ 
+				
+Arizona	2	+190	7.5	+1.5 -119
+Houston	9	-207	over	-1.5 +110
+ 
+
+Colorado	6	+154	7.0	+1.5 -154
+St.Louis	2	-167	over	-1.5 +142
+ 
+				
+SFGiants	9	+123	9.0	+1.5 -160
+Texas	7	-133	over	-1.5 +147
+ 
+				
+Cleveland	1	-107	7.5	-1.5 +149
+Oakland	5	-101	under	+1.5 -162
+ 
+ 				
+KansasCity	2	+132	8.5	+1.5 -153
+Toronto	5	-143	under	-1.5 +141
+ 
+				
+SanDiego	2	+129	6.5	+1.5 -186
+Miami	5	-140	over	-1.5 +171
+ 
+				
+Pittsburgh	3	-139	9.0	-1.5 +124
+Cincinnati	0	+128	under	+1.5 -134
+ 
+
+Atlanta	6	-111	8.0	-1.5 +146
+Philadelphia	2	+103	push	+1.5 -158
+ 
+
+TampaBay	4	+100	9.5	+1.5 -195
+Boston	3	-108	under	-1.5 +179
+ 
+
+Detroit	6	+164	9.0	+1.5 -127
+Baltimore	1	-178	under	-1.5 +117
+ 
+				
+ChiCubs	4	+101	9.5	+1.5 -200
+Milwaukee	3	-109	under	-1.5 +183
+ 
+				
+NYYankees	12	+106	9.0	+1.5 -186
+ChiSox	3	-115	over	-1.5 +171
+ 
+				
+Arizona	1	+133	8.0	+1.5 -156
+Houston	4	-144	under	-1.5 +144
+ 
+				
+Seattle	4	-121	9.0	-1.5 +132
+Minnesota	1	+112	under	+1.5 -143
+ 
+			
+Colorado	2	+174	7.5	+1.5 -130
+St.Louis	3	-190	under	-1.5 +120
+ 
+				
+SFGiants	1	-110	9.5	-1.5 +144
+Texas	2	+102	under	+1.5 -156
+ 
+				
+Cleveland	1	+132	6.5	+1.5 -173
+Oakland	2	-143	under	-1.5 +159
+ 
+				
+LAAngels	3	+131	7.5	+1.5 -173
+LADodgers	5	-142	over	-1.5 +159
+ 
+				
+Washington	2	+116	6.5	+1.5 -195
+NYMets	5	-126	over	-1.5 +179
+ 
+ 			
+Minnesota	1	+197	8.0	+1.5 -104
+Toronto	5	-215	under	-1.5 -104
+ 
+				
+Arizona	6	+112	8.0	+1.5 -190
+Washington	4	-121	over	-1.5 +174
+ 
+				
+SFGiants	8	-135	7.5	-1.5 +126
+Atlanta	9	+125	over	+1.5 -136
+ 
+				
+NYMets	12	-117	7.5	-1.5 +156
+Miami	1	+108	over	+1.5 -169
+ 
+				
+Houston	9	-123	9.0	-1.5 +137
+Texas	12	+114	over	+1.5 -149
+ 
+				
+SanDiego	13	-107	7.5	-1.5 +157
+Milwaukee	5	-101	over	+1.5 -171
+ 
+				
+TampaBay	5	+106	7.5	+1.5 -191
+ChiSox	4	-115	over	-1.5 +175
+ 
+
+Seattle	8	-169	9.5	-1.5 -104
+Colorado	7	+156	over	+1.5 -104
+ 
+				
+Cleveland	4	+103	6.5	+1.5 -215
+LAAngels	5	-111	over	-1.5 +197
+ 
+				
+Baltimore	9	+109	7.5	+1.5 -195
+Oakland	2	-118	over	-1.5 +179
+ 
+
+				
+Boston	3	+162	9.0	+1.5 -127
+NYYankees	13	-176	over	-1.5 +117
+ 
+				
+ChiCubs	5	-129	7.0	-1.5 +138
+Pittsburgh	0	+119	under	+1.5 -150
+ 
+				
+Arizona	4	+164	6.5	+1.5 -134
+Washington	5	-178	over	-1.5 +124
+ 
+				
+LADodgers	2	-225	8.0	-1.5 -124
+Philadelphia	6	+206	push	+1.5 +115
+ 
+				
+Minnesota	1	+150	8.5	+1.5 -137
+Toronto	3	-163	under	-1.5 +126
+ 
+				
+KansasCity	5	-113	8.5	-1.5 +148
+Detroit	1	+104	under	+1.5 -161
+ 
+				
+NYMets	5	-120	7.5	-1.5 +150
+Miami	1	+111	under	+1.5 -163
+ 
+				
+St.Louis	2	-121	7.5	-1.5 +145
+Cincinnati	3	+112	under	+1.5 -157
+ 
+				
+SFGiants	8	-119	7.0	-1.5 +143
+Atlanta	3	+110	over	+1.5 -155
+ 
+				
+Houston	3	+100	9.5	+1.5 -189
+Texas	4	-108	under	-1.5 +174
+ 
+				
+SanDiego	1	+115	7.5	+1.5 -190
+Milwaukee	4	-124	under	-1.5 +174
+ 
+				
+TampaBay	11	+115	6.5	+1.5 -200
+ChiSox	3	-125	over	-1.5 +183
+ 
+
+Seattle	10	+102	10.5	-1.5 +147
+Colorado	4	-110	over	+1.5 -160
+ 
+				
+Cleveland	2	+108	7.0	+1.5 -210
+LAAngels	0	-117	under	-1.5 +192
+ 
+				
+Baltimore	0	-111	7.0	-1.5 +159
+Oakland	5	+103	under	+1.5 -173
+ 
+   
+
+				
+TampaBay	5	-102	8.0	+1.5 -210
+ChiSox	6	-106	over	-1.5 +192
+ 
+				
+Seattle	5	-115	11.0	-1.5 +140
+Colorado	7	+106	over	+1.5 -152
+ 
+				
+Baltimore	7	-123	7.0	-1.5 +151
+Oakland	3	+114	over	+1.5 -164
+ 
+			
+Cleveland	3	+114	7.5	+1.5 -196
+LAAngels	4	-123	under	-1.5 +180
+ 
+				
+ChiCubs	5	+131	7.5	+1.5 -165
+Pittsburgh	7	-142	over	-1.5 +152
+ 
+				
+LADodgers	4	-168	7.5	-1.5 +102
+Philadelphia	3	+155	under	+1.5 -110
+ 
+				
+Boston	2	+163	9.0	+1.5 -119
+NYYankees	1	-177	under	-1.5 +110
+ 
+				
+Arizona	11	+122	7.5	+1.5 -180
+Washington	4	-132	over	-1.5 +165
+ 
+				
+Minnesota	7	+168	8.5	+1.5 -126
+Toronto	9	-183	over	-1.5 +116
+ 
+				
+KansasCity	1	-171	7.5	-1.5 -103
+Detroit	2	+157	under	+1.5 -105
+ 
+				
+St.Louis	4	-155	7.5	-1.5 +108
+Cincinnati	3	+143	under	+1.5 -117
+ 
+				
+SFGiants	6	-187	7.0	-1.5 -110
+Atlanta	1	+172	push	+1.5 +102
+ 
+				
+NYMets	8	-160	7.0	-1.5 +108
+Miami	6	+147	over	+1.5 -117
+ 
+				
+Houston	3	-165	9.0	-1.5 +107
+Texas	4	+152	under	+1.5 -116
+ 
+				
+SanDiego	5	+114	7.5	+1.5 -193
+Milwaukee	8	-123	over	-1.5 +177
+ 
+ 				
+St.Louis	3	-155	7.5	-1.5 +112
+Cincinnati	0	+143	under	+1.5 -121
+ 
+				
+LADodgers	10	-266	7.0	-1.5 -140
+Philadelphia	8	+241	over	+1.5 +129
+ 
+				
+KansasCity	6	-105	8.0	-1.5 +156
+Detroit	8	-103	over	+1.5 -169
+ 
+				
+SanDiego	1	+109	8.0	+1.5 -190
+Milwaukee	10	-118	over	-1.5 +174
+ 
+				
+Arizona	3	+161	7.0	+1.5 -141
+Washington	8	-175	over	-1.5 +130
+ 
+				
+Boston	1	+120	8.5	+1.5 -171
+NYYankees	2	-130	under	-1.5 +157
+ 
+				
+Minnesota	3	+143	8.0	+1.5 -153
+Toronto	9	-155	over	-1.5 +141
+ 
+				
+Miami	8	-108	7.5	-1.5 +161
+Atlanta	9	-100	over	+1.5 -175
+ 
+				
+SFGiants	4	+121	7.0	+1.5 -188
+ChiCubs	5	-131	over	-1.5 +173
+ 
+				
+Houston	5	-121	7.5	-1.5 +140
+Oakland	4	+112	over	+1.5 -152
+ 
+  
+
+				
+SFGiants	3	+150	8.0	+1.5 -145
+ChiCubs	7	-163	over	-1.5 +134
+ 
+				
+LADodgers	4	-140	6.0	-1.5 +134
+Pittsburgh	5	+129	over	+1.5 -145
+ 
+				
+Toronto	2	+103	9.0	+1.5 -189
+NYYankees	1	-111	under	-1.5 +174
+ 
+				
+Colorado	5	+162	7.5	+1.5 -140
+Washington	4	-176	over	-1.5 +129
+ 
+				
+Boston	7	+102	9.0	+1.5 -191
+Detroit	2	-110	push	-1.5 +175
+ 
+				
+NYMets	4	-115	6.5	-1.5 +156
+TampaBay	3	+106	over	+1.5 -169
+ 
+				
+Minnesota	10	+118	8.5	+1.5 -171
+Cleveland	9	-128	over	-1.5 +157
+ 
+				
+Miami	3	-153	6.5	-1.5 +115
+Atlanta	6	+141	over	+1.5 -125
+ 
+				
+St.Louis	6	-135	7.5	-1.5 +127
+Milwaukee	0	+125	under	+1.5 -138
+ 
+				
+ChiSox	2	+137	8.0	+1.5 -156
+KansasCity	3	-149	under	-1.5 +144
+
+ 				
+Cincinnati	0	+108	8.5	+1.5 -195
+Arizona	2	-117	under	-1.5 +179
+ 
+				
+Houston	1	-110	6.5	-1.5 +160
+Oakland	3	+102	under	+1.5 -174
+ 
+				
+Baltimore	4	+117	7.0	+1.5 -187
+LAAngels	8	-127	over	-1.5 +172
+ 
+				
+Philadelphia	4	+134	6.5	+1.5 -169
+SanDiego	3	-145	over	-1.5 +156
+ 
+				
+Texas	3	-107	6.5	-1.5 +160
+Seattle	4	-101	over	+1.5 -174
+ 
+  
+
+				
+Toronto	6	-155	8.5	-1.5 +104
+NYYankees	0	+143	under	+1.5 -113
+ 
+				
+SFGiants	6	+126	8.0	+1.5 -177
+ChiCubs	8	-137	over	-1.5 +163
+ 
+				
+Houston	1	-113	7.5	-1.5 +159
+Oakland	2	+104	under	+1.5 -173
+ 
+				
+LADodgers	5	+139	7.0	+1.5 -169
+Pittsburgh	6	-151	over	-1.5 +156
+ 
+				
+Texas	11	+110	7.5	+1.5 -205
+Seattle	3	-119	over	-1.5 +188
+ 
+				
+NYMets	4	-110	6.5	-1.5 +154
+TampaBay	5	+102	over	+1.5 -167
+ 
+				
+Colorado	1	+188	7.5	+1.5 -121
+Washington	6	-205	under	-1.5 +112
+ 
+				
+Boston	6	-109	9.0	+1.5 -203
+Detroit	7	+101	over	-1.5 +186
+ 
+				
+Miami	2	-109	7.5	-1.5 +149
+Atlanta	7	+101	over	+1.5 -162
+ 
+				
+Minnesota	4	+121	7.5	+1.5 -193
+Cleveland	17	-131	over	-1.5 +177
+ 
+				
+ChiSox	6	+104	8.0	+1.5 -205
+KansasCity	7	-113	over	-1.5 +188
+ 
+				
+St.Louis	3	-155	7.5	-1.5 +118
+Milwaukee	0	+143	under	+1.5 -128
+ 
+				
+Cincinnati	4	+131	8.5	+1.5 -176
+Arizona	1	-142	under	-1.5 +162
+ 
+  				
+Philadelphia	4	+198	7.0	+1.5 -120
+SanDiego	2	-217	under	-1.5 +111
+ 
+				
+Baltimore	5	+123	7.0	+1.5 -173
+LAAngels	0	-133	under	-1.5 +159
+ 
+   
+
+				
+Toronto	2	+139	8.0	+1.5 -147
+NYYankees	0	-151	under	-1.5 +136
+ 
+				
+Boston	7	+128	8.5	+1.5 -163
+Detroit	2	-139	over	-1.5 +150
+ 
+				
+NYMets	3	+156	6.5	+1.5 -143
+TampaBay	4	-170	over	-1.5 +132
+ 
+				
+Minnesota	1	+147	7.0	+1.5 -150
+Cleveland	8	-160	over	-1.5 +138
+ 
+
+Colorado	6	+245	7.0	+1.5 +107
+Washington	4	-270	over	-1.5 -116
+ 
+				
+St.Louis	4	-111	7.5	-1.5 +151
+Milwaukee	5	+103	over	+1.5 -164
+ 
+				
+ChiSox	4	+108	8.0	+1.5 -193
+KansasCity	5	-117	over	-1.5 +177
+ 
+			
+SFGiants	0	+147	7.0	+1.5 -154
+ChiCubs	2	-160	under	-1.5 +142
+ 
+				
+Baltimore	4	+102	7.5	+1.5 -205
+LAAngels	5	-110	over	-1.5 +188
+ 
+				
+Houston	4	-124	7.0	-1.5 +134
+Oakland	5	+115	over	+1.5 -145
+ 
+				
+Philadelphia	5	+170	7.5	+1.5 -135
+SanDiego	3	-185	over	-1.5 +125
+ 
+				
+Texas	2	+160	7.5	+1.5 -138
+Seattle	4	-174	under	-1.5 +127
+ 
+				
+Cincinnati	3	+138	7.5	+1.5 -161
+Arizona	4	-150	under	-1.5 +148
+ 
+				
+Miami	4	+120	7.0	+1.5 -188
+Atlanta	1	-130	under	-1.5 +173
+ 
+				
+LADodgers	6	-107	8.0	-1.5 +155
+Pittsburgh	13	-101	over	+1.5 -168
+ 
+ 
+
+				
+Colorado	2	+141	7.5	+1.5 -158
+NYMets	4	-153	under	-1.5 +146
+ 
+				
+LAAngels	2	+126	7.0	+1.5 -183
+ChiSox	8	-136	over	-1.5 +168
+ 
+				
+Detroit	0	+201	7.0	+1.5 -113
+KansasCity	4	-220	under	-1.5 +104
+ 
+				
+Philadelphia	3	+166	8.5	+1.5 -135
+Arizona	13	-181	over	-1.5 +125
+ 
+				
+Baltimore	3	-118	7.5	-1.5 +140
+Seattle	2	+109	under	+1.5 -152
+ 
+				
+Washington	8	+105	7.0	+1.5 -211
+LADodgers	3	-114	over	-1.5 +193
+ 
+				
+Cincinnati	1	+126	7.5	+1.5 -166
+SanDiego	2	-136	under	-1.5 +153
+ 
+ 				
+Oakland	2	+160	8.5	+1.5 -125
+Toronto	4	-174	under	-1.5 +115
+ 
+				
+Boston	4	-113	7.5	-1.5 +150
+Miami	5	+104	over	+1.5 -163
+ 
+				
+NYYankees	4	+105	7.0	+1.5 -202
+Cleveland	5	-114	over	-1.5 +185
+ 
+				
+Atlanta	0	+179	7.0	+1.5 -121
+TampaBay	2	-195	under	-1.5 +112
+ 
+				
+Colorado	0	+192	7.0	+1.5 -121
+NYMets	4	-210	under	-1.5 +112
+ 
+				
+Milwaukee	3	+131	7.5	+1.5 -175
+ChiCubs	6	-142	over	-1.5 +161
+ 
+				
+Detroit	1	+150	7.5	+1.5 -148
+KansasCity	6	-163	under	-1.5 +136
+ 
+				
+Texas	2	+111	8.5	+1.5 -184
+Minnesota	3	-120	under	-1.5 +169
+ 
+				
+LAAngels	0	-120	8.5	-1.5 +135
+ChiSox	3	+111	under	+1.5 -146
+ 
+				
+Pittsburgh	3	+131	7.0	+1.5 -180
+St.Louis	4	-142	push	-1.5 +165
+ 
+  				
+Philadelphia	1	+180	8.5	+1.5 -121
+Arizona	13	-196	over	-1.5 +112
+ 
+				
+Baltimore	5	+125	7.5	+1.5 -181
+Seattle	6	-135	over	-1.5 +166
+ 
+				
+Cincinnati	6	+110	7.0	+1.5 -196
+SanDiego	11	-119	over	-1.5 +180
+ 
+				
+Washington	0	+169	6.5	+1.5 -141
+LADodgers	5	-184	under	-1.5 +130
+ 
+				
+Houston	1	+127	6.0	+1.5 -183
+SFGiants	3	-138	under	-1.5 +168
+ 
+   
+
+ 				
+Cincinnati	7	+115	7.0	+1.5 -196
+SanDiego	3	-125	over	-1.5 +180
+ 
+  				
+Philadelphia	7	+152	8.0	+1.5 -147
+Arizona	6	-165	over	-1.5 +136
+ 
+ 				
+Baltimore	0	+104	7.5	+1.5 -204
+Seattle	3	-113	under	-1.5 +187
+ 
+				
+Houston	2	+123	7.0	+1.5 -182
+SFGiants	0	-133	under	-1.5 +167
+ 
+				
+Boston	6	-123	7.5	-1.5 +138
+Miami	14	+114	over	+1.5 -150
+ 
+				
+Oakland	3	+170	8.5	+1.5 -122
+Toronto	10	-185	over	-1.5 +113
+ 
+				
+NYYankees	1	+106	7.5	+1.5 -192
+Cleveland	2	-115	under	-1.5 +176
+ 
+				
+Colorado	0	+196	6.5	+1.5 -120
+NYMets	3	-214	under	-1.5 +111
+ 
+				
+Atlanta	6	+194	7.0	+1.5 -112
+TampaBay	9	-212	over	-1.5 +104
+ 
+				
+Milwaukee	2	+156	7.5	+1.5 -139
+ChiCubs	3	-170	under	-1.5 +128
+ 
+				
+Texas	1	+105	9.0	+1.5 -188
+Minnesota	11	-114	over	-1.5 +173
+ 
+				
+LAAngels	2	-118	8.5	-1.5 +141
+ChiSox	3	+109	under	+1.5 -153
+ 
+				
+Detroit	7	+156	7.5	+1.5 -136
+KansasCity	4	-170	over	-1.5 +126
+ 
+
+Pittsburgh	2	+111	6.5	+1.5 -216
+St.Louis	4	-120	under	-1.5 +198
+ 
+				
+Washington	0	+178	6.0	+1.5 -139
+LADodgers	3	-194	under	-1.5 +128
+ 
+ 				
+Colorado	3	+221	7.0	+1.5 -107
+NYMets	12	-243	over	-1.5 -101
+ 
+				
+Oakland	2	+146	8.5	+1.5 -137
+Toronto	4	-159	under	-1.5 +126
+ 
+				
+Texas	6	+126	9.0	+1.5 -164
+Minnesota	5	-137	over	-1.5 +151
+ 
+ 				
+Milwaukee	2	+182	8.5	+1.5 -115
+ChiCubs	9	-199	over	-1.5 +106
+ 
+				
+NYYankees	8	-122	7.5	-1.5 +133
+Cleveland	6	+113	over	+1.5 -144
+
+			
+Pittsburgh	10	-107	6.5	+1.5 -245
+St.Louis	5	-101	over	-1.5 +223
+ 
+				
+LAAngels	7	-130	8.0	-1.5 +125
+KansasCity	6	+120	over	+1.5 -135
+ 
+				
+Cincinnati	10	+146	7.5	+1.5 -154
+LADodgers	3	-158	over	-1.5 +142
+ 
+				
+Washington	1	-129	7.0	-1.5 +132
+SFGiants	3	+119	under	+1.5 -143
+ 
+
+
+				
+ChiCubs	6	-106	9.0	-1.5 +148
+ChiSox	5	-102	over	+1.5 -161
+ 
+				
+Oakland	6	+170	8.0	+1.5 -128
+Baltimore	8	-185	over	-1.5 +118
+ 
+				
+NYYankees	4	+204	7.5	+1.5 -104
+Toronto	3	-223	under	-1.5 -104
+ 
+				
+Seattle	1	+115	9.5	+1.5 -167
+Boston	15	-125	over	-1.5 +154
+ 
+				
+Pittsburgh	3	+104	8.0	+1.5 -219
+NYMets	2	-112	under	-1.5 +200
+ 				
+Arizona	2	-127	7.0	-1.5 +142
+Atlanta	3	+117	under	+1.5 -154
+ 
+				
+TampaBay	3	-101	9.0	-1.5 +154
+Texas	5	-107	under	+1.5 -167
+ 
+				
+LAAngels	1	+113	8.5	+1.5 -187
+KansasCity	4	-122	under	-1.5 +172
+ 
+				
+Cleveland	6	-132	7.5	-1.5 +130
+Minnesota	1	+122	under	+1.5 -141
+ 
+				
+Detroit	1	+185	8.0	+1.5 -110
+Houston	5	-202	under	-1.5 +102
+ 
+				
+Philadelphia	1	+156	8.5	+1.5 -139
+Milwaukee	3	-170	under	-1.5 +128
+ 
+				
+Miami	1	+204	7.0	+1.5 -110
+St.Louis	3	-223	under	-1.5 +102
+ 
+  				
+SanDiego	9	-131	10.0	-1.5 +123
+Colorado	5	+121	over	+1.5 -133
+ 
+				
+Cincinnati	3	+155	7.5	+1.5 -142
+LADodgers	5	-168	over	-1.5 +131
+ 
+				
+Washington	5	-128	6.5	-1.5 +142
+SFGiants	8	+118	over	+1.5 -154
+ 
+				
+NYYankees	4	+117	8.0	+1.5 -175
+Toronto	1	-127	under	-1.5 +161
+ 
+				
+Seattle	10	-120	8.5	-1.5 +136
+Boston	22	+111	over	+1.5 -147
+ 
+				
+Oakland	3	+119	8.5	+1.5 -177
+Baltimore	4	-129	under	-1.5 +163
+ 
+				
+Detroit	4	+133	7.5	+1.5 -164
+Houston	2	-144	under	-1.5 +151
+ 
+				
+LAAngels	4	+133	7.5	+1.5 -171
+KansasCity	9	-144	over	-1.5 +157
+ 
+				
+Philadelphia	2	+165	7.5	+1.5 -141
+Milwaukee	4	-179	under	-1.5 +130
+ 
+				
+ChiCubs	6	-121	7.5	-1.5 +136
+ChiSox	3	+112	over	+1.5 -147
+ 
+				
+Cleveland	1	+106	9.0	+1.5 -188
+Minnesota	4	-115	under	-1.5 +173
+ 
+				
+Arizona	8	-161	7.5	-1.5 +104
+Atlanta	4	+148	over	+1.5 -113
+ 
+				
+Pittsburgh	5	+100	7.5	+1.5 -226
+NYMets	3	-108	over	-1.5 +206
+ 
+				
+Miami	2	+174	7.0	+1.5 -131
+St.Louis	6	-190	over	-1.5 +121
+ 
+				
+TampaBay	4	-122	8.0	-1.5 +132
+Texas	12	+113	over	+1.5 -143
+ 
+				
+SanDiego	7	+107	10.5	+1.5 -184
+Colorado	5	-116	over	-1.5 +169
+ 
+				
+Cincinnati	3	+156	8.0	+1.5 -132
+LADodgers	8	-170	over	-1.5 +122
+ 
+				
+Washington	6	+106	6.5	-1.5 +176
+SFGiants	12	-115	over	+1.5 -192
+ 
+ 				
+NYYankees	1	+115	9.0	+1.5 -176
+Toronto	3	-124	under	-1.5 +162
+ 
+				
+Pittsburgh	8	+154	7.0	+1.5 -144
+NYMets	1	-167	over	-1.5 +133
+ 
+				
+Seattle	10	+104	9.0	+1.5 -190
+Boston	8	-113	over	-1.5 +174
+ 
+				
+Oakland	2	+152	8.5	+1.5 -144
+Baltimore	18	-165	over	-1.5 +133
+ 
+				
+Arizona	1	-114	7.0	-1.5 +148
+Atlanta	2	+105	under	+1.5 -161
+ 
+				
+ChiCubs	1	+174	7.5	+1.5 -120
+ChiSox	3	-190	under	-1.5 +111
+ 
+				
+Detroit	5	+156	7.5	+1.5 -138
+Houston	6	-170	over	-1.5 +127
+ 
+				
+Cleveland	1	-129	7.5	-1.5 +130
+Minnesota	4	+119	under	+1.5 -141
+ 
+				
+Philadelphia	1	+154	8.5	+1.5 -137
+Milwaukee	6	-167	under	-1.5 +126
+ 
+
+Miami	6	+219	7.0	+1.5 -108
+St.Louis	4	-240	over	-1.5 +100
+ 
+				
+TampaBay	3	-102	8.5	+1.5 -205
+Texas	5	-106	under	-1.5 +188
+ 
+				
+Washington	0	+136	7.0	+1.5 -165
+SFGiants	5	-148	under	-1.5 +152
+ 
+				
+Cincinnati	1	+202	7.5	+1.5 -112
+LADodgers	2	-221	under	-1.5 +104
+ 
+				
+SanDiego	0	-104	11.0	+1.5 -195
+Colorado	5	-104	under	-1.5 +179
+ 
+				
+LAAngels	3	+122	8.0	+1.5 -167
+KansasCity	4	-132	under	-1.5 +154
+ 
+   
+
+				
+Minnesota	7	+143	9.0	+1.5 -140
+NYYankees	8	-155	over	-1.5 +129
+ 
+				
+Arizona	4	+186	7.0	+1.5 -115
+Pittsburgh	1	-203	under	-1.5 +106
+ 
+				
+Oakland	2	-102	7.5	+1.5 -220
+Baltimore	4	-106	under	-1.5 +201
+ 
+				
+Cleveland	8	-117	9.0	-1.5 +142
+Boston	2	+108	over	+1.5 -154
+ 
+				
+Seattle	3	+127	8.5	+1.5 -164
+Texas	4	-138	under	-1.5 +151
+ 
+				
+SFGiants	1	+156	7.0	+1.5 -148
+St.Louis	2	-170	under	-1.5 +136
+ 
+				
+Miami	6	+138	8.0	+1.5 -151
+Milwaukee	2	-150	push	-1.5 +139
+ 
+				
+TampaBay	9	+146	7.5	+1.5 -142
+Houston	2	-159	over	-1.5 +131
+ 
+				
+ChiSox	1	+146	7.5	+1.5 -155
+LAAngels	2	-159	under	-1.5 +143
+ 
+				
+Atlanta	3	+142	7.0	+1.5 -159
+SanDiego	5	-154	over	-1.5 +146
+ 
+ 
+
+				
+Minnesota	4	+128	9.5	+1.5 -140
+NYYankees	8	-139	over	-1.5 +129
+ 
+				
+Toronto	8	-164	8.0	-1.5 +103
+Philadelphia	5	+151	over	+1.5 -111
+ 
+				
+Arizona	8	+175	7.0	+1.5 -131
+Pittsburgh	9	-191	over	-1.5 +121
+ 
+				
+NYMets	5	-108	7.5	-1.5 +147
+Baltimore	3	+100	over	+1.5 -160
+ 
+				
+Cleveland	1	+123	9.0	+1.5 -155
+Boston	9	-133	over	-1.5 +143
+ 
+				
+KansasCity	3	+111	7.5	+1.5 -190
+Cincinnati	1	-120	under	-1.5 +174
+ 
+				
+Detroit	10	+146	8.5	+1.5 -143
+ChiCubs	8	-158	over	-1.5 +132
+ 
+				
+Seattle	3	-142	9.5	-1.5 +116
+Texas	2	+131	under	+1.5 -126
+ 
+				
+TampaBay	2	+105	8.0	+1.5 -192
+Houston	3	-114	under	-1.5 +176
+ 
+				
+Miami	9	+133	8.0	+1.5 -163
+Milwaukee	6	-144	over	-1.5 +150
+ 
+				
+SFGiants	2	+133	7.0	+1.5 -169
+St.Louis	0	-144	under	-1.5 +156
+   				
+Washington	15	-164	9.5	-1.5 +104
+Colorado	6	+151	over	+1.5 -113
+ 
+				
+LADodgers	4	-245	6.5	-1.5 -143
+Oakland	5	+223	over	+1.5 +132
+ 
+				
+ChiSox	3	+179	7.0	+1.5 -122
+LAAngels	5	-195	over	-1.5 +113
+ 
+				
+Atlanta	0	+171	7.0	+1.5 -136
+SanDiego	9	-186	over	-1.5 +126
+ 
+  
+
+				
+Minnesota	3	+153	9.0	+1.5 -133
+NYYankees	4	-166	under	-1.5 +123
+ 
+				
+Seattle	2	+131	9.0	+1.5 -155
+Texas	7	-142	push	-1.5 +143
+ 
+				
+Miami	7	+129	8.0	+1.5 -166
+Milwaukee	8	-140	over	-1.5 +153
+ 
+				
+LADodgers	2	-117	8.0	-1.5 +150
+Oakland	5	+108	under	+1.5 -163
+ 
+  				
+Atlanta	2	+144	6.5	+1.5 -165
+SanDiego	3	-156	under	-1.5 +152
+ 
+				
+Arizona	1	+125	7.5	+1.5 -173
+Pittsburgh	4	-135	under	-1.5 +159
+ 
+				
+NYMets	4	+122	7.5	+1.5 -171
+Baltimore	5	-132	over	-1.5 +157
+ 
+				
+Toronto	4	-243	9.0	-1.5 -137
+Philadelphia	7	+221	over	+1.5 +126
+ 
+				
+Cleveland	4	-133	8.5	-1.5 +121
+Boston	6	+123	over	+1.5 -131
+ 
+				
+KansasCity	4	-116	8.0	-1.5 +143
+Cincinnati	3	+107	under	+1.5 -155
+
+				
+SFGiants	3	+146	7.0	+1.5 -152
+St.Louis	4	-159	push	-1.5 +140
+ 
+				
+Detroit	15	+165	8.5	+1.5 -133
+ChiCubs	8	-179	over	-1.5 +123
+ 
+				
+TampaBay	2	+159	7.5	+1.5 -129
+Houston	3	-173	under	-1.5 +119
+ 
+ 				
+Washington	4	-146	9.5	-1.5 +117
+Colorado	1	+135	under	+1.5 -127
+ 
+				
+ChiSox	0	+111	7.5	+1.5 -194
+LAAngels	1	-120	under	-1.5 +178
+ 
+  
+
+				
+Cleveland	3	+136	8.5	+1.5 -150
+NYYankees	2	-148	under	-1.5 +138
+ 
+				
+SFGiants	0	+120	8.0	+1.5 -180
+Pittsburgh	4	-130	under	-1.5 +165
+ 
+				
+Minnesota	15	+154	8.5	+1.5 -142
+Baltimore	2	-167	over	-1.5 +131
+ 
+				
+Texas	0	-101	9.5	+1.5 -208
+Detroit	4	-107	under	-1.5 +190
+ 
+				
+Philadelphia	7	+138	7.5	+1.5 -150
+Miami	9	-150	over	-1.5 +138
+ 
+				
+KansasCity	1	-101	9.0	-1.5 +160
+Boston	4	-107	under	+1.5 -174
+ 
+				
+Arizona	5	-125	7.5	-1.5 +136
+Cincinnati	4	+115	over	+1.5 -148
+ 
+				
+Atlanta	1	+262	7.5	+1.5 +126
+ChiCubs	7	-290	over	-1.5 -137
+ 
+				
+TampaBay	1	+104	7.0	+1.5 -209
+Houston	0	-113	under	-1.5 +191
+ 
+				
+Washington	2	-190	10.5	-1.5 -118
+Colorado	3	+174	under	+1.5 +109
+ 
+				
+ChiSox	8	+115	7.5	+1.5 -192
+LAAngels	2	-125	over	-1.5 +176
+ 
+  
+
+				
+Atlanta	3	+168	9.0	+1.5 -125
+ChiCubs	5	-183	under	-1.5 +115
+ 
+				
+SFGiants	6	-121	7.0	-1.5 +136
+Pittsburgh	4	+112	over	+1.5 -148
+ 
+				
+Milwaukee	10	+136	7.0	+1.5 -169
+Washington	3	-147	over	-1.5 +156
+ 
+				
+Cleveland	7	+114	7.0	+1.5 -196
+NYYankees	3	-123	over	-1.5 +180
+ 
+				
+Minnesota	4	+147	8.5	+1.5 -142
+Baltimore	3	-160	under	-1.5 +131
+ 
+				
+Texas	2	+114	8.5	+1.5 -183
+Detroit	0	-123	under	-1.5 +168
+ 
+				
+KansasCity	2	-148	8.5	-1.5 +113
+Boston	7	+136	over	+1.5 -122
+ 
+				
+Philadelphia	7	+129	7.5	+1.5 -172
+Miami	1	-140	over	-1.5 +158
+ 
+				
+Arizona	6	-141	8.5	-1.5 +119
+Cincinnati	3	+130	over	+1.5 -129
+ 
+				
+LADodgers	0	+111	8.0	+1.5 -191
+Houston	3	-120	under	-1.5 +175
+ 
+				
+NYMets	14	-109	11.0	-1.5 +145
+Colorado	9	+101	over	+1.5 -157
+ 
+				
+Toronto	9	-167	7.0	-1.5 +101
+LAAngels	2	+154	over	+1.5 -109
+ 
+				
+TampaBay	2	+114	7.0	+1.5 -195
+Oakland	1	-123	under	-1.5 +179
+ 
+				
+St.Louis	3	-113	6.5	-1.5 +147
+SanDiego	9	+104	over	+1.5 -160
+ 
+				
+ChiSox	11	-108	6.0	-1.5 +161
+Seattle	4	+100	over	+1.5 -175
+ 
+ 
+				
+Cleveland	2	+126	7.5	+1.5 -175
+NYYankees	6	-137	over	-1.5 +161
+ 
+				
+Atlanta	7	+192	9.0	+1.5 -112
+ChiCubs	9	-210	over	-1.5 +104
+ 
+				
+SFGiants	2	+158	7.0	+1.5 -130
+Pittsburgh	3	-172	under	-1.5 +120
+ 
+				
+Minnesota	3	+140	8.5	+1.5 -148
+Baltimore	2	-152	under	-1.5 +136
+ 
+				
+Milwaukee	1	+143	7.0	+1.5 -150
+Washington	6	-155	push	-1.5 +138
+ 
+				
+Texas	5	-104	9.0	-1.5 +159
+Detroit	3	-104	under	+1.5 -173
+ 
+				
+KansasCity	6	-133	9.0	-1.5 +128
+Boston	3	+123	push	+1.5 -139
+ 
+				
+Arizona	11	+111	8.0	+1.5 -197
+Cincinnati	7	-120	over	-1.5 +181
+ 
+				
+Philadelphia	4	+116	8.0	+1.5 -174
+Miami	2	-126	under	-1.5 +160
+ 
+				
+LADodgers	1	-125	7.0	-1.5 +142
+Houston	3	+115	under	+1.5 -154
+ 
+				
+NYMets	14	-117	10.5	-1.5 +136
+Colorado	9	+108	over	+1.5 -147
+ 
+				
+St.Louis	0	-127	6.5	-1.5 +143
+SanDiego	8	+117	over	+1.5 -155
+ 
+				
+Toronto	15	-120	8.0	-1.5 +145
+LAAngels	3	+111	over	+1.5 -157
+ 
+				
+TampaBay	5	+135	7.0	+1.5 -171
+Oakland	4	-146	over	-1.5 +157
+ 
+				
+ChiSox	6	-108	7.5	-1.5 +161
+Seattle	3	+100	over	+1.5 -175
+
+				
+Cleveland	4	+138	8.5	+1.5 -153
+NYYankees	3	-150	under	-1.5 +141
+ 
+				
+Texas	4	-125	8.5	-1.5 +126
+Detroit	2	+115	under	+1.5 -136
+ 
+				
+Philadelphia	2	+116	8.0	-1.5 +184
+Miami	0	-126	under	+1.5 -201
+ 
+				
+Arizona	4	+103	8.0	+1.5 -215
+Cincinnati	0	-111	under	-1.5 +197
+ 
+				
+Milwaukee	5	+174	7.5	+1.5 -124
+Washington	9	-190	over	-1.5 +115
+ 
+				
+Minnesota	4	+166	8.5	+1.5 -124
+Baltimore	3	-181	under	-1.5 +115
+ 
+				
+KansasCity	8	+105	8.5	-1.5 +165
+Boston	6	-114	over	+1.5 -180
+ 
+				
+LADodgers	2	-152	6.5	-1.5 +116
+Houston	3	+140	under	+1.5 -126
+ 
+  				
+Atlanta	3	+198	10.0	+1.5 +101
+ChiCubs	9	-216	over	-1.5 -109
+ 
+				
+Toronto	12	+107	8.0	-1.5 +170
+LAAngels	5	-116	over	+1.5 -185
+ 
+				
+TampaBay	2	-119	7.5	-1.5 +140
+Oakland	8	+110	over	+1.5 -152
+ 
+				
+NYMets	5	-122	11.0	-1.5 +129
+Colorado	1	+113	under	+1.5 -140
+ 
+				
+ChiSox	6	+130	7.5	+1.5 -171
+Seattle	8	-141	over	-1.5 +157
+ 
+				
+St.Louis	10	-148	7.0	-1.5 +120
+SanDiego	3	+136	over	+1.5 -130
+ 
+				
+SFGiants	2	+165	7.0	+1.5 -137
+Pittsburgh	5	-180	push	-1.5 +126
+ 
+   
+
+				
+Cleveland	1	+120	7.5	+1.5 -180
+ChiCubs	2	-130	under	-1.5 +165
+ 
+				
+NYMets	16	-234	7.5	-1.5 -125
+Philadelphia	7	+213	over	+1.5 +115
+ 
+				
+Houston	0	+138	8.0	+1.5 -150
+NYYankees	1	-150	under	-1.5 +138
+ 
+				
+Pittsburgh	5	-148	8.0	-1.5 +116
+Miami	2	+136	under	+1.5 -126
+ 
+				
+Detroit	5	+106	8.5	+1.5 -185
+Cincinnati	12	-115	over	-1.5 +170
+ 
+				
+Colorado	3	-102	7.5	+1.5 -220
+Atlanta	5	-106	over	-1.5 +201
+ 
+				
+Baltimore	3	+126	7.5	+1.5 -180
+KansasCity	8	-137	over	-1.5 +165
+ 
+				
+Boston	5	+115	8.5	+1.5 -180
+ChiSox	4	-125	over	-1.5 +165
+ 
+				
+St.Louis	5	-115	8.0	-1.5 +143
+Arizona	3	+106	push	+1.5 -155
+ 
+				
+Oakland	11	+156	7.0	+1.5 -148
+Seattle	5	-170	over	-1.5 +136
+ 
+  
+
+				
+Houston	15	-145	7.5	-1.5 +112
+NYYankees	1	+134	over	+1.5 -121
+ 
+				
+SanDiego	3	+170	7.0	+1.5 -128
+Washington	8	-185	over	-1.5 +118
+ 
+				
+NYMets	6	-200	8.5	-1.5 -123
+Philadelphia	5	+183	over	+1.5 +114
+ 
+				
+LAAngels	8	-117	9.0	-1.5 +136
+Detroit	7	+108	over	+1.5 -148
+ 
+				
+Milwaukee	6	+150	8.0	+1.5 -141
+Cleveland	11	-163	over	-1.5 +130
+ 
+				
+LADodgers	5	-128	7.5	-1.5 +131
+Cincinnati	1	+118	under	+1.5 -142
+ 
+				
+Pittsburgh	2	-140	7.5	-1.5 +119
+Miami	5	+129	under	+1.5 -129
+ 
+				
+Minnesota	11	+128	7.0	+1.5 -167
+TampaBay	7	-139	over	-1.5 +154
+ 
+				
+Colorado	5	+111	8.0	+1.5 -200
+Atlanta	1	-120	under	-1.5 +183
+ 
+				
+Toronto	6	-130	9.0	-1.5 +127
+Texas	5	+120	over	+1.5 -138
+ 
+				
+Boston	4	+119	7.5	+1.5 -183
+ChiSox	5	-129	over	-1.5 +168
+ 
+				
+Baltimore	2	+111	8.0	+1.5 -195
+KansasCity	3	-120	under	-1.5 +179
+ 
+				
+St.Louis	9	-119	7.5	-1.5 +136
+Arizona	1	+110	over	+1.5 -148
+ 
+				
+Oakland	5	-101	7.5	+1.5 -212
+Seattle	6	-107	over	-1.5 +194
+ 
+				
+ChiCubs	8	-142	6.5	-1.5 +120
+SFGiants	5	+131	over	+1.5 -130
+ 
+  
+
+				
+Houston	6	+136	7.5	+1.5 -154
+NYYankees	2	-147	over	-1.5 +142
+ 
+				
+Oakland	2	+129	7.0	+1.5 -167
+Seattle	8	-140	over	-1.5 +154
+ 
+				
+NYMets	9	-132	8.0	-1.5 +128
+Philadelphia	4	+122	over	+1.5 -139
+ 
+				
+SanDiego	6	+124	7.0	+1.5 -185
+Washington	5	-134	over	-1.5 +170
+ 
+				
+LAAngels	0	+132	9.0	+1.5 -157
+Detroit	5	-143	under	-1.5 +145
+ 
+				
+Colorado	6	+133	7.5	+1.5 -172
+Atlanta	3	-144	over	-1.5 +158
+ 
+				
+Minnesota	5	+164	7.0	+1.5 -143
+TampaBay	3	-178	over	-1.5 +132
+ 
+				
+Milwaukee	2	+121	7.5	+1.5 -175
+Cleveland	6	-131	over	-1.5 +161
+ 
+				
+LADodgers	7	-164	8.0	-1.5 +103
+Cincinnati	4	+151	over	+1.5 -111
+ 
+				
+Pittsburgh	7	-144	8.0	-1.5 +119
+Miami	2	+133	over	+1.5 -129
+ 
+				
+Toronto	12	-183	8.5	-1.5 -112
+Texas	4	+168	over	+1.5 +104
+ 
+				
+Boston	3	+185	7.0	+1.5 -119
+ChiSox	0	-202	under	-1.5 +110
+ 
+				
+Baltimore	8	+128	7.0	+1.5 -172
+KansasCity	5	-139	over	-1.5 +158
+ 
+				
+St.Louis	3	+117	8.0	-1.5 +190
+Arizona	1	-127	under	+1.5 -208
+ 				
+ChiCubs	2	-111	7.5	-1.5 +154
+SFGiants	4	+103	under	+1.5 -167
+ 
+  
+
+
+LADodgers	1	-195	7.0	-1.5 -117
+Cincinnati	0	+179	under	+1.5 +108
+ 
+				
+LAAngels	2	-116	9.0	-1.5 +139
+Detroit	0	+107	under	+1.5 -151
+ 
+				
+Toronto	1	-111	9.5	-1.5 +143
+Texas	4	+103	under	+1.5 -155
+ 
+				
+Baltimore	3	+105	8.0	+1.5 -192
+KansasCity	5	-114	push	-1.5 +176
+ 
+				
+ChiCubs	1	+167	7.0	+1.5 -130
+SFGiants	9	-182	over	-1.5 +120
+ 
+				
+SanDiego	2	+158	7.5	+1.5 -131
+Washington	4	-172	under	-1.5 +121
+ 
+				
+NYMets	9	-153	8.5	-1.5 +112
+Philadelphia	5	+141	over	+1.5 -121
+ 
+				
+Pittsburgh	2	-210	7.0	-1.5 -126
+Miami	1	+192	under	+1.5 +116
+ 
+				
+Minnesota	4	+122	7.5	+1.5 -180
+TampaBay	5	-132	over	-1.5 +165
+ 
+				
+Seattle	2	+119	8.5	+1.5 -174
+ChiSox	4	-129	under	-1.5 +160
+ 
+				
+St.Louis	5	-119	8.0	-1.5 +147
+Arizona	3	+110	push	+1.5 -160
+ 
+  
+
+				
+SanDiego	1	-124	8.0	-1.5 +131
+Philadelphia	7	+115	push	+1.5 -142
+ 
+				
+Colorado	3	+230	7.0	+1.5 +103
+Pittsburgh	5	-253	over	-1.5 -111
+ 
+				
+Miami	4	+250	7.0	+1.5 +109
+Washington	3	-276	push	-1.5 -118
+ 
+				
+Detroit	3	+175	9.5	+1.5 -116
+Toronto	5	-191	under	-1.5 +107
+ 
+				
+Boston	6	+180	7.0	+1.5 -127
+NYMets	4	-196	over	-1.5 +117
+ 
+				
+KansasCity	3	-109	7.0	-1.5 +153
+TampaBay	2	+101	under	+1.5 -166
+ 
+				
+LAAngels	1	+114	8.0	+1.5 -185
+Cleveland	3	-123	under	-1.5 +170
+ 
+				
+NYYankees	15	-203	7.5	-1.5 -123
+Atlanta	4	+186	over	+1.5 +114
+ 
+				
+Baltimore	1	+116	8.5	+1.5 -180
+Texas	4	-126	under	-1.5 +165
+ 
+				
+Seattle	2	-116	8.0	-1.5 +143
+ChiSox	0	+107	under	+1.5 -155
+ 
+				
+Houston	0	-118	7.5	-1.5 +138
+Minnesota	3	+109	under	+1.5 -150
+ 
+				
+Cincinnati	0	+109	7.5	+1.5 -195
+Milwaukee	5	-118	under	-1.5 +179
+ 
+				
+Oakland	4	-104	7.5	+1.5 -221
+Arizona	6	-104	over	-1.5 +202
+ 
+				
+ChiCubs	1	+201	6.5	+1.5 -115
+LADodgers	4	-220	under	-1.5 +106
+ 
+				
+St.Louis	4	+104	6.5	-1.5 +164
+SFGiants	5	-112	over	+1.5 -178
+ 				
+Detroit	1	+226	9.5	+1.5 +121
+Toronto	15	-248	over	-1.5 -131
+ 
+				
+Boston	3	+177	7.0	+1.5 -131
+NYMets	1	-193	under	-1.5 +121
+ 
+				
+St.Louis	6	-133	7.0	-1.5 +136
+SFGiants	0	+123	under	+1.5 -148
+ 
+				
+KansasCity	6	-114	6.5	-1.5 +146
+TampaBay	3	+105	over	+1.5 -158
+ 
+				
+SanDiego	3	-130	8.5	-1.5 +128
+Philadelphia	4	+120	under	+1.5 -139
+ 
+				
+Colorado	3	+245	7.5	+1.5 -108
+Pittsburgh	4	-270	under	-1.5 -100
+ 
+				
+Miami	1	+219	7.5	+1.5 -104
+Washington	5	-240	under	-1.5 -104
+ 
+				
+NYYankees	3	-195	7.5	-1.5 -118
+Atlanta	1	+179	under	+1.5 +109
+ 
+				
+LAAngels	3	+138	7.5	+1.5 -162
+Cleveland	8	-150	over	-1.5 +149
+ 
+				
+Houston	4	-118	8.0	-1.5 +138
+Minnesota	1	+109	under	+1.5 -150
+ 
+				
+Cincinnati	12	+126	8.5	+1.5 -170
+Milwaukee	9	-137	over	-1.5 +156
+ 
+				
+Seattle	7	-105	7.5	+1.5 -220
+ChiSox	6	-103	over	-1.5 +201
+ 
+				
+Baltimore	3	-105	9.0	-1.5 +154
+Texas	4	-103	under	+1.5 -167
+ 
+				
+Oakland	3	+126	9.0	+1.5 -173
+Arizona	2	-136	under	-1.5 +159
+ 
+				
+ChiCubs	2	-121	7.5	-1.5 +141
+LADodgers	5	+112	under	+1.5 -153
+ 
+ 				
+Detroit	2	+181	9.5	+1.5 -103
+Toronto	9	-197	over	-1.5 -105
+ 
+				
+LAAngels	2	+123	8.5	+1.5 -167
+Cleveland	9	-133	over	-1.5 +154
+ 
+				
+KansasCity	2	+103	7.0	+1.5 -209
+TampaBay	3	-111	under	-1.5 +191
+ 
+				
+Boston	4	+146	7.5	+1.5 -153
+NYMets	5	-158	over	-1.5 +141
+ 
+				
+NYYankees	20	-142	7.0	-1.5 +123
+Atlanta	6	+131	over	+1.5 -133
+ 
+				
+Colorado	5	+170	8.0	+1.5 -129
+Pittsburgh	0	-185	under	-1.5 +119
+ 
+				
+Miami	4	+217	7.0	+1.5 -104
+Washington	7	-238	over	-1.5 -104
+ 
+				
+SanDiego	9	-152	8.0	-1.5 +112
+Philadelphia	4	+140	over	+1.5 -121
+ 
+				
+Houston	5	-147	8.0	-1.5 +113
+Minnesota	7	+136	over	+1.5 -122
+ 
+				
+Cincinnati	1	+107	8.5	+1.5 -195
+Milwaukee	4	-116	under	-1.5 +179
+ 
+				
+Seattle	5	+152	8.0	+1.5 -137
+ChiSox	6	-165	over	-1.5 +126
+ 
+				
+Baltimore	0	+109	9.5	+1.5 -180
+Texas	6	-118	under	-1.5 +165
+ 
+				
+St.Louis	7	-114	7.0	-1.5 +154
+SFGiants	5	+105	over	+1.5 -167
+ 
+				
+Oakland	7	-103	9.0	+1.5 -208
+Arizona	4	-105	over	-1.5 +190
+ 
+				
+ChiCubs	2	-125	7.0	-1.5 +141
+LADodgers	0	+115	under	+1.5 -153
+ 
+  
+
+				
+TampaBay	6	-121	7.5	-1.5 +137
+Baltimore	3	+112	over	+1.5 -149
+ 
+				
+Cleveland	4	+201	7.5	+1.5 -102
+Toronto	2	-220	under	-1.5 -106
+ 
+				
+Miami	4	+125	7.5	+1.5 -183
+Atlanta	0	-135	under	-1.5 +168
+ 
+				
+Philadelphia	1	+183	7.5	+1.5 -119
+NYMets	3	-200	under	-1.5 +110
+ 
+				
+NYYankees	3	+123	9.5	+1.5 -161
+Boston	4	-133	under	-1.5 +148
+ 
+				
+Cincinnati	13	+197	9.0	+1.5 -105
+ChiCubs	6	-215	over	-1.5 -103
+ 
+				
+Seattle	3	+214	7.5	+1.5 +101
+Houston	8	-235	over	-1.5 -109
+ 
+				
+Washington	5	+116	7.0	+1.5 -195
+St.Louis	8	-126	over	-1.5 +179
+ 
+				
+Arizona	4	-113	10.0	-1.5 +139
+Colorado	5	+104	under	+1.5 -151
+ 
+				
+LAAngels	5	-109	8.5	-1.5 +146
+Oakland	11	+101	over	+1.5 -159
+ 
+				
+Texas	0	+117	7.0	+1.5 -203
+SanDiego	7	-127	push	-1.5 +186
+ 
+				
+SFGiants	4	+136	7.5	+1.5 -157
+LADodgers	5	-147	over	-1.5 +145
+ 
+ 
+
+				
+Arizona	6	-143	11.0	-1.5 +119
+Colorado	4	+132	under	+1.5 -129
+ 
+				
+TampaBay	11	+138	8.5	+1.5 -150
+Baltimore	2	-150	over	-1.5 +138
+ 
+				
+Cleveland	3	+165	9.0	+1.5 -115
+Toronto	5	-180	under	-1.5 +106
+ 
+				
+Miami	7	-105	8.0	+1.5 -218
+Atlanta	1	-103	push	-1.5 +199
+ 
+				
+Philadelphia	14	+201	8.0	+1.5 +102
+NYMets	8	-220	over	-1.5 -110
+ 
+				
+NYYankees	3	-141	8.5	-1.5 +111
+Boston	1	+130	under	+1.5 -120
+ 
+				
+Cincinnati	4	+129	9.5	+1.5 -150
+ChiCubs	5	-140	under	-1.5 +138
+ 
+				
+ChiSox	6	-153	7.5	-1.5 +109
+Minnesota	8	+141	over	+1.5 -118
+ 
+				
+Pittsburgh	4	-161	7.5	-1.5 +102
+Milwaukee	7	+148	over	+1.5 -110
+ 
+				
+Detroit	6	+165	7.0	+1.5 -135
+KansasCity	5	-180	over	-1.5 +125
+ 
+				
+Seattle	7	+141	8.5	+1.5 -147
+Houston	5	-153	over	-1.5 +136
+ 
+				
+Washington	5	-116	7.5	-1.5 +144
+St.Louis	8	+107	over	+1.5 -156
+ 
+  				
+Arizona	5	-123	11.5	-1.5 +128
+Colorado	3	+114	under	+1.5 -139
+ 
+				
+LAAngels	6	-129	8.0	-1.5 +126
+Oakland	2	+119	push	+1.5 -136
+ 
+				
+SFGiants	1	+104	6.0	+1.5 -220
+LADodgers	2	-113	under	-1.5 +201
+ 
+				
+Texas	8	-101	7.0	+1.5 -226
+SanDiego	6	-107	over	-1.5 +206
+ 
+				
+Miami	7	-110	8.5	-1.5 +140
+Atlanta	3	+102	over	+1.5 -152
+ 
+  				
+Cincinnati	7	+134	9.5	+1.5 -155
+ChiCubs	4	-145	over	-1.5 +143
+ 
+				
+LAAngels	9	+118	7.5	+1.5 -183
+Oakland	4	-128	over	-1.5 +168
+ 
+				
+NYYankees	13	-130	9.0	-1.5 +129
+Boston	8	+120	over	+1.5 -140
+ 
+				
+TampaBay	6	+126	8.5	+1.5 -165
+Baltimore	7	-136	over	-1.5 +152
+ 
+				
+Cleveland	1	+153	9.0	+1.5 -123
+Toronto	5	-166	under	-1.5 +114
+ 
+				
+Philadelphia	4	+219	7.0	+1.5 -105
+NYMets	9	-240	over	-1.5 -103
+ 
+				
+Detroit	1	+168	8.5	+1.5 -121
+KansasCity	12	-183	over	-1.5 +112
+ 
+				
+Pittsburgh	4	-145	9.0	-1.5 +107
+Milwaukee	9	+134	over	+1.5 -116
+ 
+				
+ChiSox	0	+116	8.5	+1.5 -179
+Minnesota	3	-126	under	-1.5 +165
+ 
+				
+Seattle	8	+145	7.5	+1.5 -147
+Houston	3	-157	over	-1.5 +136
+ 
+				
+Washington	4	-138	7.0	-1.5 +120
+St.Louis	3	+127	push	+1.5 -130
+ 
+  				
+Arizona	4	+120	10.5	+1.5 -157
+Colorado	9	-130	over	-1.5 +145
+ 
+				
+SFGiants	1	+223	6.0	+1.5 -111
+LADodgers	2	-245	under	-1.5 +103
+ 
+				
+Texas	4	-150	6.5	-1.5 +115
+SanDiego	3	+138	over	+1.5 -125
+ 
+ 
+				
+ChiSox	6	+105	8.0	+1.5 -195
+Minnesota	4	-114	over	-1.5 +179
+ 
+				
+Atlanta	1	+205	8.0	+1.5 +106
+Washington	15	-224	over	-1.5 -115
+ 
+ 				
+Pittsburgh	3	-131	7.5	-1.5 +133
+Milwaukee	5	+121	over	+1.5 -144
+ 
+				
+Detroit	7	+152	9.0	+1.5 -124
+KansasCity	15	-165	over	-1.5 +115
+ 
+ 				
+SFGiants	3	+105	11.0	-1.5 +165
+Colorado	11	-114	over	+1.5 -179
+ 
+				
+LADodgers	7	-151	7.5	-1.5 +112
+SanDiego	10	+139	over	+1.5 -121
+ 
+ 				
+Arizona	5	+186	7.5	+1.5 -125
+ChiCubs	14	-203	over	-1.5 +115
+ 
+				
+TampaBay	2	+140	8.0	+1.5 -154
+NYYankees	5	-152	under	-1.5 +142
+ 
+				
+Atlanta	2	+148	8.0	+1.5 -143
+Washington	5	-161	under	-1.5 +132
+ 
+				
+Baltimore	10	+155	9.0	+1.5 -124
+Toronto	2	-168	over	-1.5 +115
+ 
+				
+Cleveland	8	-137	8.5	-1.5 +123
+Detroit	1	+126	over	+1.5 -133
+ 
+				
+Philadelphia	5	+206	9.0	+1.5 -102
+Boston	7	-225	over	-1.5 -106
+ 
+				
+NYMets	5	-171	7.5	-1.5 +100
+Miami	6	+157	over	+1.5 -108
+ 
+				
+Minnesota	0	+180	8.0	+1.5 -117
+Houston	8	-196	push	-1.5 +108
+ 
+				
+ChiSox	12	+164	8.5	+1.5 -120
+KansasCity	1	-178	over	-1.5 +111
+ 
+				
+Pittsburgh	9	+138	7.5	+1.5 -156
+St.Louis	3	-150	over	-1.5 +144
+ 
+  				
+SFGiants	1	+111	11.0	+1.5 -164
+Colorado	2	-120	under	-1.5 +151
+ 
+				
+Texas	2	+143	7.5	+1.5 -146
+LAAngels	5	-155	under	-1.5 +135
+ 
+				
+Seattle	11	+131	8.5	+1.5 -156
+Oakland	8	-142	over	-1.5 +144
+ 
+				
+LADodgers	8	-122	7.0	-1.5 +138
+SanDiego	4	+113	over	+1.5 -150
+ 
+ 
+
+				
+TampaBay	3	+157	8.0	+1.5 -128
+NYYankees	2	-171	under	-1.5 +118
+ 
+				
+Baltimore	1	+247	8.5	+1.5 +129
+Toronto	5	-272	under	-1.5 -140
+ 
+				
+Milwaukee	8	+125	9.0	+1.5 -170
+Cincinnati	6	-135	over	-1.5 +156
+
+				
+Arizona	0	+197	8.0	+1.5 +100
+ChiCubs	2	-215	under	-1.5 -108
+ 
+				
+Pittsburgh	1	+140	7.5	+1.5 -157
+St.Louis	4	-152	under	-1.5 +145
+ 
+				
+Philadelphia	2	+196	9.0	+1.5 +102
+Boston	9	-214	over	-1.5 -110
+ 
+				
+Milwaukee	7	+112	9.0	+1.5 -186
+Cincinnati	3	-121	over	-1.5 +171
+ 
+				
+Atlanta	2	+164	7.5	+1.5 -123
+Washington	8	-178	over	-1.5 +114
+ 
+				
+Cleveland	0	-147	8.0	-1.5 +114
+Detroit	6	+136	under	+1.5 -123
+ 
+				
+ChiSox	6	-103	8.0	+1.5 -205
+KansasCity	1	-105	under	-1.5 +188
+ 
+				
+Minnesota	3	+170	8.0	+1.5 -119
+Houston	2	-185	under	-1.5 +110
+ 
+				
+NYMets	7	-128	8.0	-1.5 +129
+Miami	0	+118	under	+1.5 -140
+ 
+				
+SFGiants	7	+129	10.5	+1.5 -147
+Colorado	3	-140	under	-1.5 +136
+
+  				
+LADodgers	2	-101	7.0	-1.5 +158
+SanDiego	0	-107	under	+1.5 -172
+ 
+				
+Seattle	8	-126	7.5	-1.5 +134
+Oakland	3	+116	over	+1.5 -145
+ 
+				
+Texas	2	+103	8.0	-1.5 +167
+LAAngels	1	-111	under	+1.5 -182
+ 
+   
+
+				
+TampaBay	4	-120	7.5	-1.5 +139
+NYYankees	6	+111	over	+1.5 -151
+ 
+				
+Baltimore	4	+158	8.5	+1.5 -126
+Toronto	10	-172	over	-1.5 +116
+ 
+				
+Cleveland	4	+125	8.5	+1.5 -163
+Detroit	0	-135	under	-1.5 +150
+ 
+				
+NYMets	3	-150	8.0	-1.5 +113
+Miami	4	+138	under	+1.5 -122
+ 
+				
+Milwaukee	3	-120	8.5	-1.5 +141
+Cincinnati	6	+111	over	+1.5 -153
+ 
+				
+Philadelphia	2	+192	9.0	+1.5 -102
+Boston	6	-210	under	-1.5 -106
+ 
+				
+Atlanta	4	+218	8.0	+1.5 +105
+Washington	8	-239	over	-1.5 -114
+ 
+				
+Minnesota	5	+213	7.5	+1.5 -102
+Houston	8	-233	over	-1.5 -106
+ 
+				
+ChiSox	7	+185	8.0	+1.5 -106
+KansasCity	5	-202	over	-1.5 -102
+ 
+ 				
+Arizona	4	+143	9.5	+1.5 -141
+ChiCubs	6	-155	over	-1.5 +130
+ 
+				
+Texas	0	+120	8.5	+1.5 -170
+LAAngels	7	-130	under	-1.5 +156
+ 
+				
+Seattle	3	-127	8.0	-1.5 +127
+Oakland	2	+117	under	+1.5 -138
+ 
+				
+LADodgers	5	-106	7.5	-1.5 +152
+SanDiego	1	-102	under	+1.5 -165
+ 
+				
+SFGiants	7	-174	10.0	-1.5 -113
+Colorado	4	+160	over	+1.5 +104
+ 
+				
+Pittsburgh	7	-105	7.0	-1.5 +164
+St.Louis	1	-103	over	+1.5 -178
+ 
+  
+
+				
+NYMets	8	+192	7.5	+1.5 -120
+Washington	5	-210	over	-1.5 +111
+ 
+				
+Baltimore	6	+133	8.0	+1.5 -151
+NYYankees	8	-144	over	-1.5 +139
+ 
+				
+TampaBay	4	-126	9.0	-1.5 +128
+Detroit	5	+116	push	+1.5 -139
+ 
+				
+Pittsburgh	1	+100	8.5	-1.5 +161
+Cincinnati	3	-108	under	+1.5 -175
+ 
+				
+Milwaukee	9	+110	8.5	+1.5 -199
+Miami	1	-119	over	-1.5 +182
+ 
+				
+Toronto	4	-123	10.5	-1.5 +131
+Boston	11	+114	over	+1.5 -142
+ 
+				
+Cleveland	3	+165	7.5	+1.5 -131
+ChiSox	2	-180	under	-1.5 +121
+ 
+				
+ChiCubs	9	+131	8.5	+1.5 -170
+St.Louis	0	-142	over	-1.5 +156
+ 
+				
+Houston	9	-147	7.5	-1.5 +111
+Oakland	10	+136	over	+1.5 -120
+ 
+				
+SFGiants	1	-102	7.5	-1.5 +159
+Arizona	6	-106	under	+1.5 -173
+ 
+				
+Colorado	6	+165	7.5	+1.5 -131
+SanDiego	4	-180	over	-1.5 +121
+ 
+				
+Texas	3	+105	7.5	+1.5 -203
+Seattle	0	-114	under	-1.5 +186
+ 
+				
+Atlanta	7	-101	8.5	+1.5 -199
+Philadelphia	2	-107	over	-1.5 +182
+ 
+				
+Minnesota	6	+174	8.0	+1.5 -121
+KansasCity	2	-190	push	-1.5 +112
+ 
+				
+LADodgers	7	-166	7.5	-1.5 +105
+LAAngels	5	+153	over	+1.5 -114
+ 
+ 
+
+				
+Atlanta	0	+119	8.5	+1.5 -162
+Philadelphia	5	-129	under	-1.5 +149
+ 
+				
+Baltimore	2	+149	8.5	+1.5 -132
+NYYankees	1	-162	under	-1.5 +122
+ 
+				
+NYMets	8	-106	7.5	+1.5 -233
+Washington	7	-102	over	-1.5 +213
+ 
+				
+TampaBay	7	-120	9.5	-1.5 +134
+Detroit	8	+111	over	+1.5 -145
+ 
+				
+Pittsburgh	7	-122	7.5	-1.5 +136
+Cincinnati	3	+113	over	+1.5 -148
+ 
+				
+Milwaukee	4	-115	7.5	-1.5 +143
+Miami	6	+106	over	+1.5 -155
+ 
+				
+Toronto	5	-128	10.5	-1.5 +126
+Boston	1	+118	under	+1.5 -137
+ 
+				
+Cleveland	4	-134	7.5	-1.5 +124
+ChiSox	7	+124	over	+1.5 -134
+ 
+				
+Minnesota	2	+159	8.5	+1.5 -131
+KansasCity	4	-173	under	-1.5 +121
+ 
+			
+ChiCubs	8	+134	7.5	+1.5 -160
+St.Louis	5	-145	over	-1.5 +147
+ 
+  				
+SFGiants	6	-110	8.5	-1.5 +149
+Arizona	2	+102	under	+1.5 -162
+ 
+				
+Houston	0	+105	7.5	+1.5 -203
+Oakland	4	-114	under	-1.5 +186
+ 
+				
+LADodgers	6	-163	6.5	-1.5 +103
+LAAngels	4	+150	over	+1.5 -111
+ 
+				
+Colorado	1	+111	8.0	+1.5 -191
+SanDiego	2	-120	under	-1.5 +175
+ 
+				
+Texas	9	-132	7.0	-1.5 +126
+Seattle	6	+122	over	+1.5 -137
+ 
+ 				
+ChiCubs	3	+115	7.0	+1.5 -193
+St.Louis	4	-125	push	-1.5 +177
+ 
+				
+Atlanta	8	-139	9.0	-1.5 +125
+Philadelphia	1	+128	push	+1.5 -135
+ 
+				
+Baltimore	5	+124	8.5	+1.5 -165
+NYYankees	3	-134	under	-1.5 +152
+ 
+				
+NYMets	5	-114	7.5	+1.5 -250
+Washington	3	+105	over	-1.5 +228
+ 
+				
+TampaBay	8	-130	9.0	-1.5 +123
+Detroit	0	+120	under	+1.5 -133
+ 
+				
+Milwaukee	2	+114	8.0	+1.5 -188
+Miami	5	-123	under	-1.5 +173
+ 
+				
+Pittsburgh	5	-158	8.5	-1.5 +104
+Cincinnati	4	+146	over	+1.5 -112
+ 
+				
+Toronto	4	-127	10.0	-1.5 +127
+Boston	10	+117	over	+1.5 -138
+ 
+				
+Minnesota	3	+174	8.5	+1.5 -118
+KansasCity	2	-190	under	-1.5 +109
+ 
+				
+Cleveland	6	-108	7.5	-1.5 +149
+ChiSox	4	+100	over	+1.5 -162
+ 
+				
+Colorado	4	+155	7.5	+1.5 -143
+SanDiego	11	-168	over	-1.5 +132
+ 
+ 				
+SFGiants	1	+102	8.0	-1.5 +164
+Arizona	2	-110	under	+1.5 -178
+ 
+				
+LADodgers	2	+137	8.5	+1.5 -152
+LAAngels	3	-149	under	-1.5 +140
+ 
+				
+Houston	11	-153	7.5	-1.5 +106
+Oakland	5	+141	over	+1.5 -115
+ 
+				
+Texas	0	-111	7.5	-1.5 +146
+Seattle	6	+103	under	+1.5 -159
+ 
+   				
+Texas	0	+104	7.0	+1.5 -206
+Seattle	5	-112	under	-1.5 +189
+ 
+				
+Colorado	4	+142	7.5	+1.5 -150
+SanDiego	3	-154	under	-1.5 +138
+ 
+				
+Milwaukee	6	+158	8.0	+1.5 -132
+Pittsburgh	4	-172	over	-1.5 +122
+ 
+				
+NYMets	7	-115	7.5	-1.5 +145
+Atlanta	2	+106	over	+1.5 -157
+ 
+				
+St.Louis	0	-132	8.0	-1.5 +127
+Cincinnati	11	+122	over	+1.5 -138
+ 
+				
+Detroit	5	+178	8.0	+1.5 -115
+Cleveland	7	-194	over	-1.5 +106
+ 
+  
+
+				
+ChiCubs	5	-275	7.0	-1.5 -149
+Philadelphia	1	+249	under	+1.5 +137
+ 
+				
+Milwaukee	3	+157	7.5	+1.5 -143
+Pittsburgh	6	-171	over	-1.5 +132
+ 
+				
+KansasCity	8	-114	8.5	-1.5 +145
+Baltimore	14	+105	over	+1.5 -157
+ 
+				
+Toronto	11	-149	7.5	-1.5 +108
+NYYankees	5	+137	over	+1.5 -117
+ 
+				
+Washington	1	-146	7.5	-1.5 +110
+Miami	2	+135	under	+1.5 -119
+ 
+				
+Boston	4	+141	7.0	+1.5 -161
+TampaBay	8	-153	over	-1.5 +148
+ 
+				
+St.Louis	2	-152	7.5	-1.5 +125
+Cincinnati	4	+140	under	+1.5 -135
+ 
+				
+NYMets	5	-199	8.0	-1.5 -119
+Atlanta	1	+182	under	+1.5 +110
+ 
+				
+ChiCubs	7	-193	8.5	-1.5 -120
+Philadelphia	3	+177	over	+1.5 +111
+ 
+				
+Oakland	0	+116	9.5	+1.5 -165
+Texas	4	-126	under	-1.5 +152
+ 
+				
+Minnesota	6	-102	8.0	+1.5 -209
+ChiSox	2	-106	push	-1.5 +191
+ 
+ 				
+LADodgers	4	-108	8.5	-1.5 +147
+Arizona	12	+100	over	+1.5 -160
+ 
+				
+Houston	2	-154	7.5	-1.5 +112
+LAAngels	3	+142	under	+1.5 -121
+ 
+				
+Colorado	4	+179	7.5	+1.5 -121
+Seattle	2	-195	under	-1.5 +112
+ 				
+SanDiego	1	+117	7.0	+1.5 -192
+SFGiants	9	-127	over	-1.5 +176
+ 
+
+				
+Toronto	9	+120	8.5	+1.5 -167
+NYYankees	5	-130	over	-1.5 +154
+ 
+				
+KansasCity	14	-125	8.5	-1.5 +133
+Baltimore	6	+115	over	+1.5 -144
+ 
+				
+St.Louis	1	-140	8.0	-1.5 +121
+Cincinnati	5	+129	under	+1.5 -131
+ 
+				
+Toronto	10	-125	9.0	-1.5 +129
+NYYankees	7	+115	over	+1.5 -140
+ 
+				
+Boston	10	-111	8.0	-1.5 +147
+TampaBay	4	+103	over	+1.5 -160
+ 
+				
+Milwaukee	2	+161	8.0	+1.5 -143
+Pittsburgh	10	-175	over	-1.5 +132
+ 
+				
+ChiCubs	5	-175	9.0	-1.5 -113
+Philadelphia	7	+161	over	+1.5 +104
+ 
+				
+Minnesota	2	+108	8.0	+1.5 -190
+ChiSox	8	-117	over	-1.5 +174
+ 
+				
+Washington	0	+136	7.0	+1.5 -164
+Miami	2	-148	under	-1.5 +151
+ 
+				
+NYMets	6	-200	8.0	-1.5 -122
+Atlanta	4	+183	over	+1.5 +113
+ 
+				
+Oakland	5	+156	9.0	+1.5 -131
+Texas	3	-169	under	-1.5 +121
+ 
+				
+LADodgers	9	-124	8.5	-1.5 +127
+Arizona	5	+115	over	+1.5 -138
+ 
+				
+SanDiego	0	+174	6.5	+1.5 -140
+SFGiants	8	-190	over	-1.5 +129
+ 
+				
+Houston	2	-123	8.0	-1.5 +136
+LAAngels	3	+114	under	+1.5 -147
+ 
+				
+Colorado	2	+170	8.0	+1.5 -140
+Seattle	7	-185	over	-1.5 +129
+ 
+
+				
+Toronto	0	+137	8.5	+1.5 -144
+NYYankees	5	-149	under	-1.5 +133
+ 
+				
+Detroit	2	+152	8.0	+1.5 -208
+Cleveland	7	-165	over	-1.5 +190
+ 
+				
+Washington	5	-195	7.5	-1.5 -116
+Miami	0	+179	under	+1.5 +107
+ 
+				
+St.Louis	9	-135	7.5	-1.5 +122
+Cincinnati	2	+125	over	+1.5 -132
+ 
+				
+Boston	2	+145	8.0	+1.5 -152
+TampaBay	0	-157	under	-1.5 +140
+ 
+				
+Milwaukee	6	+183	7.5	+1.5 -126
+Pittsburgh	7	-200	over	-1.5 +116
+ 
+				
+ChiCubs	4	-183	9.0	-1.5 -112
+Philadelphia	7	+168	over	+1.5 +104
+ 
+				
+NYMets	10	-145	8.5	-1.5 +112
+Atlanta	7	+134	over	+1.5 -121
+ 
+				
+Minnesota	7	+166	7.5	+1.5 -134
+ChiSox	0	-181	under	-1.5 +124
+ 
+				
+Oakland	4	+126	9.5	+1.5 -146
+Texas	12	-136	over	-1.5 +135
+ 
+				
+Houston	5	-117	8.0	-1.5 +138
+LAAngels	3	+108	push	+1.5 -150
+ 
+				
+SanDiego	3	+159	7.5	+1.5 -126
+SFGiants	10	-173	over	-1.5 +116
+ 
+				
+LADodgers	4	-138	7.5	-1.5 +126
+Arizona	3	+127	under	+1.5 -137
+ 
+				
+Colorado	3	+176	8.0	+1.5 -117
+Seattle	2	-192	under	-1.5 +108
+ 
+				
+Detroit	9	+161	8.5	+1.5 -128
+Cleveland	2	-175	over	-1.5 +118
+ 
+				
+KansasCity	2	-136	8.0	-1.5 +125
+Baltimore	8	+126	over	+1.5 -135
+ 
+
+
+				
+Washington	8	-150	7.5	-1.5 +114
+Philadelphia	7	+138	over	+1.5 -123
+ 
+				
+Boston	0	+133	8.0	+1.5 -160
+Baltimore	2	-144	under	-1.5 +147
+ 
+				
+NYYankees	4	+103	8.0	+1.5 -200
+TampaBay	1	-111	under	-1.5 +183
+ 
+				
+KansasCity	3	+138	7.5	+1.5 -155
+Cleveland	8	-150	over	-1.5 +143
+ 
+				
+Miami	3	+174	7.5	+1.5 -121
+NYMets	4	-190	under	-1.5 +112
+ 
+				
+Houston	3	+100	8.0	+1.5 -200
+Texas	5	-108	push	-1.5 +183
+ 
+				
+Detroit	1	+154	9.0	+1.5 -138
+Minnesota	7	-167	under	-1.5 +127
+ 
+				
+Oakland	7	-138	7.5	-1.5 +120
+ChiSox	8	+127	over	+1.5 -130
+ 
+  				
+SanDiego	10	-101	8.5	+1.5 -204
+Arizona	3	-107	over	-1.5 +187
+ 
+				
+LAAngels	1	-110	7.0	-1.5 +152
+Seattle	10	+102	over	+1.5 -165
+ 
+				
+Colorado	1	+318	6.0	+1.5 +127
+LADodgers	4	-355	under	-1.5 -138
+ 
+				
+Cincinnati	3	+144	7.5	+1.5 -144
+SFGiants	5	-156	over	-1.5 +133
+ 
+				
+ChiCubs	4	+138	7.0	+1.5 -160
+Pittsburgh	5	-150	over	-1.5 +147
+ 
+				
+Washington	4	-236	8.5	-1.5 -140
+Philadelphia	0	+215	under	+1.5 +129
+ 
+				
+ChiCubs	2	+107	7.5	+1.5 -210
+Pittsburgh	1	-116	under	-1.5 +192
+ 
+				
+Boston	5	+126	8.5	+1.5 -160
+Baltimore	6	-136	over	-1.5 +147
+ 
+				
+KansasCity	2	-108	7.5	-1.5 +151
+Cleveland	0	+100	under	+1.5 -164
+ 
+				
+Miami	9	+223	7.0	+1.5 +102
+NYMets	3	-245	over	-1.5 -110
+ 
+				
+NYYankees	3	+104	7.5	+1.5 -208
+TampaBay	6	-113	over	-1.5 +190
+ 
+				
+Toronto	2	-150	7.5	-1.5 +104
+Atlanta	3	+138	under	+1.5 -113
+ 
+				
+Houston	5	+100	8.5	+1.5 -206
+Texas	6	-108	over	-1.5 +189
+ 
+				
+Detroit	5	+137	9.0	+1.5 -145
+Minnesota	4	-149	push	-1.5 +134
+ 
+				
+St.Louis	3	-175	8.0	-1.5 -104
+Milwaukee	1	+161	under	+1.5 -104
+ 
+				
+Oakland	17	+146	8.0	+1.5 -142
+ChiSox	6	-158	over	-1.5 +131
+ 
+  				
+SanDiego	4	-104	8.5	-1.5 +153
+Arizona	6	-104	over	+1.5 -166
+ 
+				
+LAAngels	4	+156	7.0	+1.5 -140
+Seattle	3	-170	push	-1.5 +129
+ 
+				
+Colorado	5	+210	7.5	+1.5 -119
+LADodgers	4	-230	over	-1.5 +110
+ 
+				
+Cincinnati	9	+120	7.5	+1.5 -190
+SFGiants	8	-130	over	-1.5 +174
+ 
+  
+
+				
+ChiCubs	3	-137	7.0	-1.5 +125
+Pittsburgh	2	+126	under	+1.5 -135
+ 
+				
+Washington	12	-205	8.5	-1.5 -120
+Philadelphia	2	+188	over	+1.5 +111
+ 
+				
+Boston	10	+115	9.0	+1.5 -177
+Baltimore	1	-125	over	-1.5 +163
+ 
+				
+KansasCity	1	+108	7.5	+1.5 -195
+Cleveland	5	-117	under	-1.5 +179
+ 
+				
+Toronto	9	-230	7.0	-1.5 -128
+Atlanta	1	+210	over	+1.5 +118
+ 
+				
+Miami	6	+181	7.5	+1.5 -121
+NYMets	0	-197	under	-1.5 +112
+ 
+				
+NYYankees	3	+114	7.0	+1.5 -200
+TampaBay	1	-123	under	-1.5 +183
+ 
+				
+Houston	3	-167	8.5	-1.5 -104
+Texas	14	+154	over	+1.5 -104
+ 
+				
+Oakland	4	+133	9.0	+1.5 -152
+ChiSox	9	-144	over	-1.5 +140
+ 
+				
+Detroit	7	+145	9.0	+1.5 -134
+Minnesota	4	-157	over	-1.5 +124
+ 
+				
+St.Louis	5	-169	8.0	-1.5 -106
+Milwaukee	4	+156	over	+1.5 -102
+ 
+  				
+SanDiego	4	+119	9.0	+1.5 -175
+Arizona	3	-129	under	-1.5 +161
+ 
+				
+Colorado	0	+147	7.0	+1.5 -155
+LADodgers	2	-160	under	-1.5 +143
+ 
+				
+LAAngels	1	+135	7.5	+1.5 -166
+Seattle	3	-146	under	-1.5 +153
+ 
+				
+Cincinnati	3	+154	7.5	+1.5 -139
+SFGiants	5	-167	over	-1.5 +128
+ 
+   
+
+				
+ChiCubs	9	+102	8.0	+1.5 -204
+Pittsburgh	6	-110	over	-1.5 +187
+ 
+				
+Oakland	4	+136	8.5	+1.5 -149
+ChiSox	2	-148	under	-1.5 +137
+ 
+				
+Miami	6	+148	8.0	+1.5 -146
+Washington	4	-161	over	-1.5 +135
+ 
+				
+KansasCity	8	+120	7.0	+1.5 -180
+Cleveland	4	-130	over	-1.5 +165
+ 
+				
+Baltimore	4	-118	8.0	-1.5 +134
+TampaBay	3	+109	under	+1.5 -145
+ 
+				
+Toronto	5	-171	8.0	-1.5 -111
+Atlanta	0	+157	under	+1.5 +103
+ 
+				
+Houston	2	-119	9.0	-1.5 +132
+Texas	8	+110	over	+1.5 -143
+ 
+				
+LAAngels	11	+109	9.0	+1.5 -193
+Minnesota	8	-118	over	-1.5 +177
+ 
+				
+St.Louis	6	-125	7.5	-1.5 +132
+Milwaukee	3	+115	over	+1.5 -143
+ 
+  				
+St.Louis	3	+102	8.5	+1.5 -201
+ChiCubs	8	-110	over	-1.5 +184
+ 
+				
+Miami	4	+136	6.5	+1.5 -163
+Washington	5	-148	over	-1.5 +150
+ 
+				
+Boston	1	+170	9.0	+1.5 -120
+Toronto	6	-185	under	-1.5 +111
+ 
+				
+KansasCity	4	-113	8.0	+1.5 -230
+Detroit	5	+104	over	-1.5 +210
+ 
+				
+Baltimore	6	+104	7.5	+1.5 -205
+TampaBay	8	-113	over	-1.5 +188
+ 
+				
+ChiSox	1	-142	7.0	-1.5 +120
+Cleveland	12	+131	over	+1.5 -130
+ 
+				
+NYYankees	1	-103	7.0	+1.5 -230
+NYMets	5	-105	under	-1.5 +210
+ 
+				
+Philadelphia	1	+117	8.0	+1.5 -180
+Atlanta	2	-127	under	-1.5 +165
+ 
+				
+Seattle	3	+110	9.5	+1.5 -176
+Texas	1	-119	under	-1.5 +162
+ 
+				
+Oakland	4	+188	8.5	+1.5 -113
+Houston	3	-205	under	-1.5 +104
+ 
+				
+Cincinnati	5	+111	8.5	+1.5 -182
+Milwaukee	3	-120	under	-1.5 +167
+ 
+  				
+SanDiego	4	+108	10.5	+1.5 -170
+Colorado	7	-117	over	-1.5 +156
+ 
+				
+Pittsburgh	2	+159	6.5	+1.5 -130
+LADodgers	6	-173	over	-1.5 +120
+ 
+				
+Arizona	2	+201	6.5	+1.5 -112
+SFGiants	0	-220	under	-1.5 +104
+ 
+   
+
+				
+NYYankees	5	+104	7.0	+1.5 -215
+NYMets	0	-113	under	-1.5 +197
+ 
+				
+St.Louis	4	-120	7.0	-1.5 +144
+ChiCubs	5	+111	over	+1.5 -156
+ 
+				
+LAAngels	4	+111	8.0	+1.5 -180
+Minnesota	3	-120	under	-1.5 +165
+ 
+				
+Arizona	6	-110	7.0	-1.5 +147
+SFGiants	0	+102	under	+1.5 -160
+ 
+				
+Miami	2	+201	8.0	+1.5 -108
+Washington	5	-220	under	-1.5 -100
+ 
+				
+Boston	7	+152	9.0	+1.5 -133
+Toronto	6	-165	over	-1.5 +123
+ 
+				
+Baltimore	2	-108	7.5	-1.5 +153
+TampaBay	1	+100	under	+1.5 -166
+ 
+				
+KansasCity	5	-142	9.5	-1.5 +116
+Detroit	6	+131	over	+1.5 -126
+ 
+				
+Cincinnati	9	+127	8.5	+1.5 -170
+Milwaukee	7	-138	over	-1.5 +156
+ 
+				
+Oakland	6	+130	7.5	+1.5 -164
+Houston	10	-141	over	-1.5 +151
+ 
+				
+LAAngels	5	-133	8.5	-1.5 +121
+Minnesota	2	+123	under	+1.5 -131
+ 
+				
+ChiSox	4	+182	7.0	+1.5 -126
+Cleveland	3	-199	push	-1.5 +116
+ 
+				
+Philadelphia	1	+131	8.0	+1.5 -164
+Atlanta	2	-142	under	-1.5 +151
+ 
+				
+Seattle	1	+161	9.0	+1.5 -123
+Texas	10	-175	over	-1.5 +114
+ 
+				
+SanDiego	2	-107	11.0	+1.5 -202
+Colorado	10	-101	over	-1.5 +185
+ 
+				
+Pittsburgh	3	+165	6.5	+1.5 -143
+LADodgers	2	-180	under	-1.5 +132
+ 
+				
+Boston	4	+170	9.0	+1.5 -115
+Toronto	3	-185	under	-1.5 +106
+ 
+				
+KansasCity	10	-150	8.0	-1.5 +113
+Detroit	3	+138	over	+1.5 -122
+ 
+				
+Baltimore	6	-115	7.0	-1.5 +146
+TampaBay	7	+106	over	+1.5 -159
+ 
+				
+ChiSox	3	+157	7.5	+1.5 -134
+Cleveland	6	-171	over	-1.5 +124
+ 
+				
+Miami	3	+245	7.5	+1.5 +114
+Washington	13	-270	over	-1.5 -123
+ 
+				
+Philadelphia	1	+134	7.5	+1.5 -158
+Atlanta	2	-145	under	-1.5 +146
+ 
+				
+Cincinnati	4	-115	7.5	-1.5 +141
+Milwaukee	8	+106	over	+1.5 -153
+ 
+				
+LAAngels	1	-104	8.5	+1.5 -215
+Minnesota	8	-104	over	-1.5 +197
+ 
+				
+Oakland	1	+192	8.5	+1.5 +100
+Houston	5	-210	under	-1.5 -108
+ 
+  				
+St.Louis	4	+129	7.5	+1.5 -176
+ChiCubs	3	-140	under	-1.5 +162
+ 
+				
+Seattle	9	-105	8.0	-1.5 +154
+Texas	2	-103	over	+1.5 -167
+ 
+				
+Arizona	1	+118	8.0	+1.5 -183
+SFGiants	5	-128	under	-1.5 +168
+ 
+				
+SanDiego	10	-122	11.5	-1.5 +127
+Colorado	4	+113	over	+1.5 -138
+ 
+				
+Pittsburgh	4	-126	7.5	-1.5 +133
+LADodgers	3	+116	under	+1.5 -144
+ 
+				
+NYYankees	11	+143	7.0	+1.5 -155
+NYMets	2	-155	over	-1.5 +143
+ 
+
+				
+ChiSox	2	-142	9.0	-1.5 +118
+Detroit	0	+131	under	+1.5 -128
+ 
+				
+NYYankees	2	+210	8.0	+1.5 +105
+Toronto	4	-230	under	-1.5 -114
+ 
+				
+ChiSox	3	-104	9.0	-1.5 +154
+Detroit	2	-104	under	+1.5 -167
+ 
+				
+TampaBay	7	-115	8.0	-1.5 +146
+Boston	8	+106	over	+1.5 -158
+ 
+				
+Atlanta	0	+156	7.5	+1.5 -135
+NYMets	4	-169	under	-1.5 +125
+ 
+				
+Milwaukee	5	+194	8.0	+1.5 -109
+ChiCubs	9	-212	over	-1.5 +101
+ 
+				
+LAAngels	3	+179	8.5	+1.5 -114
+Houston	6	-195	over	-1.5 +105
+ 
+				
+Cincinnati	1	+151	7.0	+1.5 -144
+St.Louis	2	-164	under	-1.5 +133
+ 
+  				
+Pittsburgh	9	-110	11.0	-1.5 +141
+Colorado	3	+102	over	+1.5 -153
+ 
+				
+Arizona	8	+156	8.0	+1.5 -136
+LADodgers	4	-170	over	-1.5 +126
+
+				
+Baltimore	4	+136	7.5	+1.5 -163
+Washington	1	-147	under	-1.5 +150
+ 
+				
+NYYankees	6	-102	8.5	+1.5 -205
+Toronto	4	-106	over	-1.5 +188
+ 
+				
+ChiSox	1	-108	8.0	-1.5 +146
+Detroit	2	+100	under	+1.5 -159
+ 
+				
+Atlanta	6	+178	7.5	+1.5 -118
+NYMets	2	-194	over	-1.5 +109
+ 
+				
+TampaBay	5	+105	9.0	+1.5 -190
+Boston	2	-114	under	-1.5 +174
+ 
+				
+Philadelphia	6	+154	7.5	+1.5 -135
+Miami	2	-167	over	-1.5 +125
+ 
+				
+Milwaukee	0	+292	7.5	+1.5 +133
+ChiCubs	4	-325	under	-1.5 -144
+ 
+				
+Cleveland	1	-120	8.0	-1.5 +137
+Minnesota	3	+111	under	+1.5 -149
+ 
+				
+LAAngels	4	+153	8.5	+1.5 -137
+Houston	3	-166	under	-1.5 +126
+ 
+				
+Seattle	11	-102	8.0	+1.5 -217
+KansasCity	2	-106	over	-1.5 +198
+ 
+				
+Cincinnati	1	+179	7.5	+1.5 -123
+St.Louis	3	-195	under	-1.5 +114
+ 
+  				
+Pittsburgh	6	-142	11.0	-1.5 +113
+Colorado	3	+131	under	+1.5 -122
+ 
+				
+Texas	8	-115	8.0	-1.5 +138
+Oakland	6	+106	over	+1.5 -150
+ 
+				
+SFGiants	4	+127	7.0	+1.5 -173
+SanDiego	2	-138	under	-1.5 +159
+ 
+				
+Arizona	8	+142	7.5	+1.5 -155
+LADodgers	0	-154	over	-1.5 +143
+ 
+  
+
+				
+ChiSox	4	+122	8.0	+1.5 -172
+Detroit	7	-132	over	-1.5 +158
+ 
+				
+LAAngels	6	+153	8.5	+1.5 -132
+Houston	5	-166	over	-1.5 +122
+ 
+				
+Baltimore	4	+161	7.0	+1.5 -134
+Washington	3	-175	push	-1.5 +124
+ 
+				
+NYYankees	0	+167	8.5	+1.5 -117
+Toronto	4	-182	under	-1.5 +108
+ 
+				
+Atlanta	6	+206	7.5	+1.5 -102
+NYMets	3	-225	over	-1.5 -106
+ 
+				
+Philadelphia	3	+161	8.5	+1.5 -129
+Miami	4	-175	under	-1.5 +119
+ 
+				
+TampaBay	6	+105	8.5	+1.5 -192
+Boston	2	-114	under	-1.5 +176
+ 
+				
+Milwaukee	4	+204	8.0	+1.5 -103
+ChiCubs	1	-223	under	-1.5 -105
+ 
+				
+Cleveland	2	-134	7.5	-1.5 +125
+Minnesota	4	+124	under	+1.5 -135
+ 
+				
+Seattle	3	+167	8.0	+1.5 -136
+KansasCity	4	-182	under	-1.5 +126
+ 
+				
+Cincinnati	2	+145	7.5	+1.5 -158
+St.Louis	10	-157	over	-1.5 +146
+ 
+ 				
+Pittsburgh	13	-136	11.0	-1.5 +118
+Colorado	7	+126	over	+1.5 -128
+ 
+				
+Texas	10	-116	8.5	-1.5 +143
+Oakland	3	+107	over	+1.5 -155
+ 
+				
+Arizona	1	+134	8.0	+1.5 -157
+LADodgers	4	-145	under	-1.5 +145
+ 
+				
+SFGiants	4	+106	7.0	+1.5 -210
+SanDiego	5	-115	over	-1.5 +192
+ 
+   
+
+				
+Pittsburgh	5	-125	11.0	-1.5 +128
+Colorado	4	+115	under	+1.5 -139
+ 
+				
+Arizona	3	+197	6.0	+1.5 -122
+LADodgers	6	-215	over	-1.5 +113
+ 
+				
+Texas	8	-145	8.0	-1.5 +111
+Oakland	1	+134	over	+1.5 -120
+ 
+				
+Baltimore	5	+134	8.5	+1.5 -157
+Washington	4	-145	over	-1.5 +145
+ 
+				
+ChiSox	2	-104	7.0	+1.5 -230
+NYYankees	3	-104	under	-1.5 +210
+ 
+				
+Philadelphia	0	+164	7.5	+1.5 -129
+Miami	1	-178	under	-1.5 +119
+ 
+				
+NYMets	6	-160	8.5	-1.5 +102
+Cincinnati	4	+147	over	+1.5 -110
+ 
+				
+TampaBay	4	+115	8.5	+1.5 -178
+Boston	2	-124	under	-1.5 +164
+ 
+				
+Milwaukee	3	+183	7.0	+1.5 -120
+St.Louis	7	-200	over	-1.5 +111
+ 
+				
+Cleveland	6	+125	7.5	+1.5 -169
+Minnesota	3	-135	over	-1.5 +156
+ 
+				
+Seattle	4	+159	7.5	+1.5 -137
+KansasCity	10	-173	over	-1.5 +126
+ 
+				
+SFGiants	4	-133	6.5	-1.5 +129
+SanDiego	5	+123	over	+1.5 -140
+ 
+  
+
+  				
+Pittsburgh	3	+105	6.5	+1.5 -218
+ChiCubs	2	-114	under	-1.5 +199
+ 
+				
+ChiSox	5	+126	7.5	+1.5 -168
+NYYankees	2	-137	under	-1.5 +155
+ 
+				
+Philadelphia	8	+219	7.0	+1.5 -102
+Washington	2	-240	over	-1.5 -106
+ 
+				
+TampaBay	3	+147	8.0	+1.5 -141
+Toronto	5	-160	push	-1.5 +130
+ 
+				
+Minnesota	4	-106	9.0	-1.5 +146
+Detroit	6	-102	over	+1.5 -158
+ 
+				
+NYMets	12	-128	7.5	-1.5 +130
+Cincinnati	5	+118	over	+1.5 -141
+ 
+				
+Baltimore	0	-108	8.0	-1.5 +148
+Boston	7	-100	under	+1.5 -161
+ 
+				
+Atlanta	11	+183	6.5	+1.5 -120
+Miami	12	-200	over	-1.5 +111
+ 
+				
+Texas	6	+129	8.0	+1.5 -159
+Houston	2	-140	push	-1.5 +146
+ 
+				
+Cleveland	6	-156	7.0	-1.5 +105
+KansasCity	0	+144	under	+1.5 -114
+ 
+				
+LADodgers	4	-140	11.5	-1.5 +111
+Colorado	7	+129	under	+1.5 -120
+ 
+				
+Milwaukee	4	+201	7.0	+1.5 -110
+St.Louis	3	-220	push	-1.5 +102
+ 
+				
+SFGiants	4	+159	7.0	+1.5 -136
+Oakland	5	-173	over	-1.5 +126
+ 
+				
+Seattle	4	+161	7.5	+1.5 -130
+LAAngels	8	-175	over	-1.5 +120
+ 
+				
+Arizona	6	-122	7.5	-1.5 +140
+SanDiego	3	+113	over	+1.5 -152
+ 
+  
+
+				
+Pittsburgh	4	-109	7.5	-1.5 +152
+ChiCubs	0	+101	under	+1.5 -165
+ 
+				
+Texas	7	+136	8.0	+1.5 -159
+Houston	9	-148	over	-1.5 +146
+
+				
+TampaBay	8	+170	7.0	+1.5 -135
+Toronto	10	-185	over	-1.5 +125
+ 
+				
+SFGiants	14	+101	8.0	-1.5 +164
+Oakland	10	-109	over	+1.5 -178
+ 
+				
+ChiSox	1	+148	8.5	+1.5 -134
+NYYankees	2	-161	under	-1.5 +124
+ 
+				
+Baltimore	0	-126	9.0	-1.5 +131
+Boston	8	+116	under	+1.5 -142
+ 
+				
+Philadelphia	1	+241	7.0	+1.5 +105
+Washington	2	-265	under	-1.5 -114
+ 
+				
+NYMets	10	-148	7.5	-1.5 +110
+Cincinnati	2	+136	over	+1.5 -119
+ 
+				
+Minnesota	6	-131	8.5	-1.5 +124
+Detroit	2	+121	under	+1.5 -134
+ 
+				
+Cleveland	9	+115	8.0	+1.5 -180
+KansasCity	5	-124	over	-1.5 +165
+ 
+				
+Atlanta	2	-120	7.5	-1.5 +141
+Miami	6	+111	over	+1.5 -153
+ 
+				
+Milwaukee	1	+207	7.5	+1.5 -105
+St.Louis	5	-227	under	-1.5 -103
+ 
+				
+LADodgers	6	-164	11.5	-1.5 +101
+Colorado	8	+151	over	+1.5 -109
+ 
+				
+Arizona	0	-104	8.0	-1.5 +152
+SanDiego	3	-104	under	+1.5 -165
+ 
+				
+Seattle	2	-103	7.5	+1.5 -219
+LAAngels	3	-105	under	-1.5 +200
+ 
+
+
+				
+ChiSox	1	+174	7.5	+1.5 -116
+NYYankees	6	-190	under	-1.5 +107
+ 
+				
+TampaBay	4	+152	9.0	+1.5 -129
+Toronto	5	-165	push	-1.5 +119
+ 
+				
+Minnesota	7	-131	8.5	-1.5 +124
+Detroit	1	+121	under	+1.5 -134
+ 
+				
+NYMets	8	-123	7.5	-1.5 +137
+Cincinnati	1	+114	over	+1.5 -149
+ 
+				
+Atlanta	5	+124	7.5	+1.5 -184
+Miami	9	-134	over	-1.5 +169
+ 
+				
+Philadelphia	12	+197	7.5	+1.5 -102
+Washington	5	-215	over	-1.5 -106
+ 
+				
+Baltimore	0	-111	8.5	-1.5 +145
+Boston	2	+103	under	+1.5 -157
+ 
+				
+Texas	2	+204	8.0	+1.5 -104
+Houston	4	-223	under	-1.5 -104
+ 
+				
+Cleveland	0	-124	8.0	-1.5 +132
+KansasCity	3	+115	under	+1.5 -143
+ 
+				
+Milwaukee	8	+202	7.5	+1.5 -108
+St.Louis	4	-221	over	-1.5 -100
+ 
+				
+Seattle	2	-110	8.0	-1.5 +146
+LAAngels	3	+102	under	+1.5 -158
+ 
+				
+SFGiants	5	-106	8.5	-1.5 +148
+Oakland	4	-102	over	+1.5 -161
+ 
+				
+LADodgers	5	-162	11.0	-1.5 -104
+Colorado	12	+149	over	+1.5 -104
+ 
+				
+Arizona	4	+132	7.5	+1.5 -160
+SanDiego	2	-143	under	-1.5 +147
+ 
+				
+Pittsburgh	0	+164	7.0	+1.5 -133
+ChiCubs	4	-178	under	-1.5 +123
+ 
+  
+
+				
+Cincinnati	1	+165	7.0	+1.5 -130
+Washington	5	-179	under	-1.5 +120
+ 
+				
+Toronto	4	-119	9.0	-1.5 +136
+Baltimore	3	+110	under	+1.5 -147
+ 
+				
+St.Louis	3	+130	7.0	+1.5 -170
+Pittsburgh	0	-141	under	-1.5 +156
+ 
+				
+Boston	5	+120	8.5	+1.5 -170
+NYYankees	1	-130	under	-1.5 +156
+ 
+				
+Minnesota	4	+156	8.0	+1.5 -136
+Cleveland	2	-169	under	-1.5 +126
+ 
+				
+Detroit	7	+132	8.5	+1.5 -153
+Texas	4	-143	over	-1.5 +141
+ 
+				
+KansasCity	0	+104	8.0	+1.5 -216
+ChiCubs	1	-113	under	-1.5 +198
+ 
+				
+Oakland	4	+170	9.0	+1.5 -118
+LAAngels	5	-185	push	-1.5 +109
+ 
+				
+Houston	3	-133	7.0	-1.5 +120
+Seattle	2	+123	under	+1.5 -130
+ 
+				
+LADodgers	2	-186	6.5	-1.5 -109
+SFGiants	3	+171	under	+1.5 +101
+ 
+  
+
+				
+Boston	10	+165	8.0	+1.5 -124
+NYYankees	4	-180	over	-1.5 +115
+ 
+				
+NYMets	3	-180	9.0	-1.5 -113
+Philadelphia	4	+165	under	+1.5 +104
+ 
+				
+Miami	2	+136	7.5	+1.5 -162
+TampaBay	4	-148	under	-1.5 +149
+ 
+				
+ChiCubs	4	-146	8.5	-1.5 +115
+Cincinnati	1	+135	under	+1.5 -125
+ 
+				
+Washington	1	-131	8.5	-1.5 +130
+Atlanta	2	+121	under	+1.5 -141
+ 
+				
+Detroit	6	+164	8.5	+1.5 -125
+Texas	7	-178	over	-1.5 +115
+ 
+				
+KansasCity	2	-145	7.5	-1.5 +110
+ChiSox	4	+134	under	+1.5 -119
+ 
+ 				
+Colorado	3	+165	9.0	+1.5 -121
+Arizona	4	-180	under	-1.5 +112
+ 
+				
+Oakland	1	+144	8.0	+1.5 -141
+LAAngels	8	-156	over	-1.5 +130
+ 
+				
+Houston	4	-135	7.5	-1.5 +128
+Seattle	6	+125	over	+1.5 -139
+ 
+				
+Milwaukee	4	+167	7.0	+1.5 -133
+SanDiego	3	-182	push	-1.5 +123
+ 
+				
+LADodgers	8	-132	5.5	-1.5 +138
+SFGiants	0	+122	over	+1.5 -150
+ 
+ 				
+St.Louis	2	+141	6.5	+1.5 -164
+Pittsburgh	8	-153	over	-1.5 +151
+ 
+				
+Toronto	15	-155	8.0	-1.5 +105
+Baltimore	2	+143	over	+1.5 -114
+ 
+				
+Minnesota	7	+156	7.0	+1.5 -144
+Cleveland	1	-170	over	-1.5 +133
+ 
+				
+Boston	9	+154	7.5	+1.5 -129
+NYYankees	5	-167	over	-1.5 +119
+ 
+				
+St.Louis	11	+116	7.5	+1.5 -200
+Pittsburgh	1	-126	over	-1.5 +183
+ 
+				
+Oakland	8	+215	8.5	+1.5 +113
+LAAngels	7	-236	over	-1.5 -122
+ 
+				
+NYMets	5	-180	9.0	-1.5 -109
+Philadelphia	7	+165	over	+1.5 +101
+ 
+				
+Toronto	1	+113	8.0	+1.5 -175
+Baltimore	8	-122	over	-1.5 +161
+ 
+				
+Miami	4	+159	7.5	+1.5 -125
+TampaBay	6	-173	over	-1.5 +115
+ 
+				
+Minnesota	2	+118	8.0	+1.5 -173
+Cleveland	10	-128	over	-1.5 +159
+ 
+				
+Washington	0	-163	7.5	-1.5 -101
+Atlanta	2	+150	under	+1.5 -107
+ 
+				
+ChiCubs	10	-157	7.0	-1.5 +110
+Cincinnati	3	+145	over	+1.5 -119
+ 
+				
+Detroit	2	+170	9.5	+1.5 -116
+Texas	6	-185	under	-1.5 +107
+ 
+				
+KansasCity	5	+111	7.5	+1.5 -188
+ChiSox	3	-120	over	-1.5 +173
+ 
+ 				
+Colorado	1	+116	9.0	+1.5 -180
+Arizona	3	-126	under	-1.5 +165
+ 
+				
+Houston	7	-154	8.0	-1.5 +107
+Seattle	6	+142	over	+1.5 -116
+ 
+				
+Milwaukee	5	+130	7.0	+1.5 -173
+SanDiego	0	-141	under	-1.5 +159
+ 
+				
+LADodgers	0	-116	7.0	-1.5 +144
+SFGiants	5	+107	under	+1.5 -156
+ 
+				
+Toronto	4	+165	7.5	+1.5 -123
+Baltimore	6	-179	over	-1.5 +114
+ 
+				
+NYMets	0	-106	7.0	-1.5 +160
+Philadelphia	3	-102	under	+1.5 -174
+ 
+				
+ChiCubs	5	-111	7.5	-1.5 +148
+Cincinnati	3	+103	over	+1.5 -161
+ 
+				
+LADodgers	3	-134	7.5	-1.5 +127
+SFGiants	2	+124	under	+1.5 -138
+ 
+ 				
+Milwaukee	1	+126	7.0	+1.5 -175
+SanDiego	3	-137	under	-1.5 +161
+ 
+				
+Boston	1	+125	8.0	+1.5 -165
+NYYankees	4	-135	under	-1.5 +152
+ 
+				
+Washington	3	-205	7.0	-1.5 -121
+Atlanta	0	+188	under	+1.5 +112
+ 
+				
+Minnesota	4	-109	7.5	-1.5 +150
+Cleveland	2	+101	under	+1.5 -163
+ 
+				
+Miami	1	-112	6.5	-1.5 +148
+TampaBay	4	+104	under	+1.5 -161
+ 
+				
+LAAngels	3	+101	9.0	+1.5 -200
+Texas	5	-109	under	-1.5 +183
+
+				
+KansasCity	6	-133	7.5	-1.5 +123
+ChiSox	4	+123	over	+1.5 -133
+ 
+  				
+Colorado	6	+188	8.5	+1.5 -110
+Arizona	8	-205	over	-1.5 +102
+ 
+
+				
+Cincinnati	4	+219	7.0	+1.5 +104
+Pittsburgh	6	-240	over	-1.5 -113
+ 
+				
+Boston	2	+115	7.5	+1.5 -182
+Cleveland	8	-124	over	-1.5 +167
+ 
+				
+Toronto	8	-126	7.5	-1.5 +138
+TampaBay	4	+116	over	+1.5 -150
+ 
+				
+St.Louis	0	-121	6.5	-1.5 +138
+Atlanta	4	+112	under	+1.5 -150
+ 
+				
+LAAngels	2	+108	9.5	+1.5 -177
+Texas	1	-117	under	-1.5 +163
+ 
+				
+KansasCity	3	+106	7.5	+1.5 -195
+Minnesota	1	-115	under	-1.5 +179
+ 
+				
+ChiCubs	6	-235	7.0	-1.5 -145
+Milwaukee	1	+214	push	+1.5 +134
+ 
+				
+Detroit	1	+206	7.0	+1.5 -109
+ChiSox	2	-225	under	-1.5 +101
+ 
+ 				
+Houston	21	-167	8.5	-1.5 -101
+Arizona	5	+154	over	+1.5 -107
+ 
+				
+SanDiego	2	+179	7.5	+1.5 -123
+LADodgers	6	-195	over	-1.5 +114
+ 
+				
+Oakland	4	+171	7.5	+1.5 -121
+Seattle	2	-186	under	-1.5 +112
+ 
+				
+Colorado	9	+131	7.0	+1.5 -168
+SFGiants	3	-142	over	-1.5 +155
+ 
+ 				
+NYYankees	2	+136	7.5	+1.5 -151
+Baltimore	9	-148	over	-1.5 +139
+ 
+				
+KansasCity	5	-120	7.5	-1.5 +141
+Minnesota	1	+111	under	+1.5 -153
+ 
+				
+LAAngels	11	+101	9.0	+1.5 -203
+Texas	10	-109	over	-1.5 +186
+ 
+				
+Washington	3	+141	6.5	+1.5 -166
+NYMets	1	-153	under	-1.5 +153
+ 
+				
+Colorado	2	+116	7.5	+1.5 -177
+SFGiants	3	-126	under	-1.5 +163
+ 
+				
+Miami	7	-118	7.5	-1.5 +137
+Philadelphia	6	+109	over	+1.5 -149
+ 
+				
+Toronto	3	+102	7.0	-1.5 +173
+TampaBay	4	-110	push	+1.5 -188
+ 
+				
+NYYankees	3	-113	7.5	-1.5 +138
+Baltimore	4	+104	under	+1.5 -150
+ 
+				
+Cincinnati	3	+170	7.5	+1.5 -127
+Pittsburgh	1	-185	under	-1.5 +117
+ 
+				
+Boston	0	+178	7.5	+1.5 -124
+Cleveland	2	-194	under	-1.5 +115
+ 
+				
+Washington	2	+104	6.5	+1.5 -230
+NYMets	0	-113	under	-1.5 +210
+ 
+				
+ChiCubs	1	-195	8.0	-1.5 -127
+Milwaukee	0	+179	under	+1.5 +117
+ 
+				
+Detroit	3	-123	7.0	-1.5 +138
+ChiSox	4	+114	push	+1.5 -150
+ 
+				
+Miami	5	-134	7.5	-1.5 +126
+Philadelphia	2	+124	under	+1.5 -137
+ 
+				
+Houston	6	-161	8.5	-1.5 -104
+Arizona	2	+148	under	+1.5 -104
+ 
+				
+SanDiego	1	+273	6.5	+1.5 +123
+LADodgers	2	-302	under	-1.5 -133
+ 
+				
+Oakland	7	+134	8.0	+1.5 -158
+Seattle	5	-145	over	-1.5 +146
+ 
+   				
+St.Louis	0	-145	7.0	-1.5 +108
+Atlanta	6	+134	under	+1.5 -117
+ 
+				
+Miami	2	-128	7.5	-1.5 +127
+Philadelphia	7	+118	over	+1.5 -138
+ 
+				
+LAAngels	2	+110	8.5	+1.5 -196
+Texas	9	-119	over	-1.5 +180
+ 
+				
+Colorado	7	+108	7.5	+1.5 -195
+SFGiants	3	-117	over	-1.5 +179
+ 
+				
+NYYankees	4	-139	8.0	-1.5 +115
+Baltimore	9	+128	over	+1.5 -124
+ 
+				
+Cincinnati	0	+183	7.5	+1.5 -118
+Pittsburgh	4	-200	under	-1.5 +109
+ 
+				
+Boston	1	+109	7.5	+1.5 -191
+Cleveland	3	-118	under	-1.5 +175
+ 
+				
+KansasCity	6	-171	8.0	-1.5 -104
+Minnesota	1	+157	under	+1.5 -104
+ 
+				
+Washington	0	+188	7.0	+1.5 -118
+NYMets	1	-205	under	-1.5 +109
+ 
+				
+Oakland	2	+106	8.0	+1.5 -209
+Seattle	3	-115	under	-1.5 +191
+ 
+				
+Detroit	6	+119	8.5	+1.5 -165
+ChiSox	0	-129	under	-1.5 +152
+ 
+				
+Houston	3	-150	8.5	-1.5 +108
+Arizona	5	+138	under	+1.5 -117
+ 
+				
+SanDiego	3	+305	6.5	+1.5 +120
+LADodgers	6	-340	over	-1.5 -130
+ 
+				
+ChiCubs	3	-130	8.0	-1.5 +129
+Milwaukee	1	+120	under	+1.5 -140
+ 
+				
+Toronto	3	-147	8.5	-1.5 +108
+TampaBay	12	+136	over	+1.5 -117
+ 
+  				
+St.Louis	0	-138	7.5	-1.5 +125
+Atlanta	2	+127	under	+1.5 -135
+ 
+  				
+Houston	3	-106	7.0	-1.5 +159
+NYYankees	0	-102	under	+1.5 -173
+ 
+ 				
+ChiCubs	4	-127	5.5	-1.5 +149
+Pittsburgh	0	+117	under	+1.5 -162
+ 
+   
+
+				
+Texas	5	+210	8.0	+1.5 +107
+Toronto	3	-230	push	-1.5 -116
+ 
+  				
+Houston	5	+120	7.5	+1.5 -169
+KansasCity	2	-130	under	-1.5 +156
+ 
+  
+  				
+Texas	6	+154	7.5	+1.5 -132
+Toronto	4	-167	over	-1.5 +122
+ 
+  				
+Houston	4	+116	7.5	+1.5 -180
+KansasCity	5	-126	over	-1.5 +165
+ 
+  				
+ChiCubs	0	+104	6.5	+1.5 -219
+St.Louis	4	-112	under	-1.5 +200
+ 
+  				
+NYMets	3	+174	5.5	+1.5 -146
+LADodgers	1	-190	under	-1.5 +135
+ 
+   				
+ChiCubs	6	+126	6.5	+1.5 -185
+St.Louis	3	-137	over	-1.5 +170
+ 
+  				
+NYMets	2	+156	6.0	+1.5 -153
+LADodgers	5	-170	over	-1.5 +141
+ 
+   				
+KansasCity	2	+156	7.5	+1.5 -128
+Houston	4	-170	under	-1.5 +118
+ 
+  				
+Toronto	5	-136	10.0	-1.5 +115
+Texas	1	+126	under	+1.5 -125
+ 
+  				
+KansasCity	9	+114	7.5	+1.5 -180
+Houston	6	-123	over	-1.5 +165
+ 
+  				
+Toronto	8	-149	10.0	-1.5 +112
+Texas	4	+137	over	+1.5 -121
+ 
+  				
+St.Louis	6	+185	7.0	+1.5 -115
+ChiCubs	8	-202	over	-1.5 +106
+ 
+ 				
+LADodgers	7	+151	7.0	+1.5 -150
+NYMets	13	-164	over	-1.5 +138
+  				
+St.Louis	4	+111	8.5	+1.5 -199
+ChiCubs	6	-120	over	-1.5 +182
+ 
+  				
+LADodgers	3	-146	6.5	-1.5 +126
+NYMets	1	+135	under	+1.5 -137
+  				
+Texas	3	+152	8.0	+1.5 -131
+Toronto	6	-165	over	-1.5 +121
+ 
+  				
+Houston	2	+116	7.5	+1.5 -180
+KansasCity	7	-126	over	-1.5 +165
+ 
+  				
+NYMets	3	+129	6.0	+1.5 -193
+LADodgers	2	-140	under	-1.5 +177
+ 
+   				
+Toronto	0	-116	8.0	-1.5 +149
+KansasCity	5	+107	under	+1.5 -162
+ 
+ 				
+Toronto	3	-147	7.0	-1.5 +117
+KansasCity	6	+136	over	+1.5 -127
+ 
+				
+ChiCubs	2	+115	6.0	+1.5 -213
+NYMets	4	-125	push	-1.5 +195
+ 
+  				
+ChiCubs	1	-135	5.5	-1.5 +133
+NYMets	4	+125	under	+1.5 -144
+ 
+  				
+KansasCity	8	+141	8.0	+1.5 -153
+Toronto	11	-153	over	-1.5 +141
+ 
+   				
+KansasCity	14	+142	9.0	+1.5 -134
+Toronto	2	-154	over	-1.5 +124
+ 
+  				
+NYMets	5	-107	7.5	-1.5 +161
+ChiCubs	2	-101	under	+1.5 -175
+ 
+  				
+KansasCity	1	+125	9.0	+1.5 -159
+Toronto	7	-135	under	-1.5 +146
+   				
+NYMets	8	+101	9.0	+1.5 -203
+ChiCubs	3	-109	over	-1.5 +186
+ 
+   				
+Toronto	3	-141	7.5	-1.5 +115
+KansasCity	4	+130	under	+1.5 -125
+ 
+   				
+NYMets	4	+101	7.0	-1.5 +165
+KansasCity	5	-109	over	+1.5 -180
+ 
+   				
+NYMets	1	-118	7.0	-1.5 +145
+KansasCity	7	+109	over	+1.5 -157
+ 
+   				
+KansasCity	3	+126	6.5	+1.5 -178
+NYMets	9	-137	over	-1.5 +164
+
+   				
+KansasCity	5	+120	7.0	+1.5 -192
+NYMets	3	-130	over	-1.5 +176
+
+ 
+KansasCity	7	+137	7.0	+1.5 -165
+NYMets	2	-149	over	-1.5 +152
